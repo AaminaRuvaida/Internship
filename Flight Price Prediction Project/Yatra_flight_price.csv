@@ -1,0 +1,3694 @@
+,Airlines,Source,Destination,Departure,Arrival,Duration,Price
+0,IndiGo,Chennai,Bangalore,07:45,08:40,00:55,"5,518"
+1,Air Asia,Bangalore,Bangalore,22:35,23:30,00:55,"5,518"
+2,IndiGo,Chennai,Bangalore,21:35,22:35,01:00,"5,518"
+3,IndiGo,Bangalore,Bangalore,11:20,12:10,00:50,"5,833"
+4,IndiGo,Chennai,Bangalore,19:10,19:55,00:45,"6,201"
+5,IndiGo,Bangalore,Bangalore,13:00,14:00,01:00,"6,358"
+6,IndiGo,Chennai,Bangalore,16:20,17:15,00:55,"7,618"
+7,Vistara,Bangalore,Bangalore,09:45,"07:50
+ ",22:05,"10,994"
+8,Vistara,Chennai,Bangalore,07:00,"07:50
+ ",00:50,"10,994"
+9,Vistara,Bangalore,Bangalore,09:45,20:55,11:10,"11,438"
+10,Vistara,Chennai,Bangalore,09:45,23:10,13:25,"11,438"
+11,Vistara,Bangalore,Bangalore,07:00,20:55,13:55,"11,438"
+12,Vistara,Chennai,Bangalore,07:00,23:10,16:10,"11,438"
+13,Vistara,Bangalore,Bangalore,12:30,19:15,06:45,"12,026"
+14,Vistara,Chennai,Bangalore,12:30,20:55,08:25,"12,026"
+15,Vistara,Bangalore,Bangalore,09:45,19:15,09:30,"12,026"
+16,Vistara,Chennai,Bangalore,12:30,23:10,10:40,"12,026"
+17,Vistara,Bangalore,Bangalore,20:30,"07:50
+ ",11:20,"12,026"
+18,Vistara,Chennai,Bangalore,07:00,19:15,12:15,"12,026"
+19,Vistara,Bangalore,Bangalore,12:30,"07:50
+ ",19:20,"12,026"
+20,Vistara,Chennai,Bangalore,20:30,"17:45
+ ",21:15,"12,026"
+21,Vistara,Bangalore,Bangalore,20:30,"18:15
+ ",21:45,"12,026"
+22,Vistara,Chennai,Bangalore,20:30,"19:15
+ ",22:45,"12,026"
+23,Vistara,Bangalore,Bangalore,12:30,17:45,05:15,"12,761"
+24,Vistara,Chennai,Bangalore,12:30,18:15,05:45,"12,761"
+25,Vistara,Bangalore,Bangalore,09:45,17:45,08:00,"12,761"
+26,Vistara,Chennai,Bangalore,09:45,18:15,08:30,"12,761"
+27,Vistara,Bangalore,Bangalore,07:00,17:45,10:45,"12,761"
+28,Vistara,Chennai,Bangalore,07:00,18:15,11:15,"12,761"
+29,Go First,Bangalore,Bangalore,13:40,21:55,08:15,"15,250"
+30,Air India,Chennai,Bangalore,06:10,"07:50
+ ",01:40,"15,388"
+31,Air India,Bangalore,Bangalore,06:10,11:10,05:00,"15,598"
+32,Air India,Chennai,Bangalore,06:10,18:20,12:10,"15,598"
+33,Vistara,Bangalore,Bangalore,09:45,"08:45
+ ",23:00,"15,748"
+34,Vistara,Chennai,Bangalore,07:00,"08:45
+ ",01:45,"15,748"
+35,Vistara,Bangalore,Bangalore,09:45,"19:30
+ ",09:45,"15,748"
+36,Vistara,Chennai,Bangalore,07:00,"19:30
+ ",12:30,"15,748"
+37,Vistara,Bangalore,Bangalore,09:45,"19:30
+ ",09:45,"16,192"
+38,Vistara,Chennai,Bangalore,07:00,"19:30
+ ",12:30,"16,192"
+39,Vistara,Bangalore,Bangalore,12:30,"08:45
+ ",20:15,"16,707"
+40,Vistara,Chennai,Bangalore,20:30,"19:30
+ ",23:00,"16,707"
+41,Vistara,Bangalore,Bangalore,12:30,"19:30
+ ",07:00,"16,707"
+42,Vistara,Chennai,Bangalore,12:30,"19:30
+ ",07:00,"16,707"
+43,Vistara,Bangalore,Bangalore,20:30,"19:30
+ ",23:00,"17,442"
+44,Vistara,Chennai,Bangalore,12:30,"19:30
+ ",07:00,"17,442"
+45,Vistara,Bangalore,Bangalore,09:45,"19:30
+ ",09:45,"17,442"
+46,Vistara,Chennai,Bangalore,09:45,21:50,12:05,"17,515"
+47,Vistara,Bangalore,Bangalore,07:00,21:50,14:50,"17,515"
+48,Vistara,Chennai,Bangalore,20:30,"21:50
+ ",01:20,"18,252"
+49,Air India,Bangalore,Bangalore,20:15,"08:55
+ ",12:40,"20,953"
+50,Vistara,Chennai,Bangalore,10:35,19:15,08:40,"21,833"
+51,Vistara,Bangalore,Bangalore,07:00,15:55,08:55,"23,429"
+52,Air India,Chennai,Bangalore,16:55,"00:05
+ ",07:10,"24,943"
+53,SpiceJet,Bangalore,Bangalore,05:55,19:25,13:30,"26,307"
+54,Air India,Chennai,Bangalore,06:00,12:30,06:30,"26,413"
+55,Alliance Air,Bangalore,Hyderabad,08:55,10:35,01:40,"5,256"
+56,IndiGo,Chennai,Hyderabad,21:20,22:25,01:05,"6,043"
+57,IndiGo,Bangalore,Hyderabad,04:50,06:00,01:10,"6,043"
+58,IndiGo,Chennai,Hyderabad,06:35,07:45,01:10,"6,043"
+59,Air Asia,Bangalore,Hyderabad,10:15,11:25,01:10,"6,044"
+60,IndiGo,Chennai,Hyderabad,16:25,17:20,00:55,"6,673"
+61,IndiGo,Bangalore,Hyderabad,10:35,14:25,03:50,"6,778"
+62,IndiGo,Chennai,Hyderabad,15:40,19:50,04:10,"6,778"
+63,IndiGo,Bangalore,Hyderabad,20:30,"01:15
+ ",04:45,"6,778"
+64,IndiGo,Chennai,Hyderabad,16:15,21:45,05:30,"6,778"
+65,IndiGo,Bangalore,Hyderabad,06:55,12:45,05:50,"6,778"
+66,IndiGo,Chennai,Hyderabad,15:40,21:45,06:05,"6,778"
+67,IndiGo,Bangalore,Hyderabad,14:35,21:45,07:10,"6,778"
+68,IndiGo,Chennai,Hyderabad,06:55,14:25,07:30,"6,778"
+69,IndiGo,Bangalore,Hyderabad,21:35,"06:30
+ ",08:55,"6,778"
+70,IndiGo,Chennai,Hyderabad,14:10,20:00,05:50,"7,041"
+71,IndiGo,Bangalore,Hyderabad,14:35,18:45,04:10,"8,353"
+72,IndiGo,Chennai,Hyderabad,10:35,17:45,07:10,"8,353"
+73,Air Asia,Bangalore,Hyderabad,22:35,"08:45
+ ",10:10,"8,354"
+74,IndiGo,Chennai,Hyderabad,18:40,22:15,03:35,"8,616"
+75,IndiGo,Bangalore,Hyderabad,17:00,17:55,00:55,"8,773"
+76,IndiGo,Chennai,Hyderabad,12:35,18:45,06:10,"8,878"
+77,IndiGo,Bangalore,Hyderabad,16:20,23:20,07:00,"8,878"
+78,IndiGo,Chennai,Hyderabad,19:10,23:20,04:10,"9,141"
+79,IndiGo,Bangalore,Hyderabad,10:20,18:20,08:00,"9,666"
+80,IndiGo,Chennai,Hyderabad,19:25,20:35,01:10,"9,718"
+81,IndiGo,Bangalore,Hyderabad,13:00,21:10,08:10,"9,928"
+82,Vistara,Chennai,Hyderabad,09:45,20:55,11:10,"10,185"
+83,Vistara,Bangalore,Hyderabad,07:00,20:55,13:55,"10,185"
+84,IndiGo,Chennai,Hyderabad,08:40,12:55,04:15,"10,191"
+85,IndiGo,Bangalore,Hyderabad,09:25,10:45,01:20,"10,348"
+86,IndiGo,Chennai,Hyderabad,07:45,13:55,06:10,"10,453"
+87,Vistara,Bangalore,Hyderabad,09:45,"07:50
+ ",22:05,"10,629"
+88,Vistara,Chennai,Hyderabad,07:00,"07:50
+ ",00:50,"10,629"
+89,IndiGo,Bangalore,Hyderabad,12:00,13:05,01:05,"10,978"
+90,IndiGo,Chennai,Hyderabad,07:45,11:25,03:40,"10,978"
+91,Vistara,Bangalore,Hyderabad,12:30,20:55,08:25,"11,144"
+92,Vistara,Chennai,Hyderabad,20:30,"07:50
+ ",11:20,"11,144"
+93,Vistara,Bangalore,Hyderabad,12:30,"07:50
+ ",19:20,"11,144"
+94,Vistara,Chennai,Hyderabad,20:30,"18:25
+ ",21:55,"11,144"
+95,Vistara,Bangalore,Hyderabad,20:30,"20:55
+ ",00:25,"11,144"
+96,Vistara,Chennai,Hyderabad,20:30,"22:40
+ ",02:10,"11,144"
+97,IndiGo,Bangalore,Hyderabad,16:20,21:10,04:50,"11,241"
+98,IndiGo,Chennai,Hyderabad,11:20,20:05,08:45,"11,503"
+99,IndiGo,Bangalore,Hyderabad,11:30,19:15,07:45,"11,818"
+100,Vistara,Chennai,Hyderabad,20:30,"12:15
+ ",15:45,"11,879"
+101,Vistara,Bangalore,Hyderabad,12:30,"12:15
+ ",23:45,"11,879"
+102,Vistara,Chennai,Hyderabad,09:45,"12:15
+ ",02:30,"11,879"
+103,IndiGo,Bangalore,Hyderabad,11:20,16:55,05:35,"12,028"
+104,IndiGo,Chennai,Hyderabad,13:00,20:05,07:05,"12,711"
+105,IndiGo,Bangalore,Hyderabad,13:00,16:55,03:55,"13,341"
+106,Vistara,Chennai,Hyderabad,07:05,22:55,15:50,"13,643"
+107,IndiGo,Bangalore,Hyderabad,16:20,20:05,03:45,"13,971"
+108,Go First,Chennai,Hyderabad,13:40,21:00,07:20,"14,096"
+109,Vistara,Bangalore,Hyderabad,10:35,19:50,09:15,"14,378"
+110,Vistara,Chennai,Hyderabad,10:35,22:55,12:20,"14,378"
+111,Vistara,Hyderabad,Hyderabad,07:05,19:50,12:45,"14,378"
+112,Air India,Chennai,Hyderabad,06:10,21:40,15:30,"14,443"
+113,IndiGo,Hyderabad,Hyderabad,08:15,13:30,05:15,"15,388"
+114,Air India,Chennai,Hyderabad,08:10,21:15,13:05,"16,228"
+115,Vistara,Hyderabad,Hyderabad,07:00,12:15,05:15,"16,436"
+116,Vistara,Chennai,Hyderabad,09:45,18:25,08:40,"16,436"
+117,Vistara,Hyderabad,Hyderabad,07:00,18:25,11:25,"16,436"
+118,Vistara,Chennai,Hyderabad,09:45,"21:10
+ ",11:25,"16,557"
+119,Vistara,Hyderabad,Hyderabad,07:00,"21:10
+ ",14:10,"16,557"
+120,Vistara,Chennai,Hyderabad,12:30,18:25,05:55,"17,173"
+121,Vistara,Hyderabad,Hyderabad,20:30,"21:10
+ ",00:40,"17,589"
+122,Vistara,Chennai,Hyderabad,20:30,"21:10
+ ",00:40,"17,589"
+123,Vistara,Hyderabad,Hyderabad,20:30,"21:10
+ ",00:40,"17,589"
+124,Vistara,Chennai,Hyderabad,20:30,"21:10
+ ",00:40,"17,589"
+125,Vistara,Hyderabad,Hyderabad,09:45,"08:55
+ ",23:10,"18,158"
+126,Vistara,Chennai,Hyderabad,07:05,20:55,13:50,"18,174"
+127,Vistara,Hyderabad,Hyderabad,07:05,20:55,13:50,"18,174"
+128,Vistara,Chennai,Hyderabad,12:30,21:10,08:40,"18,221"
+129,Vistara,Hyderabad,Hyderabad,09:45,21:10,11:25,"18,221"
+130,Vistara,Chennai,Hyderabad,07:00,21:10,14:10,"18,221"
+131,IndiGo,Hyderabad,Hyderabad,17:50,23:15,05:25,"18,344"
+132,Vistara,Chennai,Hyderabad,12:30,21:10,08:40,"18,956"
+133,Vistara,Hyderabad,Hyderabad,12:30,21:10,08:40,"18,956"
+134,Vistara,Chennai,Hyderabad,09:45,21:10,11:25,"18,956"
+135,Vistara,Hyderabad,Hyderabad,09:45,21:10,11:25,"18,956"
+136,Vistara,Chennai,Hyderabad,07:00,21:10,14:10,"18,956"
+137,Vistara,Hyderabad,Hyderabad,07:00,21:10,14:10,"18,956"
+138,Vistara,Chennai,Hyderabad,07:05,17:00,09:55,"19,481"
+139,Air India,Hyderabad,Hyderabad,20:15,"09:25
+ ",13:10,"20,113"
+140,Vistara,Chennai,Hyderabad,21:05,"12:40
+ ",15:35,"20,533"
+141,Vistara,Hyderabad,Hyderabad,10:35,17:00,06:25,"20,743"
+142,Air India,Chennai,Hyderabad,20:15,"11:50
+ ",15:35,"21,006"
+143,Air India,Hyderabad,Hyderabad,09:55,23:45,13:50,"21,531"
+144,Air India,Chennai,Hyderabad,20:15,"19:30
+ ",23:15,"22,108"
+145,Vistara,Hyderabad,Hyderabad,21:05,"09:25
+ ",12:20,"23,263"
+146,Air India,Chennai,Hyderabad,16:55,"09:25
+ ",16:30,"24,103"
+147,Air India,Hyderabad,Hyderabad,06:00,23:45,17:45,"25,311"
+148,Air India,Chennai,Hyderabad,16:55,23:45,06:50,"25,521"
+149,Vistara,Hyderabad,Hyderabad,17:15,"12:40
+ ",19:25,"28,933"
+150,Vistara,Chennai,Hyderabad,17:15,"09:25
+ ",16:10,"31,663"
+151,IndiGo,Hyderabad,Goa,17:50,19:20,01:30,"7,198"
+152,Air Asia,Chennai,Goa,10:15,18:00,07:45,"7,198"
+153,Air Asia,Hyderabad,Goa,10:15,19:25,09:10,"7,198"
+154,SpiceJet,Chennai,Goa,22:00,"12:55
+ ",14:55,"7,198"
+155,SpiceJet,Hyderabad,Goa,22:00,"17:05
+ ",19:05,"7,198"
+156,IndiGo,Chennai,Goa,19:10,22:40,03:30,"7,933"
+157,IndiGo,Hyderabad,Goa,21:35,"01:55
+ ",04:20,"7,933"
+158,IndiGo,Chennai,Goa,12:55,18:10,05:15,"7,933"
+159,IndiGo,Hyderabad,Goa,09:30,15:15,05:45,"7,933"
+160,IndiGo,Chennai,Goa,11:50,18:10,06:20,"7,933"
+161,IndiGo,Hyderabad,Goa,07:45,14:10,06:25,"7,933"
+162,IndiGo,Chennai,Goa,19:10,"01:55
+ ",06:45,"7,933"
+163,IndiGo,Hyderabad,Goa,08:05,15:15,07:10,"7,933"
+164,IndiGo,Chennai,Goa,13:00,20:40,07:40,"7,933"
+165,IndiGo,Hyderabad,Goa,22:20,"06:15
+ ",07:55,"7,933"
+166,IndiGo,Chennai,Goa,09:30,18:10,08:40,"7,933"
+167,IndiGo,Hyderabad,Goa,11:20,20:40,09:20,"7,933"
+168,IndiGo,Chennai,Goa,13:00,22:40,09:40,"7,933"
+169,IndiGo,Hyderabad,Goa,20:25,"06:15
+ ",09:50,"7,933"
+170,IndiGo,Chennai,Goa,04:50,14:00,09:10,"8,574"
+171,IndiGo,Hyderabad,Goa,16:20,20:40,04:20,"8,894"
+172,IndiGo,Chennai,Goa,16:20,22:40,06:20,"8,894"
+173,IndiGo,Hyderabad,Goa,04:05,12:40,08:35,"8,894"
+174,IndiGo,Chennai,Goa,16:20,"01:55
+ ",09:35,"8,894"
+175,IndiGo,Hyderabad,Goa,06:35,14:00,07:25,"9,534"
+176,IndiGo,Chennai,Goa,18:05,23:20,05:15,"10,815"
+177,SpiceJet,Hyderabad,Goa,19:40,"00:25
+ ",04:45,"10,947"
+178,IndiGo,Chennai,Goa,09:25,17:35,08:10,"11,136"
+179,IndiGo,Hyderabad,Goa,21:20,"06:50
+ ",09:30,"11,503"
+180,Vistara,Chennai,Goa,07:00,12:45,05:45,"11,879"
+181,Vistara,Hyderabad,Goa,20:30,"12:45
+ ",16:15,"11,879"
+182,Vistara,Chennai,Goa,12:30,"12:45
+ ",00:15,"11,879"
+183,Vistara,Hyderabad,Goa,09:45,"12:45
+ ",03:00,"11,879"
+184,IndiGo,Chennai,Goa,16:25,21:30,05:05,"12,133"
+185,IndiGo,Hyderabad,Goa,16:25,23:00,06:35,"12,133"
+186,IndiGo,Chennai,Goa,12:00,17:35,05:35,"12,737"
+187,IndiGo,Hyderabad,Goa,12:00,21:30,09:30,"13,057"
+188,Vistara,Chennai,Goa,07:05,21:20,14:15,"13,199"
+189,IndiGo,Hyderabad,Goa,09:25,14:00,04:35,"13,377"
+190,Air India,Chennai,Goa,06:10,22:20,16:10,"13,918"
+191,IndiGo,Hyderabad,Goa,17:00,21:30,04:30,"14,018"
+192,IndiGo,Chennai,Goa,17:00,23:00,06:00,"14,018"
+193,Air India,Hyderabad,Goa,06:10,"06:20
+ ",00:10,"14,233"
+194,Air India,Chennai,Goa,06:10,14:35,08:25,"14,443"
+195,SpiceJet,Hyderabad,Goa,19:40,"13:10
+ ",17:30,"14,559"
+196,Air Asia,Chennai,New Delhi,10:15,"01:10
+ ",14:55,"9,056"
+197,Vistara,Hyderabad,New Delhi,07:05,09:55,02:50,"9,506"
+198,IndiGo,Chennai,New Delhi,08:45,11:30,02:45,"9,508"
+199,IndiGo,Hyderabad,New Delhi,10:40,13:25,02:45,"9,508"
+200,SpiceJet,Chennai,New Delhi,06:05,08:55,02:50,"9,508"
+201,IndiGo,Hyderabad,New Delhi,06:20,09:10,02:50,"9,508"
+202,IndiGo,Chennai,New Delhi,22:50,"01:45
+ ",02:55,"9,508"
+203,SpiceJet,Hyderabad,New Delhi,22:00,"09:35
+ ",11:35,"9,508"
+204,SpiceJet,Chennai,New Delhi,18:30,"09:05
+ ",14:35,"9,508"
+205,SpiceJet,Hyderabad,New Delhi,06:40,23:55,17:15,"9,508"
+206,SpiceJet,Chennai,New Delhi,22:00,"18:20
+ ",20:20,"9,508"
+207,SpiceJet,Hyderabad,New Delhi,18:30,"17:45
+ ",23:15,"9,508"
+208,SpiceJet,Chennai,New Delhi,22:00,"22:00
+ ",00:00,"9,508"
+209,SpiceJet,Hyderabad,New Delhi,06:40,"09:05
+ ",02:25,"9,508"
+210,IndiGo,Chennai,New Delhi,13:30,16:20,02:50,"10,054"
+211,IndiGo,Hyderabad,New Delhi,06:35,12:10,05:35,"10,348"
+212,IndiGo,Chennai,New Delhi,21:35,"03:30
+ ",05:55,"10,348"
+213,IndiGo,Hyderabad,New Delhi,19:10,"02:00
+ ",06:50,"10,348"
+214,IndiGo,Chennai,New Delhi,04:50,12:10,07:20,"10,348"
+215,IndiGo,Hyderabad,New Delhi,16:35,19:25,02:50,"10,366"
+216,Vistara,Chennai,New Delhi,10:35,13:25,02:50,"10,768"
+217,Air India,Hyderabad,New Delhi,20:15,23:05,02:50,"11,188"
+218,Air India,Chennai,New Delhi,09:55,13:00,03:05,"11,188"
+219,IndiGo,Hyderabad,New Delhi,19:25,"00:45
+ ",05:20,"11,193"
+220,IndiGo,Chennai,New Delhi,19:10,"03:30
+ ",08:20,"11,193"
+221,IndiGo,Hyderabad,New Delhi,19:35,22:25,02:50,"11,457"
+222,IndiGo,Chennai,New Delhi,18:15,21:05,02:50,"11,873"
+223,Vistara,Hyderabad,New Delhi,21:05,23:55,02:50,"12,028"
+224,Air Asia,Chennai,New Delhi,22:35,"03:20
+ ",04:45,"12,028"
+225,IndiGo,Hyderabad,New Delhi,06:35,13:55,07:20,"12,884"
+226,SpiceJet,Chennai,New Delhi,19:40,"04:40
+ ",09:00,"13,467"
+227,SpiceJet,Hyderabad,New Delhi,19:40,"08:50
+ ",13:10,"13,467"
+228,SpiceJet,Chennai,New Delhi,19:40,"19:45
+ ",00:05,"13,467"
+229,IndiGo,Hyderabad,New Delhi,16:25,23:30,07:05,"13,729"
+230,IndiGo,Chennai,New Delhi,16:40,21:55,05:15,"14,601"
+231,IndiGo,Hyderabad,New Delhi,16:40,23:25,06:45,"14,601"
+232,IndiGo,Chennai,New Delhi,16:25,"00:45
+ ",08:20,"14,811"
+233,Air India,Hyderabad,New Delhi,06:00,08:55,02:55,"14,968"
+234,Air India,Chennai,New Delhi,16:55,19:50,02:55,"15,178"
+235,IndiGo,Hyderabad,New Delhi,19:10,"00:45
+ ",05:35,"15,178"
+236,SpiceJet,Chennai,New Delhi,06:40,17:45,11:05,"15,199"
+237,IndiGo,Hyderabad,New Delhi,16:25,22:20,05:55,"15,420"
+238,IndiGo,Chennai,New Delhi,16:20,"00:45
+ ",08:25,"15,420"
+239,SpiceJet,Hyderabad,New Delhi,05:55,20:50,14:55,"15,912"
+240,Air India,Chennai,New Delhi,08:10,"09:15
+ ",01:05,"16,018"
+241,Air India,Hyderabad,New Delhi,08:10,"13:00
+ ",04:50,"16,018"
+242,Vistara,Chennai,New Delhi,09:45,"08:20
+ ",22:35,"16,045"
+243,Vistara,Hyderabad,New Delhi,09:45,"10:25
+ ",00:40,"16,045"
+244,Vistara,Chennai,New Delhi,07:00,"08:20
+ ",01:20,"16,045"
+245,Vistara,Hyderabad,New Delhi,07:00,"10:25
+ ",03:25,"16,045"
+246,Vistara,Chennai,New Delhi,09:45,"22:10
+ ",12:25,"16,045"
+247,Air India,Hyderabad,New Delhi,08:10,22:35,14:25,"16,228"
+248,Go First,Chennai,New Delhi,13:40,19:00,05:20,"16,720"
+249,Go First,Hyderabad,New Delhi,13:40,20:05,06:25,"16,720"
+250,Go First,Chennai,New Delhi,13:40,23:35,09:55,"16,720"
+251,Go First,Hyderabad,New Delhi,13:40,"00:50
+ ",11:10,"16,720"
+252,Vistara,Chennai,New Delhi,12:30,"08:20
+ ",19:50,"16,782"
+253,Vistara,Hyderabad,New Delhi,12:30,"10:25
+ ",21:55,"16,782"
+254,Vistara,Chennai,New Delhi,09:45,14:30,04:45,"16,854"
+255,Vistara,Hyderabad,New Delhi,07:00,12:40,05:40,"16,854"
+256,Vistara,Chennai,New Delhi,07:00,14:30,07:30,"16,854"
+257,Vistara,Hyderabad,New Delhi,09:45,19:45,10:00,"16,854"
+258,Vistara,Chennai,New Delhi,09:45,20:40,10:55,"16,854"
+259,Vistara,Hyderabad,New Delhi,09:45,21:55,12:10,"16,854"
+260,Vistara,Chennai,New Delhi,07:00,19:45,12:45,"16,854"
+261,Vistara,Hyderabad,New Delhi,09:45,23:00,13:15,"16,854"
+262,Vistara,Chennai,New Delhi,07:00,20:40,13:40,"16,854"
+263,Vistara,Hyderabad,New Delhi,09:45,"00:10
+ ",14:25,"16,854"
+264,Vistara,Chennai,New Delhi,07:00,21:55,14:55,"16,854"
+265,Vistara,Hyderabad,New Delhi,09:45,"00:55
+ ",15:10,"16,854"
+266,Vistara,Chennai,New Delhi,07:00,23:00,16:00,"16,854"
+267,Vistara,Hyderabad,New Delhi,07:00,"00:10
+ ",17:10,"16,854"
+268,Vistara,Chennai,New Delhi,07:00,"00:55
+ ",17:55,"16,854"
+269,Vistara,Hyderabad,New Delhi,09:45,"10:25
+ ",00:40,"16,903"
+270,Vistara,Chennai,New Delhi,07:00,"10:25
+ ",03:25,"16,903"
+271,IndiGo,Hyderabad,New Delhi,17:00,"00:45
+ ",07:45,"16,911"
+272,Air India,Chennai,New Delhi,06:10,12:20,06:10,"17,068"
+273,Air India,Hyderabad,New Delhi,06:10,15:15,09:05,"17,068"
+274,Air India,Chennai,New Delhi,06:10,18:20,12:10,"17,068"
+275,Air India,Hyderabad,New Delhi,06:10,19:10,13:00,"17,068"
+276,Air India,Chennai,New Delhi,06:10,20:10,14:00,"17,068"
+277,Air India,Hyderabad,New Delhi,06:10,21:15,15:05,"17,068"
+278,IndiGo,Chennai,New Delhi,17:00,22:20,05:20,"17,110"
+279,IndiGo,Hyderabad,New Delhi,17:00,23:30,06:30,"17,110"
+280,IndiGo,Chennai,New Delhi,12:00,19:00,07:00,"17,110"
+281,Air India,Hyderabad,New Delhi,08:10,17:55,09:45,"17,121"
+282,Vistara,Chennai,New Delhi,09:45,"08:20
+ ",22:35,"17,307"
+283,Vistara,Hyderabad,New Delhi,09:45,"10:25
+ ",00:40,"17,307"
+284,Vistara,Chennai,New Delhi,07:00,"08:20
+ ",01:20,"17,307"
+285,Vistara,Hyderabad,New Delhi,12:30,19:45,07:15,"17,591"
+286,Vistara,Chennai,New Delhi,12:30,20:40,08:10,"17,591"
+287,Vistara,Hyderabad,New Delhi,12:30,21:55,09:25,"17,591"
+288,Vistara,Chennai,New Delhi,12:30,23:00,10:30,"17,591"
+289,Vistara,Hyderabad,New Delhi,20:30,"10:25
+ ",13:55,"17,727"
+290,IndiGo,Chennai,New Delhi,08:00,15:55,07:55,"17,751"
+291,Vistara,Hyderabad,New Delhi,12:30,"08:20
+ ",19:50,"17,862"
+292,IndiGo,Chennai,New Delhi,16:20,23:15,06:55,"18,433"
+293,IndiGo,Hyderabad,New Delhi,11:20,17:45,06:25,"18,801"
+294,IndiGo,Chennai,New Delhi,12:00,20:00,08:00,"18,801"
+295,Air Asia,Hyderabad,New Delhi,10:15,"02:05
+ ",15:50,"19,555"
+296,IndiGo,Chennai,New Delhi,07:45,14:40,06:55,"19,646"
+297,IndiGo,Hyderabad,New Delhi,12:00,18:35,06:35,"19,746"
+298,IndiGo,Chennai,New Delhi,11:20,19:15,07:55,"20,239"
+299,IndiGo,Hyderabad,New Delhi,09:25,16:15,06:50,"20,271"
+300,Vistara,Chennai,New Delhi,17:15,20:00,02:45,"20,428"
+301,IndiGo,Hyderabad,New Delhi,13:00,20:45,07:45,"20,491"
+302,SpiceJet,Chennai,New Delhi,12:10,"11:25
+ ",23:15,"20,606"
+303,IndiGo,Goa,New Delhi,13:00,19:15,06:15,"20,764"
+304,IndiGo,Chennai,New Delhi,16:20,22:00,05:40,"21,166"
+305,Vistara,Goa,New Delhi,09:45,16:55,07:10,"21,686"
+306,Vistara,Chennai,New Delhi,07:00,16:55,09:55,"21,686"
+307,IndiGo,Goa,New Delhi,11:20,16:40,05:20,"22,182"
+308,Vistara,Chennai,New Delhi,07:00,16:20,09:20,"23,016"
+309,Vistara,Goa,New Delhi,07:00,15:20,08:20,"23,161"
+310,Vistara,Chennai,New Delhi,07:00,14:05,07:05,"23,996"
+311,Vistara,Goa,New Delhi,09:45,18:05,08:20,"23,996"
+312,Vistara,Chennai,New Delhi,07:00,18:05,11:05,"23,996"
+313,SpiceJet,Goa,New Delhi,07:20,19:05,11:45,"24,369"
+314,Vistara,Chennai,New Delhi,12:30,18:05,05:35,"24,733"
+315,Vistara,Goa,New Delhi,07:00,15:35,08:35,"26,411"
+316,Vistara,Chennai,New Delhi,12:30,21:30,09:00,"30,401"
+317,Air India,Goa,New Delhi,05:05,14:45,09:40,"43,075"
+318,Vistara,Chennai,Mumbai,09:45,11:40,01:55,"8,666"
+319,Vistara,Goa,Mumbai,07:00,09:00,02:00,"8,666"
+320,IndiGo,Chennai,Mumbai,04:05,05:55,01:50,"8,668"
+321,IndiGo,Goa,Mumbai,08:05,09:55,01:50,"8,668"
+322,IndiGo,Chennai,Mumbai,11:50,13:40,01:50,"8,668"
+323,IndiGo,Goa,Mumbai,12:55,14:45,01:50,"8,668"
+324,IndiGo,Chennai,Mumbai,19:30,21:20,01:50,"8,668"
+325,Air India,Goa,Mumbai,06:10,08:05,01:55,"8,668"
+326,Go First,Chennai,Mumbai,13:40,15:35,01:55,"8,668"
+327,SpiceJet,Goa,Mumbai,22:00,23:55,01:55,"8,668"
+328,IndiGo,Chennai,Mumbai,22:20,"00:15
+ ",01:55,"8,668"
+329,IndiGo,Goa,Mumbai,20:25,22:30,02:05,"8,668"
+330,IndiGo,Chennai,Mumbai,09:30,11:40,02:10,"8,668"
+331,IndiGo,Goa,Mumbai,07:45,11:35,03:50,"8,983"
+332,IndiGo,Chennai,Mumbai,19:00,23:15,04:15,"8,983"
+333,IndiGo,Goa,Mumbai,06:25,11:00,04:35,"8,983"
+334,IndiGo,Chennai,Mumbai,04:50,09:45,04:55,"8,983"
+335,IndiGo,Goa,Mumbai,06:35,12:10,05:35,"8,983"
+336,IndiGo,Chennai,Mumbai,10:30,16:40,06:10,"8,983"
+337,IndiGo,Goa,Mumbai,04:50,12:10,07:20,"8,983"
+338,Vistara,Chennai,Mumbai,12:30,14:30,02:00,"9,403"
+339,Vistara,Goa,Mumbai,20:30,22:35,02:05,"9,403"
+340,SpiceJet,Chennai,Mumbai,05:55,10:55,05:00,"9,508"
+341,IndiGo,Goa,Mumbai,16:20,"00:30
+ ",08:10,"9,666"
+342,IndiGo,Chennai,Mumbai,18:05,19:55,01:50,"9,928"
+343,IndiGo,Goa,Mumbai,16:20,21:10,04:50,"10,689"
+344,IndiGo,Chennai,Mumbai,07:45,13:50,06:05,"10,689"
+345,IndiGo,Goa,Mumbai,07:45,15:35,07:50,"10,689"
+346,IndiGo,Chennai,Mumbai,16:15,23:15,07:00,"11,031"
+347,IndiGo,Goa,Mumbai,09:25,14:45,05:20,"11,372"
+348,IndiGo,Chennai,Mumbai,19:10,"00:30
+ ",05:20,"11,372"
+349,IndiGo,Goa,Mumbai,19:10,23:00,03:50,"12,396"
+350,Vistara,Chennai,Mumbai,07:05,14:00,06:55,"12,611"
+351,Vistara,Goa,Mumbai,07:05,15:00,07:55,"12,611"
+352,Vistara,Chennai,Mumbai,07:05,16:30,09:25,"12,611"
+353,Vistara,Goa,Mumbai,07:05,17:40,10:35,"12,611"
+354,Vistara,Chennai,Mumbai,07:05,19:05,12:00,"12,611"
+355,Vistara,Goa,Mumbai,07:05,20:05,13:00,"12,611"
+356,Vistara,Chennai,Mumbai,07:05,21:15,14:10,"12,611"
+357,Vistara,Goa,Mumbai,07:05,21:55,14:50,"12,611"
+358,Air India,Chennai,Mumbai,09:55,23:35,13:40,"12,915"
+359,Air India,Goa,Mumbai,20:15,"12:35
+ ",16:20,"12,915"
+360,Air India,Chennai,Mumbai,20:15,"16:15
+ ",20:00,"12,915"
+361,Air India,Goa,Mumbai,20:15,"18:10
+ ",21:55,"12,915"
+362,Air India,Chennai,Mumbai,20:15,"21:15
+ ",01:00,"12,915"
+363,Air India,Goa,Mumbai,20:15,"22:10
+ ",01:55,"12,915"
+364,IndiGo,Chennai,Mumbai,17:50,"01:30
+ ",07:40,"12,921"
+365,Vistara,Goa,Mumbai,07:05,23:30,16:25,"13,055"
+366,IndiGo,Chennai,Mumbai,11:20,18:30,07:10,"13,078"
+367,IndiGo,Goa,Mumbai,11:20,19:30,08:10,"13,078"
+368,Air India,Chennai,Mumbai,09:55,18:10,08:15,"13,125"
+369,Air India,Goa,Mumbai,09:55,21:15,11:20,"13,125"
+370,Air India,Chennai,Mumbai,09:55,22:10,12:15,"13,125"
+371,Air India,Goa,Mumbai,09:55,22:10,12:15,"13,125"
+372,Air India,Chennai,Mumbai,20:15,"09:05
+ ",12:50,"13,125"
+373,Air India,Goa,Mumbai,20:15,"10:10
+ ",13:55,"13,125"
+374,Air India,Chennai,Mumbai,09:55,"09:05
+ ",23:10,"13,125"
+375,Air India,Goa,Mumbai,09:55,"10:10
+ ",00:15,"13,125"
+376,IndiGo,Chennai,Mumbai,11:20,15:35,04:15,"13,419"
+377,IndiGo,Goa,Mumbai,06:35,11:40,05:05,"13,419"
+378,IndiGo,Chennai,Mumbai,16:25,23:10,06:45,"13,603"
+379,Vistara,Goa,Mumbai,10:35,16:30,05:55,"14,378"
+380,Vistara,Chennai,Mumbai,10:35,17:40,07:05,"14,378"
+381,Vistara,Goa,Mumbai,10:35,19:05,08:30,"14,378"
+382,Vistara,Chennai,Mumbai,10:35,20:05,09:30,"14,378"
+383,Vistara,Goa,Mumbai,10:35,21:15,10:40,"14,378"
+384,Vistara,Chennai,Mumbai,10:35,21:55,11:20,"14,378"
+385,IndiGo,Goa,Mumbai,13:00,19:30,06:30,"14,391"
+386,IndiGo,Chennai,Mumbai,13:00,18:30,05:30,"14,443"
+387,IndiGo,Goa,Mumbai,16:20,23:00,06:40,"14,496"
+388,IndiGo,Chennai,Mumbai,16:25,20:45,04:20,"15,703"
+389,IndiGo,Goa,Mumbai,19:25,23:10,03:45,"15,808"
+390,IndiGo,Chennai,Mumbai,17:00,23:10,06:10,"16,228"
+391,Air India,Goa,Mumbai,08:10,"12:20
+ ",04:10,"16,858"
+392,Vistara,Chennai,Mumbai,07:05,"15:50
+ ",08:45,"17,145"
+393,Vistara,New Delhi,Mumbai,07:05,"06:15
+ ",23:10,"17,589"
+394,Vistara,Chennai,Mumbai,07:05,"23:05
+ ",16:00,"17,589"
+395,IndiGo,New Delhi,Mumbai,17:00,20:45,03:45,"17,803"
+396,Vistara,Chennai,Mumbai,07:05,"23:05
+ ",16:00,"18,177"
+397,Vistara,New Delhi,Mumbai,10:35,"06:15
+ ",19:40,"18,912"
+398,Vistara,Chennai,Mumbai,10:35,"15:50
+ ",05:15,"18,912"
+399,Vistara,New Delhi,Mumbai,10:35,"15:50
+ ",05:15,"18,912"
+400,Vistara,Chennai,Mumbai,07:05,"15:50
+ ",08:45,"18,912"
+401,Vistara,New Delhi,Mumbai,10:35,"23:05
+ ",12:30,"18,912"
+402,Vistara,Chennai,Mumbai,10:35,"23:05
+ ",12:30,"18,912"
+403,Air India,New Delhi,Mumbai,20:15,"16:25
+ ",20:10,"19,070"
+404,Vistara,Chennai,Mumbai,07:05,"09:40
+ ",02:35,"19,796"
+405,Air India,New Delhi,Mumbai,20:15,"19:15
+ ",23:00,"19,812"
+406,Air India,Chennai,Mumbai,09:55,"19:15
+ ",09:20,"19,812"
+407,Air India,New Delhi,Mumbai,20:15,"17:15
+ ",21:00,"20,055"
+408,Air India,Chennai,Mumbai,08:10,20:15,12:05,"20,323"
+409,IndiGo,New Delhi,Mumbai,12:00,19:15,07:15,"20,743"
+410,Vistara,Chennai,Mumbai,10:35,23:30,12:55,"21,518"
+411,Vistara,New Delhi,Mumbai,07:05,18:20,11:15,"23,324"
+412,Vistara,Chennai,Mumbai,07:05,19:00,11:55,"24,148"
+413,Air India,New Delhi,Mumbai,08:10,21:15,13:05,"25,521"
+414,Air India,Chennai,Mumbai,08:10,22:10,14:00,"25,521"
+415,Vistara,New Delhi,Mumbai,10:35,20:30,09:55,"30,508"
+416,Vistara,Chennai,Mumbai,10:35,21:50,11:15,"36,388"
+417,Vistara,New Delhi,Mumbai,10:35,20:15,09:40,"38,173"
+418,Vistara,Chennai,Mumbai,10:35,20:40,10:05,"38,173"
+419,Vistara,New Delhi,Mumbai,10:35,21:50,11:15,"38,698"
+420,IndiGo,Chennai,Chennai,08:05,09:05,01:00,"5,689"
+421,IndiGo,New Delhi,Chennai,09:35,10:50,01:15,"5,689"
+422,IndiGo,Chennai,Chennai,11:10,12:10,01:00,"5,899"
+423,IndiGo,New Delhi,Chennai,14:50,15:55,01:05,"7,579"
+424,IndiGo,Chennai,Chennai,17:25,18:30,01:05,"8,734"
+425,Air Asia,New Delhi,Chennai,16:15,17:15,01:00,"9,889"
+426,IndiGo,Chennai,Chennai,20:05,21:05,01:00,"9,889"
+427,Vistara,New Delhi,Chennai,06:40,11:50,05:10,"11,165"
+428,Vistara,Chennai,Chennai,09:30,23:05,13:35,"11,165"
+429,Vistara,New Delhi,Chennai,06:40,23:05,16:25,"11,165"
+430,Vistara,Chennai,Chennai,09:30,"11:50
+ ",02:20,"11,165"
+431,Vistara,New Delhi,Chennai,10:15,23:05,12:50,"11,609"
+432,Vistara,Chennai,Chennai,10:15,"11:50
+ ",01:35,"11,609"
+433,Vistara,New Delhi,Chennai,18:25,23:05,04:40,"12,197"
+434,Vistara,Chennai,Chennai,10:15,19:50,09:35,"12,197"
+435,Vistara,New Delhi,Chennai,09:30,19:50,10:20,"12,197"
+436,Vistara,Chennai,Chennai,06:40,19:50,13:10,"12,197"
+437,Vistara,New Delhi,Chennai,18:55,"08:50
+ ",13:55,"12,197"
+438,Vistara,Chennai,Chennai,18:25,"08:50
+ ",14:25,"12,197"
+439,Vistara,New Delhi,Chennai,18:55,"11:50
+ ",16:55,"12,197"
+440,Vistara,Chennai,Chennai,18:25,"11:50
+ ",17:25,"12,197"
+441,Vistara,New Delhi,Chennai,10:15,"08:50
+ ",22:35,"12,197"
+442,Vistara,Chennai,Chennai,09:30,"08:50
+ ",23:20,"12,197"
+443,Vistara,New Delhi,Chennai,18:55,"19:50
+ ",00:55,"12,197"
+444,Vistara,Chennai,Chennai,18:25,"19:50
+ ",01:25,"12,197"
+445,Vistara,New Delhi,Chennai,19:55,"08:50
+ ",12:55,"12,932"
+446,Vistara,Chennai,Chennai,19:55,"11:50
+ ",15:55,"12,932"
+447,Vistara,New Delhi,Chennai,07:00,20:15,13:15,"14,402"
+448,Vistara,Chennai,Chennai,07:00,22:45,15:45,"14,402"
+449,Go First,New Delhi,Chennai,22:15,"07:40
+ ",09:25,"15,421"
+450,Air India,Chennai,Chennai,06:45,"07:25
+ ",00:40,"15,559"
+451,Air India,New Delhi,Chennai,08:20,"07:25
+ ",23:05,"15,769"
+452,Go First,Chennai,Chennai,17:45,"07:40
+ ",13:55,"15,779"
+453,Air India,New Delhi,Chennai,08:20,"10:55
+ ",02:35,"15,979"
+454,Air India,Chennai,Chennai,19:10,"07:25
+ ",12:15,"17,029"
+455,Alliance Air,New Delhi,Hyderabad,18:40,20:15,01:35,"5,952"
+456,Vistara,Chennai,Hyderabad,07:45,08:55,01:10,"6,212"
+457,IndiGo,New Delhi,Hyderabad,20:10,21:10,01:00,"6,214"
+458,IndiGo,Chennai,Hyderabad,07:10,08:20,01:10,"6,214"
+459,IndiGo,New Delhi,Hyderabad,08:55,10:05,01:10,"6,214"
+460,IndiGo,Chennai,Hyderabad,22:10,23:20,01:10,"6,214"
+461,IndiGo,New Delhi,Hyderabad,05:15,06:30,01:15,"6,214"
+462,Air Asia,Chennai,Hyderabad,07:35,08:45,01:10,"6,215"
+463,Air Asia,New Delhi,Hyderabad,16:15,17:30,01:15,"6,425"
+464,Vistara,Chennai,Hyderabad,20:10,21:10,01:00,"6,844"
+465,IndiGo,New Delhi,Hyderabad,12:35,13:55,01:20,"6,844"
+466,Air Asia,Chennai,Hyderabad,14:25,15:40,01:15,"6,845"
+467,IndiGo,New Delhi,Hyderabad,10:15,11:25,01:10,"7,054"
+468,IndiGo,Chennai,Hyderabad,18:50,20:05,01:15,"7,054"
+469,IndiGo,New Delhi,Hyderabad,15:00,20:50,05:50,"7,054"
+470,IndiGo,Chennai,Hyderabad,15:00,22:15,07:15,"7,054"
+471,IndiGo,New Delhi,Hyderabad,11:05,20:50,09:45,"7,054"
+472,IndiGo,Chennai,Hyderabad,15:45,16:55,01:10,"7,684"
+473,Vistara,New Delhi,Hyderabad,09:30,20:55,11:25,"9,327"
+474,Vistara,Chennai,Hyderabad,06:40,20:55,14:15,"9,327"
+475,IndiGo,New Delhi,Hyderabad,09:35,17:20,07:45,"9,417"
+476,IndiGo,Chennai,Hyderabad,08:05,17:20,09:15,"9,417"
+477,IndiGo,New Delhi,Hyderabad,11:10,20:35,09:25,"9,679"
+478,IndiGo,Chennai,Hyderabad,20:05,"06:00
+ ",09:55,"9,679"
+479,Vistara,New Delhi,Hyderabad,10:15,20:55,10:40,"9,771"
+480,Vistara,Chennai,Hyderabad,10:15,"07:50
+ ",21:35,"9,771"
+481,Vistara,New Delhi,Hyderabad,09:30,"07:50
+ ",22:20,"9,771"
+482,Vistara,Chennai,Hyderabad,06:40,"07:50
+ ",01:10,"9,771"
+483,IndiGo,New Delhi,Hyderabad,09:35,13:05,03:30,"10,204"
+484,IndiGo,Chennai,Hyderabad,08:05,13:05,05:00,"10,204"
+485,IndiGo,New Delhi,Hyderabad,17:25,22:25,05:00,"10,204"
+486,Vistara,Chennai,Hyderabad,18:55,"07:50
+ ",12:55,"10,286"
+487,Vistara,New Delhi,Hyderabad,18:25,"07:50
+ ",13:25,"10,286"
+488,Vistara,Chennai,Hyderabad,18:55,"18:25
+ ",23:30,"10,286"
+489,Vistara,New Delhi,Hyderabad,18:25,"18:25
+ ",00:00,"10,286"
+490,Vistara,Chennai,Hyderabad,18:55,"20:55
+ ",02:00,"10,286"
+491,Vistara,New Delhi,Hyderabad,18:25,"20:55
+ ",02:30,"10,286"
+492,IndiGo,Chennai,Hyderabad,14:50,22:25,07:35,"10,467"
+493,IndiGo,New Delhi,Hyderabad,11:05,19:15,08:10,"10,729"
+494,IndiGo,Chennai,Hyderabad,09:35,17:55,08:20,"10,992"
+495,IndiGo,New Delhi,Hyderabad,08:05,17:55,09:50,"10,992"
+496,Vistara,Chennai,Hyderabad,19:55,"07:50
+ ",11:55,"11,021"
+497,Vistara,New Delhi,Hyderabad,19:55,"12:15
+ ",16:20,"11,021"
+498,IndiGo,Chennai,Hyderabad,11:10,17:20,06:10,"12,042"
+499,Go First,New Delhi,Hyderabad,08:15,21:00,12:45,"12,797"
+500,Air India,Chennai,Hyderabad,06:45,21:40,14:55,"13,144"
+501,SpiceJet,New Delhi,Hyderabad,20:05,"09:40
+ ",13:35,"13,208"
+502,Air India,Chennai,Hyderabad,08:20,21:40,13:20,"13,354"
+503,Vistara,New Delhi,Hyderabad,07:00,22:55,15:55,"13,814"
+504,IndiGo,Chennai,Hyderabad,11:10,17:55,06:45,"14,142"
+505,Vistara,New Delhi,Hyderabad,07:00,19:50,12:50,"14,549"
+506,Vistara,Chennai,Hyderabad,17:30,"18:25
+ ",00:55,"15,061"
+507,Vistara,New Delhi,Hyderabad,17:30,"20:55
+ ",03:25,"15,061"
+508,Vistara,Chennai,Hyderabad,17:30,"22:40
+ ",05:10,"15,061"
+509,Air India,New Delhi,Hyderabad,19:10,"21:40
+ ",02:30,"16,347"
+510,IndiGo,Chennai,Hyderabad,14:50,20:35,05:45,"16,767"
+511,IndiGo,New Delhi,Hyderabad,15:00,19:15,04:15,"17,187"
+512,Air Asia,Chennai,Hyderabad,05:30,19:45,14:15,"17,686"
+513,Go First,New Delhi,Hyderabad,21:30,"11:00
+ ",13:30,"18,282"
+514,Air Asia,Chennai,Hyderabad,13:40,19:45,06:05,"18,420"
+515,IndiGo,New Delhi,Hyderabad,06:45,13:30,06:45,"19,234"
+516,Vistara,Chennai,Hyderabad,17:30,"12:40
+ ",19:10,"19,797"
+517,Vistara,New Delhi,Hyderabad,17:30,"17:00
+ ",23:30,"19,797"
+518,Vistara,Chennai,Hyderabad,17:30,"19:50
+ ",02:20,"19,797"
+519,Air India,New Delhi,Hyderabad,08:20,23:45,15:25,"19,835"
+520,Air India,Chennai,Hyderabad,08:20,23:45,15:25,"19,835"
+521,Vistara,New Delhi,Hyderabad,17:30,"12:40
+ ",19:10,"20,385"
+522,Vistara,Chennai,Hyderabad,17:30,"17:00
+ ",23:30,"20,385"
+523,Vistara,New Delhi,Hyderabad,17:30,"19:50
+ ",02:20,"20,385"
+524,Vistara,Chennai,Hyderabad,07:00,17:00,10:00,"20,389"
+525,Vistara,New Delhi,Hyderabad,11:30,"18:25
+ ",06:55,"20,539"
+526,Vistara,Chennai,Hyderabad,18:55,"17:30
+ ",22:35,"20,660"
+527,Vistara,New Delhi,Hyderabad,18:25,"17:30
+ ",23:05,"20,660"
+528,Vistara,Chennai,Hyderabad,09:30,"12:40
+ ",03:10,"20,725"
+529,Vistara,New Delhi,Hyderabad,09:30,"17:00
+ ",07:30,"20,725"
+530,Vistara,Chennai,Hyderabad,08:00,22:55,14:55,"21,124"
+531,Vistara,New Delhi,Hyderabad,09:30,22:55,13:25,"21,239"
+532,Vistara,Chennai,Hyderabad,08:00,19:50,11:50,"21,649"
+533,Vistara,New Delhi,Hyderabad,21:15,"12:40
+ ",15:25,"21,754"
+534,Vistara,Chennai,Hyderabad,09:30,19:50,10:20,"21,864"
+535,Vistara,New Delhi,Hyderabad,08:00,17:00,09:00,"22,174"
+536,Air India,Chennai,Hyderabad,21:20,"09:25
+ ",12:05,"23,014"
+537,Air India,New Delhi,Hyderabad,21:20,"11:50
+ ",14:30,"23,907"
+538,Vistara,Chennai,Hyderabad,07:00,12:40,05:40,"24,484"
+539,Vistara,New Delhi,Hyderabad,21:15,"09:25
+ ",12:10,"24,484"
+540,Air India,Chennai,Hyderabad,21:20,"19:30
+ ",22:10,"25,009"
+541,Vistara,New Delhi,Hyderabad,11:30,22:55,11:25,"27,214"
+542,Vistara,Chennai,Hyderabad,19:40,"09:25
+ ",13:45,"27,529"
+543,Vistara,New Delhi,Hyderabad,11:30,19:50,08:20,"27,739"
+544,Vistara,Chennai,Hyderabad,18:45,"09:25
+ ",14:40,"29,524"
+545,Air India,New Delhi,Hyderabad,17:00,"09:25
+ ",16:25,"29,524"
+546,Air India,Chennai,Hyderabad,17:00,23:45,06:45,"30,942"
+547,Air India,New Delhi,Hyderabad,13:20,23:45,10:25,"30,942"
+548,Air India,Chennai,Hyderabad,10:00,23:45,13:45,"30,942"
+549,Vistara,New Delhi,Hyderabad,17:45,"09:25
+ ",15:40,"31,834"
+550,Air India,Chennai,Hyderabad,10:00,21:40,11:40,"35,299"
+551,Air Asia,New Delhi,Goa,14:25,18:00,03:35,"6,005"
+552,Go First,Chennai,Goa,15:45,16:55,01:10,"6,213"
+553,SpiceJet,New Delhi,Goa,20:05,21:25,01:20,"6,213"
+554,IndiGo,Chennai,Goa,21:40,22:40,01:00,"6,214"
+555,IndiGo,New Delhi,Goa,06:35,07:45,01:10,"6,214"
+556,IndiGo,Chennai,Goa,19:25,20:40,01:15,"6,214"
+557,IndiGo,New Delhi,Goa,00:35,01:55,01:20,"6,214"
+558,Air Asia,Chennai,Goa,23:40,"00:45
+ ",01:05,"6,215"
+559,Air Asia,New Delhi,Goa,05:30,06:40,01:10,"6,215"
+560,Vistara,Chennai,Goa,12:45,14:05,01:20,"6,844"
+561,Air Asia,New Delhi,Goa,13:40,14:45,01:05,"6,949"
+562,IndiGo,Chennai,Goa,13:00,14:10,01:10,"7,159"
+563,Air Asia,New Delhi,Goa,07:35,18:00,10:25,"9,478"
+564,Air Asia,Chennai,Goa,07:35,19:25,11:50,"9,478"
+565,Air Asia,New Delhi,Goa,14:25,19:25,05:00,"9,889"
+566,Vistara,Chennai,Goa,06:40,12:45,06:05,"11,021"
+567,Vistara,New Delhi,Goa,19:55,"12:45
+ ",16:50,"11,021"
+568,Vistara,Chennai,Goa,18:55,"12:45
+ ",17:50,"11,021"
+569,Vistara,New Delhi,Goa,18:25,"12:45
+ ",18:20,"11,021"
+570,Vistara,Chennai,Goa,10:15,"12:45
+ ",02:30,"11,021"
+571,Vistara,New Delhi,Goa,09:30,"12:45
+ ",03:15,"11,021"
+572,Air Asia,Chennai,Goa,16:15,19:25,03:10,"11,359"
+573,Air India,New Delhi,Goa,06:45,22:20,15:35,"12,619"
+574,Go First,Chennai,Goa,08:15,12:45,04:30,"12,797"
+575,Go First,New Delhi,Goa,22:15,"06:10
+ ",07:55,"12,797"
+576,Go First,Chennai,Goa,08:15,16:40,08:25,"12,797"
+577,Go First,New Delhi,Goa,08:15,17:55,09:40,"12,797"
+578,Go First,Chennai,Goa,22:15,"12:45
+ ",14:30,"12,797"
+579,Air India,New Delhi,Goa,08:20,22:20,14:00,"12,829"
+580,Air India,Chennai,Goa,06:45,"06:20
+ ",23:35,"12,934"
+581,Air India,New Delhi,Goa,06:45,14:35,07:50,"13,144"
+582,Air India,Chennai,Goa,08:20,"06:20
+ ",22:00,"13,144"
+583,Go First,New Delhi,Goa,17:45,"06:10
+ ",12:25,"13,153"
+584,Air India,Chennai,Goa,08:20,14:35,06:15,"13,354"
+585,Vistara,New Delhi,Goa,07:00,21:20,14:20,"14,402"
+586,Air India,Chennai,Goa,19:10,"06:20
+ ",11:10,"14,404"
+587,Air India,New Delhi,Goa,19:10,"14:35
+ ",19:25,"14,404"
+588,Air India,Chennai,Goa,19:10,"22:20
+ ",03:10,"14,404"
+589,SpiceJet,New Delhi,Goa,09:15,"00:25
+ ",15:10,"14,468"
+590,Vistara,Chennai,Goa,21:40,"12:45
+ ",15:05,"17,134"
+591,Go First,New Delhi,Goa,05:45,13:20,07:35,"18,576"
+592,Vistara,Chennai,Goa,07:45,"21:20
+ ",13:35,"18,789"
+593,SpiceJet,New Delhi,Goa,09:15,13:10,03:55,"18,920"
+594,Vistara,Chennai,Goa,07:45,21:20,13:35,"19,377"
+595,Vistara,New Delhi,Goa,20:10,"21:20
+ ",01:10,"19,421"
+596,Vistara,Chennai,Goa,20:10,"21:20
+ ",01:10,"19,421"
+597,Go First,New Delhi,Goa,21:30,"13:20
+ ",15:50,"19,668"
+598,Vistara,Chennai,Goa,20:10,"21:20
+ ",01:10,"20,009"
+599,Vistara,New Delhi,Goa,09:30,21:20,11:50,"20,868"
+600,Vistara,Chennai,Goa,08:00,21:20,13:20,"21,227"
+601,Vistara,New Delhi,Goa,21:15,"21:20
+ ",00:05,"22,277"
+602,Air India,Chennai,Goa,21:20,"13:35
+ ",16:15,"23,119"
+603,Air India,New Delhi,Goa,21:20,"00:40
+ ",03:20,"23,119"
+604,Air India,Chennai,Goa,06:10,"00:40
+ ",18:30,"23,434"
+605,Vistara,New Delhi,Goa,21:15,"13:50
+ ",16:35,"23,539"
+606,Air India,Chennai,Goa,06:10,13:35,07:25,"24,379"
+607,Vistara,New Delhi,Goa,07:45,21:20,13:35,"25,215"
+608,Vistara,Chennai,Goa,19:40,"21:20
+ ",01:40,"25,322"
+609,Vistara,New Delhi,Goa,07:00,13:50,06:50,"26,059"
+610,Vistara,Chennai,Goa,19:40,"13:50
+ ",18:10,"26,584"
+611,Vistara,New Delhi,Goa,11:30,21:20,09:50,"27,317"
+612,Vistara,Chennai,Goa,18:45,"21:20
+ ",02:35,"27,317"
+613,Vistara,New Delhi,Goa,18:45,"13:50
+ ",19:05,"28,579"
+614,Vistara,Chennai,Goa,11:30,"13:50
+ ",02:20,"28,579"
+615,Air India,New Delhi,Goa,17:00,"00:40
+ ",07:40,"28,894"
+616,Air India,Chennai,Goa,13:20,"00:40
+ ",11:20,"28,894"
+617,Air India,New Delhi,Goa,10:00,"00:40
+ ",14:40,"28,894"
+618,Vistara,Chennai,Goa,17:45,"21:20
+ ",03:35,"29,627"
+619,Air India,New Delhi,Goa,17:00,"13:35
+ ",20:35,"29,629"
+620,Air India,Chennai,Goa,13:20,"13:35
+ ",00:15,"29,629"
+621,Air India,New Delhi,Goa,10:00,"13:35
+ ",03:35,"29,629"
+622,Vistara,Chennai,Goa,21:15,"12:45
+ ",15:30,"30,784"
+623,Vistara,New Delhi,Goa,17:45,"13:50
+ ",20:05,"30,889"
+624,Air Asia,Chennai,New Delhi,09:00,14:20,05:20,"9,678"
+625,Air Asia,New Delhi,New Delhi,05:30,10:55,05:25,"9,678"
+626,Air Asia,Chennai,New Delhi,22:15,"03:45
+ ",05:30,"9,678"
+627,Air Asia,New Delhi,New Delhi,05:40,12:05,06:25,"9,678"
+628,Air Asia,Chennai,New Delhi,05:05,11:40,06:35,"9,678"
+629,Air Asia,New Delhi,New Delhi,05:10,12:05,06:55,"9,678"
+630,Air Asia,Chennai,New Delhi,12:50,20:25,07:35,"9,678"
+631,SpiceJet,New Delhi,New Delhi,05:55,08:25,02:30,"9,679"
+632,IndiGo,Chennai,New Delhi,00:45,03:30,02:45,"9,679"
+633,IndiGo,New Delhi,New Delhi,04:40,07:25,02:45,"9,679"
+634,IndiGo,Chennai,New Delhi,06:00,08:45,02:45,"9,679"
+635,Air Asia,New Delhi,New Delhi,06:10,08:55,02:45,"9,679"
+636,SpiceJet,Chennai,New Delhi,21:50,"00:35
+ ",02:45,"9,679"
+637,IndiGo,Mumbai,New Delhi,22:00,"00:45
+ ",02:45,"9,679"
+638,Air Asia,Chennai,New Delhi,22:30,"01:20
+ ",02:50,"9,679"
+639,IndiGo,Mumbai,New Delhi,23:10,"02:00
+ ",02:50,"9,679"
+640,Air Asia,Chennai,New Delhi,00:25,03:20,02:55,"9,679"
+641,Go First,Mumbai,New Delhi,05:45,08:40,02:55,"9,679"
+642,Go First,Chennai,New Delhi,22:15,"08:00
+ ",09:45,"9,679"
+643,Go First,Mumbai,New Delhi,08:15,19:00,10:45,"9,679"
+644,Go First,Chennai,New Delhi,08:15,20:05,11:50,"9,679"
+645,Go First,Mumbai,New Delhi,22:15,"12:05
+ ",13:50,"9,679"
+646,Go First,Chennai,New Delhi,22:15,"13:10
+ ",14:55,"9,679"
+647,Go First,Mumbai,New Delhi,08:15,23:35,15:20,"9,679"
+648,IndiGo,Chennai,New Delhi,23:05,"04:10
+ ",05:05,"9,994"
+649,IndiGo,Mumbai,New Delhi,18:25,"00:05
+ ",05:40,"9,994"
+650,IndiGo,Chennai,New Delhi,16:10,23:05,06:55,"9,994"
+651,IndiGo,Mumbai,New Delhi,17:55,"01:00
+ ",07:05,"9,994"
+652,IndiGo,Chennai,New Delhi,23:05,"06:55
+ ",07:50,"9,994"
+653,IndiGo,Mumbai,New Delhi,13:05,21:15,08:10,"9,994"
+654,Go First,Chennai,New Delhi,21:30,"00:15
+ ",02:45,"10,225"
+655,Vistara,Mumbai,New Delhi,07:00,09:40,02:40,"10,414"
+656,IndiGo,Chennai,New Delhi,20:10,"00:45
+ ",04:35,"10,519"
+657,IndiGo,Mumbai,New Delhi,07:10,12:10,05:00,"10,519"
+658,IndiGo,Chennai,New Delhi,05:15,12:10,06:55,"10,519"
+659,IndiGo,Mumbai,New Delhi,07:45,10:40,02:55,"10,572"
+660,IndiGo,Chennai,New Delhi,18:50,"00:45
+ ",05:55,"11,044"
+661,IndiGo,Mumbai,New Delhi,20:30,23:15,02:45,"11,517"
+662,IndiGo,Chennai,New Delhi,20:30,"02:10
+ ",05:40,"12,094"
+663,IndiGo,Mumbai,New Delhi,15:45,22:20,06:35,"12,094"
+664,IndiGo,Chennai,New Delhi,20:30,"04:10
+ ",07:40,"12,094"
+665,Vistara,Mumbai,New Delhi,08:00,10:40,02:40,"12,199"
+666,IndiGo,Chennai,New Delhi,15:35,21:55,06:20,"12,619"
+667,IndiGo,Mumbai,New Delhi,15:35,23:25,07:50,"12,619"
+668,Air Asia,Chennai,New Delhi,13:40,19:20,05:40,"12,777"
+669,Vistara,Mumbai,Mumbai,06:40,08:15,01:35,"7,367"
+670,Vistara,Chennai,Mumbai,09:30,11:25,01:55,"7,367"
+671,SpiceJet,Mumbai,Mumbai,20:05,"14:55
+ ",18:50,"7,368"
+672,SpiceJet,Chennai,Mumbai,20:05,"18:50
+ ",22:45,"7,368"
+673,IndiGo,Mumbai,Mumbai,06:00,07:35,01:35,"7,369"
+674,IndiGo,Chennai,Mumbai,10:00,11:35,01:35,"7,369"
+675,IndiGo,Mumbai,Mumbai,22:55,"00:30
+ ",01:35,"7,369"
+676,Air Asia,Chennai,Mumbai,05:35,07:15,01:40,"7,369"
+677,IndiGo,Mumbai,Mumbai,08:20,10:00,01:40,"7,369"
+678,Air India,Chennai,Mumbai,06:45,08:35,01:50,"7,369"
+679,IndiGo,Mumbai,Mumbai,07:00,08:50,01:50,"7,369"
+680,Go First,Chennai,Mumbai,08:15,10:05,01:50,"7,369"
+681,Air Asia,Mumbai,Mumbai,18:45,20:40,01:55,"7,369"
+682,Go First,Chennai,Mumbai,22:15,"00:15
+ ",02:00,"7,369"
+683,Air India,Mumbai,Mumbai,08:20,10:35,02:15,"7,579"
+684,Vistara,Chennai,Mumbai,10:15,12:00,01:45,"7,684"
+685,Go First,Mumbai,Mumbai,17:45,19:30,01:45,"7,725"
+686,IndiGo,Chennai,Mumbai,21:25,23:00,01:35,"7,737"
+687,Vistara,Mumbai,Mumbai,18:25,20:15,01:50,"8,104"
+688,IndiGo,Chennai,Mumbai,05:15,09:45,04:30,"8,104"
+689,IndiGo,Mumbai,Mumbai,09:35,14:45,05:10,"8,104"
+690,IndiGo,Chennai,Mumbai,08:05,13:40,05:35,"8,104"
+691,IndiGo,Mumbai,Mumbai,06:15,12:40,06:25,"8,104"
+692,IndiGo,Chennai,Mumbai,14:50,21:20,06:30,"8,104"
+693,IndiGo,Mumbai,Mumbai,08:05,14:45,06:40,"8,104"
+694,IndiGo,Chennai,Mumbai,17:25,"00:15
+ ",06:50,"8,104"
+695,IndiGo,Mumbai,Mumbai,18:25,23:15,04:50,"8,424"
+696,IndiGo,Chennai,Mumbai,07:10,12:10,05:00,"8,424"
+697,IndiGo,Mumbai,Mumbai,05:15,12:10,06:55,"8,424"
+698,IndiGo,Chennai,Mumbai,22:10,"05:40
+ ",07:30,"8,424"
+699,IndiGo,Mumbai,Mumbai,14:50,22:30,07:40,"8,424"
+700,Vistara,Chennai,Mumbai,18:55,20:40,01:45,"8,629"
+701,Vistara,Mumbai,Mumbai,19:55,21:50,01:55,"8,629"
+702,IndiGo,Chennai,Mumbai,19:35,21:10,01:35,"8,734"
+703,IndiGo,Mumbai,Mumbai,17:50,19:30,01:40,"8,734"
+704,IndiGo,Chennai,Mumbai,20:05,"00:15
+ ",04:10,"8,745"
+705,Air India,Mumbai,Mumbai,19:10,21:05,01:55,"8,839"
+706,IndiGo,Chennai,Mumbai,12:20,13:50,01:30,"9,049"
+707,Air Asia,Mumbai,Mumbai,19:30,21:20,01:50,"9,049"
+708,IndiGo,Chennai,Mumbai,16:50,18:30,01:40,"9,364"
+709,IndiGo,Mumbai,Mumbai,17:25,22:30,05:05,"9,385"
+710,Air Asia,Chennai,Mumbai,13:40,19:15,05:35,"10,050"
+711,Air Asia,Mumbai,Mumbai,05:30,19:15,13:45,"10,050"
+712,IndiGo,Chennai,Mumbai,07:10,14:45,07:35,"10,346"
+713,Vistara,Mumbai,Mumbai,21:40,23:25,01:45,"10,414"
+714,Air Asia,Chennai,Mumbai,13:40,23:45,10:05,"10,470"
+715,IndiGo,Mumbai,Mumbai,14:05,15:35,01:30,"11,254"
+716,IndiGo,Chennai,Mumbai,21:40,"01:30
+ ",03:50,"11,937"
+717,IndiGo,Mumbai,Mumbai,19:25,"01:30
+ ",06:05,"11,937"
+718,IndiGo,Chennai,Mumbai,00:35,08:15,07:40,"12,147"
+719,Vistara,Mumbai,Mumbai,20:10,"20:30
+ ",00:20,"12,724"
+720,Vistara,Chennai,Mumbai,19:25,"16:15
+ ",20:50,"12,930"
+721,IndiGo,Mumbai,Mumbai,08:55,14:45,05:50,"13,144"
+722,Vistara,Chennai,Mumbai,12:45,"14:45
+ ",02:00,"13,249"
+723,Vistara,Mumbai,Mumbai,07:45,14:30,06:45,"13,457"
+724,Vistara,Chennai,Mumbai,07:45,"10:00
+ ",02:15,"13,457"
+725,Vistara,Mumbai,Mumbai,20:10,"14:30
+ ",18:20,"13,564"
+726,Vistara,Chennai,Mumbai,07:00,14:00,07:00,"13,814"
+727,Vistara,Mumbai,Mumbai,07:00,15:00,08:00,"13,814"
+728,Vistara,Chennai,Mumbai,07:00,16:30,09:30,"13,814"
+729,Vistara,Mumbai,Mumbai,07:00,17:40,10:40,"13,814"
+730,Vistara,Chennai,Mumbai,07:00,19:05,12:05,"13,814"
+731,Vistara,Mumbai,Mumbai,07:00,20:05,13:05,"13,814"
+732,Vistara,Chennai,Mumbai,07:00,21:15,14:15,"13,814"
+733,Vistara,Mumbai,Mumbai,07:00,21:55,14:55,"13,814"
+734,Vistara,Chennai,Mumbai,07:00,23:30,16:30,"13,814"
+735,Vistara,Mumbai,Mumbai,07:00,"11:35
+ ",04:35,"13,814"
+736,Vistara,Chennai,Mumbai,07:45,"08:40
+ ",00:55,"13,982"
+737,IndiGo,Mumbai,Mumbai,18:50,23:10,04:20,"13,984"
+738,Vistara,Chennai,Mumbai,20:10,"10:00
+ ",13:50,"14,089"
+739,Go First,Mumbai,Mumbai,05:20,12:10,06:50,"14,272"
+740,Go First,Chennai,Mumbai,05:20,19:40,14:20,"14,272"
+741,Vistara,Mumbai,Mumbai,17:30,"15:50
+ ",22:20,"14,400"
+742,IndiGo,Chennai,Mumbai,10:15,14:45,04:30,"14,404"
+743,Vistara,Mumbai,Mumbai,07:45,23:00,15:15,"14,507"
+744,IndiGo,Chennai,Mumbai,15:45,20:45,05:00,"14,509"
+745,IndiGo,Mumbai,Mumbai,14:50,19:55,05:05,"14,509"
+746,Vistara,Chennai,Mumbai,07:00,22:50,15:50,"14,549"
+747,Vistara,Mumbai,Mumbai,20:10,"08:40
+ ",12:30,"14,614"
+748,Vistara,Chennai,Mumbai,07:10,16:15,09:05,"14,717"
+749,Air Asia,Mumbai,Mumbai,16:15,23:45,07:30,"15,006"
+750,Air Asia,Chennai,Mumbai,14:25,23:45,09:20,"15,006"
+751,IndiGo,Mumbai,Mumbai,15:45,23:10,07:25,"15,139"
+752,IndiGo,Chennai,Mumbai,06:35,14:30,07:55,"15,402"
+753,Vistara,Mumbai,Mumbai,07:45,20:30,12:45,"15,977"
+754,IndiGo,Chennai,Mumbai,12:35,19:15,06:40,"16,084"
+755,Air India,Mumbai,Mumbai,21:20,"12:35
+ ",15:15,"16,257"
+756,Air India,Chennai,Mumbai,21:20,"16:15
+ ",18:55,"16,257"
+757,Air India,Mumbai,Mumbai,21:20,"18:10
+ ",20:50,"16,257"
+758,Air India,Chennai,Mumbai,21:20,"21:15
+ ",23:55,"16,257"
+759,Air India,Mumbai,Mumbai,21:20,"22:10
+ ",00:50,"16,257"
+760,Air India,Chennai,Mumbai,21:20,"22:10
+ ",00:50,"16,257"
+761,Go First,Mumbai,Mumbai,09:15,23:30,14:15,"16,266"
+762,IndiGo,Chennai,Mumbai,13:00,18:05,05:05,"16,347"
+763,Air India,Mumbai,Mumbai,21:20,"09:05
+ ",11:45,"16,467"
+764,Air India,Chennai,Mumbai,21:20,"10:10
+ ",12:50,"16,467"
+765,SpiceJet,Mumbai,Mumbai,09:25,"10:55
+ ",01:30,"17,563"
+766,Go First,Chennai,Mumbai,05:45,13:10,07:25,"17,736"
+767,Go First,Mumbai,Mumbai,05:45,16:10,10:25,"17,736"
+768,Go First,Chennai,Mumbai,05:45,21:00,15:15,"17,736"
+769,Go First,Mumbai,Mumbai,05:45,22:00,16:15,"17,736"
+770,Go First,Chennai,Mumbai,21:30,"09:15
+ ",11:45,"18,282"
+771,Go First,Mumbai,Mumbai,21:30,"13:10
+ ",15:40,"18,282"
+772,Vistara,Chennai,Mumbai,07:00,"06:15
+ ",23:15,"18,348"
+773,Go First,Mumbai,Mumbai,12:20,21:20,09:00,"18,566"
+774,Vistara,Chennai,Mumbai,07:45,16:30,08:45,"18,789"
+775,Vistara,Mumbai,Mumbai,07:45,17:40,09:55,"18,789"
+776,Vistara,Chennai,Mumbai,07:45,19:05,11:20,"18,789"
+777,Vistara,Mumbai,Mumbai,07:45,20:05,12:20,"18,789"
+778,Vistara,Chennai,Mumbai,07:45,21:15,13:30,"18,789"
+779,Vistara,Mumbai,Mumbai,20:10,"12:35
+ ",16:25,"18,833"
+780,Vistara,Chennai,Mumbai,20:10,"14:00
+ ",17:50,"18,833"
+781,Vistara,Mumbai,Mumbai,20:10,"15:00
+ ",18:50,"18,833"
+782,Vistara,Chennai,Mumbai,20:10,"16:30
+ ",20:20,"18,833"
+783,Vistara,Mumbai,Mumbai,08:00,14:00,06:00,"20,387"
+784,Vistara,Chennai,Mumbai,08:00,15:00,07:00,"20,387"
+785,Vistara,Mumbai,Mumbai,08:00,16:30,08:30,"20,387"
+786,Vistara,Chennai,Mumbai,08:00,17:40,09:40,"20,387"
+787,Vistara,Mumbai,Mumbai,08:00,19:05,11:05,"20,387"
+788,Vistara,Chennai,Mumbai,08:00,20:05,12:05,"20,387"
+789,Vistara,Mumbai,Mumbai,08:00,21:15,13:15,"20,387"
+790,Vistara,Chennai,Mumbai,07:00,23:05,16:05,"20,526"
+791,Go First,Mumbai,Mumbai,11:50,17:45,05:55,"21,034"
+792,Air India,Chennai,Mumbai,21:20,"18:10
+ ",20:50,"21,822"
+793,Vistara,Mumbai,Mumbai,11:30,22:20,10:50,"23,432"
+794,Air India,Chennai,Mumbai,06:10,12:35,06:25,"23,539"
+795,Air India,Mumbai,Mumbai,06:10,21:15,15:05,"23,539"
+796,Air India,Chennai,Mumbai,17:00,23:35,06:35,"28,789"
+797,Air India,Mumbai,Mumbai,13:20,23:35,10:15,"28,789"
+798,Air India,Chennai,Mumbai,10:00,23:35,13:35,"28,789"
+799,Air India,Mumbai,Mumbai,13:20,21:15,07:55,"28,999"
+800,Air India,Chennai,Mumbai,13:20,22:10,08:50,"28,999"
+801,Air India,Mumbai,Mumbai,10:00,21:15,11:15,"28,999"
+802,Air India,Chennai,Mumbai,10:00,22:10,12:10,"28,999"
+803,Air India,Mumbai,Mumbai,17:00,"18:10
+ ",01:10,"32,884"
+804,Alliance Air,Chennai,Chennai,06:50,08:30,01:40,"5,581"
+805,IndiGo,Mumbai,Chennai,06:55,08:00,01:05,"6,367"
+806,IndiGo,Chennai,Chennai,23:15,"00:25
+ ",01:10,"6,367"
+807,IndiGo,Mumbai,Chennai,05:45,07:00,01:15,"6,367"
+808,Air Asia,Chennai,Chennai,08:00,09:20,01:20,"6,368"
+809,IndiGo,Mumbai,Chennai,10:50,18:00,07:10,"6,420"
+810,IndiGo,Chennai,Chennai,06:30,10:20,03:50,"7,102"
+811,IndiGo,Mumbai,Chennai,07:00,10:50,03:50,"7,102"
+812,IndiGo,Chennai,Chennai,08:15,12:10,03:55,"7,102"
+813,IndiGo,Mumbai,Chennai,07:45,12:35,04:50,"7,102"
+814,IndiGo,Chennai,Chennai,07:00,12:10,05:10,"7,102"
+815,IndiGo,Mumbai,Chennai,13:00,19:10,06:10,"7,102"
+816,IndiGo,Chennai,Chennai,15:20,21:40,06:20,"7,102"
+817,IndiGo,Mumbai,Chennai,06:30,13:45,07:15,"7,102"
+818,IndiGo,Chennai,Chennai,21:05,22:05,01:00,"7,207"
+819,IndiGo,Mumbai,Chennai,15:20,18:50,03:30,"7,365"
+820,IndiGo,Chennai,Chennai,16:20,21:20,05:00,"7,365"
+821,IndiGo,Mumbai,Chennai,04:25,10:20,05:55,"7,365"
+822,IndiGo,Chennai,Chennai,07:45,15:15,07:30,"7,890"
+823,IndiGo,Mumbai,Chennai,12:40,21:20,08:40,"7,890"
+824,IndiGo,Chennai,Chennai,08:15,15:55,07:40,"8,152"
+825,IndiGo,Mumbai,Chennai,10:05,11:25,01:20,"9,097"
+826,IndiGo,Chennai,Chennai,17:55,19:15,01:20,"10,357"
+827,IndiGo,Mumbai,Chennai,13:35,15:10,01:35,"10,357"
+828,Vistara,Chennai,Chennai,07:10,11:50,04:40,"10,510"
+829,Vistara,Mumbai,Chennai,07:10,23:05,15:55,"10,510"
+830,IndiGo,Chennai,Chennai,09:30,15:55,06:25,"10,515"
+831,IndiGo,Mumbai,Chennai,19:00,20:15,01:15,"10,987"
+832,IndiGo,Chennai,Chennai,14:40,19:10,04:30,"11,040"
+833,IndiGo,Mumbai,Chennai,11:30,19:10,07:40,"11,040"
+834,IndiGo,Chennai,Chennai,14:40,23:35,08:55,"11,040"
+835,IndiGo,Mumbai,Chennai,09:40,18:30,08:50,"11,200"
+836,IndiGo,Chennai,Chennai,10:55,18:00,07:05,"11,355"
+837,Vistara,Mumbai,Chennai,07:10,19:50,12:40,"11,469"
+838,Vistara,Chennai,Chennai,07:10,"08:50
+ ",01:40,"11,469"
+839,IndiGo,Mumbai,Chennai,16:50,23:35,06:45,"12,090"
+840,Vistara,Bangalore,Chennai,08:30,19:50,11:20,"12,204"
+841,Vistara,Chennai,Chennai,08:30,23:05,14:35,"12,204"
+842,Vistara,Bangalore,Chennai,08:30,"08:50
+ ",00:20,"12,204"
+843,Vistara,Chennai,Chennai,08:30,"11:50
+ ",03:20,"12,204"
+844,IndiGo,Bangalore,Chennai,15:40,22:05,06:25,"13,350"
+845,Vistara,Chennai,Chennai,07:00,20:15,13:15,"13,380"
+846,Vistara,Bangalore,Chennai,07:00,22:45,15:45,"13,380"
+847,Vistara,Chennai,Chennai,10:10,20:15,10:05,"13,968"
+848,Vistara,Bangalore,Chennai,10:10,22:45,12:35,"13,968"
+849,IndiGo,Chennai,Chennai,07:25,13:35,06:10,"15,345"
+850,Vistara,Bangalore,Chennai,12:55,23:05,10:10,"16,236"
+851,Vistara,Chennai,Chennai,12:55,"11:50
+ ",22:55,"16,236"
+852,Air India,Bangalore,Chennai,05:55,19:15,13:20,"16,343"
+853,Vistara,Chennai,Chennai,07:30,23:05,15:35,"16,882"
+854,Vistara,Bangalore,Chennai,07:30,"11:50
+ ",04:20,"16,882"
+855,Vistara,Chennai,Chennai,12:55,19:50,06:55,"16,973"
+856,Vistara,Bangalore,Chennai,12:55,"08:50
+ ",19:55,"16,973"
+857,Vistara,Chennai,Chennai,21:35,"11:50
+ ",14:15,"17,286"
+858,Vistara,Bangalore,Chennai,21:35,"19:50
+ ",22:15,"17,286"
+859,Vistara,Chennai,Chennai,21:35,"23:05
+ ",01:30,"17,286"
+860,Vistara,Bangalore,Chennai,07:30,23:05,15:35,"17,326"
+861,Vistara,Chennai,Chennai,07:30,"11:50
+ ",04:20,"17,326"
+862,IndiGo,Bangalore,Chennai,12:00,15:55,03:55,"17,760"
+863,Vistara,Chennai,Chennai,07:30,19:50,12:20,"17,914"
+864,Vistara,Bangalore,Chennai,07:30,19:50,12:20,"17,914"
+865,Vistara,Chennai,Chennai,07:30,23:05,15:35,"17,914"
+866,Vistara,Bangalore,Chennai,07:30,"08:50
+ ",01:20,"17,914"
+867,Vistara,Chennai,Chennai,07:30,"08:50
+ ",01:20,"17,914"
+868,Vistara,Bangalore,Chennai,07:30,"11:50
+ ",04:20,"17,914"
+869,Vistara,Chennai,Chennai,21:35,"08:50
+ ",11:15,"18,023"
+870,Vistara,Bangalore,Chennai,19:05,"11:50
+ ",16:45,"18,756"
+871,Vistara,Chennai,Chennai,19:05,"19:50
+ ",00:45,"18,756"
+872,Air India,Bangalore,Chennai,06:40,23:35,16:55,"18,758"
+873,Air India,Chennai,Chennai,10:05,"08:55
+ ",22:50,"18,758"
+874,IndiGo,Bangalore,Chennai,12:00,18:30,06:30,"18,915"
+875,Air India,Chennai,Chennai,10:05,23:35,13:30,"18,968"
+876,Air India,Bangalore,Chennai,20:40,"08:55
+ ",12:15,"19,126"
+877,Air India,Chennai,Chennai,10:05,"07:25
+ ",21:20,"19,378"
+878,Air India,Bangalore,Chennai,06:40,"07:25
+ ",00:45,"19,378"
+879,Vistara,Chennai,Chennai,19:05,"08:50
+ ",13:45,"19,493"
+880,Air India,Bangalore,Chennai,10:05,"07:25
+ ",21:20,"19,588"
+881,Air India,Chennai,Chennai,10:05,"07:25
+ ",21:20,"19,588"
+882,Vistara,Bangalore,Chennai,13:25,22:45,09:20,"19,806"
+883,IndiGo,Chennai,Chennai,16:40,21:05,04:25,"20,070"
+884,Vistara,Bangalore,Chennai,13:25,20:15,06:50,"20,123"
+885,Vistara,Chennai,Chennai,20:30,"20:15
+ ",23:45,"20,543"
+886,Vistara,Bangalore,Chennai,20:30,"16:35
+ ",20:05,"21,068"
+887,Vistara,Chennai,Chennai,17:40,"20:15
+ ",02:35,"21,803"
+888,Vistara,Bangalore,Chennai,07:00,16:35,09:35,"21,908"
+889,Vistara,Chennai,Chennai,10:10,16:35,06:25,"22,328"
+890,Vistara,Bangalore,Chennai,20:30,"09:50
+ ",13:20,"22,328"
+891,Vistara,Chennai,Chennai,17:40,"16:35
+ ",22:55,"22,328"
+892,Vistara,Bangalore,Chennai,17:40,"09:50
+ ",16:10,"23,588"
+893,Air India,Chennai,Chennai,20:40,"19:30
+ ",22:50,"26,161"
+894,Air India,Bangalore,Chennai,06:40,19:15,12:35,"27,211"
+895,Air India,Chennai,Chennai,06:40,19:30,12:50,"29,468"
+896,Air India,Bangalore,Chennai,10:05,19:30,09:25,"29,678"
+897,Air India,Chennai,Chennai,20:40,"12:40
+ ",16:00,"30,046"
+898,Alliance Air,Bangalore,Bangalore,20:45,22:15,01:30,"6,106"
+899,Vistara,Chennai,Bangalore,07:30,08:45,01:15,"6,366"
+900,IndiGo,Bangalore,Bangalore,09:30,10:35,01:05,"6,367"
+901,IndiGo,Chennai,Bangalore,00:05,01:15,01:10,"6,367"
+902,IndiGo,Bangalore,Bangalore,22:30,23:40,01:10,"6,367"
+903,IndiGo,Chennai,Bangalore,07:00,08:15,01:15,"6,367"
+904,IndiGo,Bangalore,Bangalore,08:15,09:30,01:15,"6,367"
+905,Air Asia,Chennai,Bangalore,21:55,23:10,01:15,"6,368"
+906,Air Asia,Bangalore,Bangalore,20:20,21:40,01:20,"6,368"
+907,IndiGo,Chennai,Bangalore,18:05,23:05,05:00,"7,102"
+908,IndiGo,Bangalore,Bangalore,06:55,12:10,05:15,"7,102"
+909,IndiGo,Chennai,Bangalore,05:45,12:10,06:25,"7,102"
+910,IndiGo,Bangalore,Bangalore,06:55,14:00,07:05,"7,102"
+911,IndiGo,Hyderabad,Bangalore,06:35,14:40,08:05,"7,102"
+912,IndiGo,Bangalore,Bangalore,05:45,14:00,08:15,"7,102"
+913,IndiGo,Hyderabad,Bangalore,20:30,21:35,01:05,"7,207"
+914,IndiGo,Bangalore,Bangalore,06:35,10:20,03:45,"7,365"
+915,Vistara,Hyderabad,Bangalore,07:10,"07:50
+ ",00:40,"9,481"
+916,Vistara,Bangalore,Bangalore,07:10,20:55,13:45,"9,925"
+917,Vistara,Hyderabad,Bangalore,07:10,23:10,16:00,"9,925"
+918,Vistara,Bangalore,Bangalore,07:10,19:15,12:05,"10,440"
+919,IndiGo,Hyderabad,Bangalore,17:55,22:35,04:40,"10,515"
+920,Air Asia,Bangalore,Bangalore,14:20,15:30,01:10,"10,751"
+921,IndiGo,Hyderabad,Bangalore,19:00,22:35,03:35,"10,777"
+922,IndiGo,Bangalore,Bangalore,23:15,"08:40
+ ",09:25,"10,777"
+923,IndiGo,Hyderabad,Bangalore,12:00,13:10,01:10,"10,882"
+924,IndiGo,Bangalore,Bangalore,18:10,19:20,01:10,"10,882"
+925,IndiGo,Hyderabad,Bangalore,16:40,17:55,01:15,"10,882"
+926,Vistara,Bangalore,Bangalore,08:30,17:45,09:15,"11,175"
+927,Vistara,Hyderabad,Bangalore,08:30,18:15,09:45,"11,175"
+928,Vistara,Bangalore,Bangalore,07:10,17:45,10:35,"11,175"
+929,Vistara,Hyderabad,Bangalore,08:30,19:15,10:45,"11,175"
+930,Vistara,Bangalore,Bangalore,07:10,18:15,11:05,"11,175"
+931,Vistara,Hyderabad,Bangalore,08:30,20:55,12:25,"11,175"
+932,Vistara,Bangalore,Bangalore,08:30,23:10,14:40,"11,175"
+933,Vistara,Hyderabad,Bangalore,08:30,"07:50
+ ",23:20,"11,175"
+934,IndiGo,Bangalore,Bangalore,13:35,22:35,09:00,"11,302"
+935,Vistara,Hyderabad,Bangalore,18:25,19:30,01:05,"11,408"
+936,Go First,Bangalore,Bangalore,06:30,17:25,10:55,"12,950"
+937,SpiceJet,Hyderabad,Bangalore,19:10,23:25,04:15,"13,361"
+938,SpiceJet,Bangalore,Bangalore,06:20,23:25,17:05,"13,361"
+939,Vistara,Hyderabad,Bangalore,07:10,21:45,14:35,"14,519"
+940,Vistara,Bangalore,Bangalore,07:10,"09:30
+ ",02:20,"14,519"
+941,Vistara,Hyderabad,Bangalore,12:55,"07:50
+ ",18:55,"14,766"
+942,IndiGo,Bangalore,Bangalore,10:05,19:55,09:50,"14,767"
+943,Alliance Air,Hyderabad,Goa,13:15,16:55,03:40,"5,948"
+944,SpiceJet,Bangalore,Goa,06:20,07:45,01:25,"6,366"
+945,SpiceJet,Hyderabad,Goa,19:10,20:35,01:25,"6,366"
+946,IndiGo,Bangalore,Goa,05:35,06:50,01:15,"6,367"
+947,IndiGo,Hyderabad,Goa,16:20,17:35,01:15,"6,367"
+948,IndiGo,Bangalore,Goa,20:15,21:30,01:15,"6,367"
+949,IndiGo,Hyderabad,Goa,12:40,14:00,01:20,"6,367"
+950,IndiGo,Bangalore,Goa,21:40,23:00,01:20,"6,367"
+951,Air Asia,Hyderabad,Goa,16:35,18:00,01:25,"6,368"
+952,Air Asia,Bangalore,Goa,18:00,19:25,01:25,"6,368"
+953,Alliance Air,Hyderabad,Goa,11:00,12:45,01:45,"6,683"
+954,Air Asia,Bangalore,Goa,20:20,"00:45
+ ",04:25,"8,235"
+955,Vistara,Hyderabad,Goa,07:30,14:05,06:35,"9,558"
+956,Vistara,Bangalore,Goa,08:30,12:45,04:15,"10,293"
+957,Vistara,Hyderabad,Goa,07:10,12:45,05:35,"10,293"
+958,IndiGo,Bangalore,Goa,16:10,"01:10
+ ",09:00,"10,557"
+959,Air Asia,Hyderabad,Goa,14:20,"00:45
+ ",10:25,"10,733"
+960,Go First,Bangalore,Goa,06:30,12:45,06:15,"11,794"
+961,Go First,Hyderabad,Goa,06:30,16:40,10:10,"11,794"
+962,Go First,Bangalore,Goa,06:30,17:55,11:25,"11,794"
+963,Go First,Hyderabad,Goa,06:30,11:25,04:55,"12,093"
+964,Vistara,Bangalore,Goa,07:00,21:20,14:20,"13,380"
+965,Vistara,Hyderabad,Goa,10:10,21:20,11:10,"13,968"
+966,Vistara,Bangalore,Goa,10:10,"13:50
+ ",03:40,"14,703"
+967,Vistara,Hyderabad,Goa,12:55,"12:45
+ ",23:50,"14,768"
+968,Vistara,Bangalore,Goa,21:35,"12:45
+ ",15:10,"15,818"
+969,Vistara,Hyderabad,Goa,07:10,"14:05
+ ",06:55,"16,120"
+970,Vistara,Bangalore,Goa,07:10,"14:05
+ ",06:55,"16,120"
+971,Air India,Hyderabad,Goa,06:40,22:20,15:40,"16,438"
+972,Vistara,Bangalore,Goa,07:10,"14:05
+ ",06:55,"16,635"
+973,Vistara,Hyderabad,Goa,07:30,"12:45
+ ",05:15,"16,738"
+974,Vistara,Bangalore,Goa,07:30,"12:45
+ ",05:15,"16,738"
+975,Vistara,Hyderabad,Goa,07:30,"12:45
+ ",05:15,"16,738"
+976,Vistara,Bangalore,Goa,07:30,"12:45
+ ",05:15,"16,738"
+977,Vistara,Hyderabad,Goa,07:30,"12:45
+ ",05:15,"16,738"
+978,Air India,Bangalore,Goa,10:05,"06:20
+ ",20:15,"16,753"
+979,Air India,Hyderabad,Goa,06:40,"06:20
+ ",23:40,"16,753"
+980,Air India,Bangalore,Goa,06:40,"06:20
+ ",23:40,"16,753"
+981,Air India,Hyderabad,Goa,06:40,"06:20
+ ",23:40,"16,753"
+982,Air India,Bangalore,Goa,10:05,"14:35
+ ",04:30,"16,753"
+983,Air India,Hyderabad,Goa,06:40,14:35,07:55,"16,963"
+984,Air India,Bangalore,Goa,10:05,"06:20
+ ",20:15,"16,963"
+985,Air India,Hyderabad,Goa,10:05,"06:20
+ ",20:15,"16,963"
+986,Air India,Bangalore,Goa,20:40,"14:35
+ ",17:55,"17,175"
+987,Vistara,Hyderabad,Goa,19:05,"12:45
+ ",17:40,"17,288"
+988,Vistara,Bangalore,Goa,08:30,"14:05
+ ",05:35,"17,370"
+989,Vistara,Hyderabad,Goa,08:30,"14:05
+ ",05:35,"17,370"
+990,Vistara,Bangalore,Goa,08:30,"14:05
+ ",05:35,"17,370"
+991,Vistara,Hyderabad,Goa,08:30,"14:05
+ ",05:35,"17,370"
+992,Vistara,Bangalore,Goa,08:30,"14:05
+ ",05:35,"17,370"
+993,Vistara,Hyderabad,Goa,08:30,"14:05
+ ",05:35,"17,370"
+994,Vistara,Bangalore,Goa,07:10,"14:05
+ ",06:55,"17,370"
+995,Air India,Hyderabad,Goa,20:40,"14:35
+ ",17:55,"17,385"
+996,Air India,Bangalore,Goa,20:40,"14:35
+ ",17:55,"17,385"
+997,Vistara,Hyderabad,Goa,18:25,"14:05
+ ",19:40,"17,603"
+998,Air India,Bangalore,Goa,06:40,"00:40
+ ",18:00,"17,813"
+999,Go First,Hyderabad,Goa,05:50,13:20,07:30,"17,889"
+1000,Air India,Bangalore,Goa,10:05,"00:40
+ ",14:35,"18,023"
+1001,Air India,Hyderabad,Goa,06:40,13:35,06:55,"18,758"
+1002,Air India,Bangalore,Goa,20:40,"13:35
+ ",16:55,"19,126"
+1003,Air India,Hyderabad,Goa,20:40,"00:40
+ ",04:00,"19,126"
+1004,Vistara,Bangalore,Goa,13:25,21:20,07:55,"19,806"
+1005,Vistara,Hyderabad,Goa,20:30,"21:20
+ ",00:50,"19,806"
+1006,Vistara,Bangalore,Goa,17:40,"21:20
+ ",03:40,"21,066"
+1007,Vistara,Hyderabad,Goa,20:30,"13:50
+ ",17:20,"21,068"
+1008,Vistara,Bangalore,Goa,17:40,"13:50
+ ",20:10,"22,328"
+1009,Vistara,Hyderabad,Goa,07:00,13:50,06:50,"24,953"
+1010,Vistara,Bangalore,Goa,20:30,"12:45
+ ",16:15,"28,733"
+1011,Vistara,Hyderabad,Goa,07:30,21:20,13:50,"33,034"
+1012,IndiGo,Bangalore,New Delhi,18:00,20:00,02:00,"8,992"
+1013,IndiGo,Hyderabad,New Delhi,05:10,07:15,02:05,"8,992"
+1014,IndiGo,Bangalore,New Delhi,07:05,09:15,02:10,"8,992"
+1015,IndiGo,Hyderabad,New Delhi,22:35,"00:45
+ ",02:10,"8,992"
+1016,Go First,Bangalore,New Delhi,05:50,08:10,02:20,"8,992"
+1017,Go First,Hyderabad,New Delhi,17:05,19:25,02:20,"8,992"
+1018,SpiceJet,Bangalore,New Delhi,06:10,08:40,02:30,"8,992"
+1019,Air Asia,Hyderabad,New Delhi,21:00,"01:10
+ ",04:10,"8,992"
+1020,Air Asia,Bangalore,New Delhi,20:20,"01:20
+ ",05:00,"8,992"
+1021,Air Asia,Hyderabad,New Delhi,18:00,"01:50
+ ",07:50,"8,992"
+1022,Air Asia,Bangalore,New Delhi,16:35,"01:50
+ ",09:15,"8,992"
+1023,Go First,Hyderabad,New Delhi,06:30,19:00,12:30,"8,992"
+1024,Go First,Bangalore,New Delhi,06:30,20:05,13:35,"8,992"
+1025,SpiceJet,Hyderabad,New Delhi,19:10,"21:10
+ ",02:00,"8,992"
+1026,SpiceJet,Bangalore,New Delhi,17:00,"19:20
+ ",02:20,"8,992"
+1027,IndiGo,Hyderabad,New Delhi,14:35,22:35,08:00,"9,045"
+1028,Air Asia,Bangalore,New Delhi,20:20,"03:45
+ ",07:25,"9,202"
+1029,IndiGo,Hyderabad,New Delhi,07:40,12:00,04:20,"9,307"
+1030,IndiGo,Bangalore,New Delhi,18:10,23:05,04:55,"9,307"
+1031,IndiGo,Hyderabad,New Delhi,18:55,"00:05
+ ",05:10,"9,307"
+1032,IndiGo,Bangalore,New Delhi,10:55,17:05,06:10,"9,307"
+1033,IndiGo,Hyderabad,New Delhi,17:45,"00:25
+ ",06:40,"9,307"
+1034,IndiGo,Bangalore,New Delhi,14:10,21:15,07:05,"9,307"
+1035,IndiGo,Hyderabad,New Delhi,05:55,13:45,07:50,"9,307"
+1036,IndiGo,Bangalore,New Delhi,14:10,"00:05
+ ",09:55,"9,307"
+1037,IndiGo,Hyderabad,New Delhi,11:45,21:55,10:10,"9,307"
+1038,IndiGo,Bangalore,New Delhi,07:40,19:00,11:20,"9,307"
+1039,Vistara,Hyderabad,New Delhi,07:00,09:00,02:00,"9,308"
+1040,IndiGo,Bangalore,New Delhi,09:55,12:10,02:15,"9,412"
+1041,Air India,Hyderabad,New Delhi,06:40,08:55,02:15,"9,518"
+1042,IndiGo,Bangalore,New Delhi,16:25,18:35,02:10,"9,622"
+1043,IndiGo,Hyderabad,New Delhi,21:20,23:30,02:10,"9,622"
+1044,IndiGo,Bangalore,New Delhi,20:05,22:20,02:15,"9,622"
+1045,Air India,Hyderabad,New Delhi,10:05,12:20,02:15,"9,728"
+1046,Vistara,Bangalore,New Delhi,10:10,12:30,02:20,"9,728"
+1047,Air Asia,Hyderabad,New Delhi,12:10,"02:05
+ ",13:55,"9,730"
+1048,IndiGo,Bangalore,New Delhi,11:40,13:55,02:15,"9,832"
+1049,Air India,Hyderabad,New Delhi,20:40,23:00,02:20,"10,096"
+1050,IndiGo,Bangalore,New Delhi,07:40,15:25,07:45,"10,452"
+1051,IndiGo,Hyderabad,New Delhi,14:00,16:15,02:15,"10,777"
+1052,Vistara,Bangalore,New Delhi,13:25,15:35,02:10,"10,778"
+1053,Vistara,Hyderabad,New Delhi,20:30,22:45,02:15,"10,778"
+1054,Air Asia,Bangalore,New Delhi,14:20,"01:20
+ ",11:00,"11,409"
+1055,Air Asia,Hyderabad,New Delhi,21:55,"03:20
+ ",05:25,"11,619"
+1056,Vistara,Bangalore,New Delhi,17:40,19:55,02:15,"12,038"
+1057,IndiGo,Hyderabad,New Delhi,09:10,19:25,10:15,"12,741"
+1058,IndiGo,Bangalore,New Delhi,07:05,18:05,11:00,"12,825"
+1059,Air Asia,Hyderabad,New Delhi,20:20,"03:20
+ ",07:00,"13,403"
+1060,IndiGo,Bangalore,New Delhi,20:35,"07:40
+ ",11:05,"13,455"
+1061,IndiGo,Hyderabad,New Delhi,09:10,15:55,06:45,"13,623"
+1062,Vistara,Bangalore,New Delhi,07:10,"08:20
+ ",01:10,"13,745"
+1063,Vistara,Hyderabad,New Delhi,07:10,"10:25
+ ",03:15,"13,745"
+1064,Vistara,Bangalore,New Delhi,07:10,"22:10
+ ",15:00,"13,745"
+1065,SpiceJet,Hyderabad,New Delhi,19:10,"17:45
+ ",22:35,"13,895"
+1066,Vistara,Bangalore,New Delhi,07:10,"09:35
+ ",02:25,"14,062"
+1067,SpiceJet,Hyderabad,New Delhi,06:20,21:00,14:40,"14,463"
+1068,Vistara,Bangalore,New Delhi,07:10,21:35,14:25,"14,482"
+1069,Vistara,Hyderabad,New Delhi,07:10,12:40,05:30,"14,554"
+1070,Vistara,Bangalore,New Delhi,07:10,14:30,07:20,"14,554"
+1071,Vistara,Hyderabad,New Delhi,07:10,19:45,12:35,"14,554"
+1072,Vistara,Bangalore,New Delhi,07:10,20:40,13:30,"14,554"
+1073,Vistara,Hyderabad,New Delhi,07:10,21:55,14:45,"14,554"
+1074,Vistara,Bangalore,New Delhi,07:10,23:00,15:50,"14,554"
+1075,Vistara,Hyderabad,New Delhi,07:10,"00:10
+ ",17:00,"14,554"
+1076,Vistara,Bangalore,New Delhi,07:10,"00:55
+ ",17:45,"14,554"
+1077,Vistara,Hyderabad,New Delhi,07:10,"10:25
+ ",03:15,"14,690"
+1078,Vistara,Bangalore,New Delhi,07:10,"22:10
+ ",15:00,"14,690"
+1079,Vistara,Hyderabad,New Delhi,07:10,"08:05
+ ",00:55,"14,871"
+1080,Vistara,Bangalore,New Delhi,08:30,"08:20
+ ",23:50,"14,902"
+1081,Vistara,Hyderabad,New Delhi,08:30,"10:25
+ ",01:55,"14,902"
+1082,Vistara,Bangalore,New Delhi,08:30,"22:10
+ ",13:40,"14,902"
+1083,Vistara,Hyderabad,New Delhi,07:10,"08:20
+ ",01:10,"15,007"
+1084,Vistara,Bangalore,New Delhi,07:10,"10:25
+ ",03:15,"15,007"
+1085,Vistara,Hyderabad,New Delhi,07:10,"22:10
+ ",15:00,"15,007"
+1086,IndiGo,Bangalore,New Delhi,14:50,20:25,05:35,"15,030"
+1087,Vistara,Hyderabad,New Delhi,08:30,21:35,13:05,"15,640"
+1088,Vistara,Bangalore,New Delhi,08:30,14:30,06:00,"15,711"
+1089,Vistara,Hyderabad,New Delhi,08:30,19:45,11:15,"15,711"
+1090,Vistara,Bangalore,New Delhi,08:30,20:40,12:10,"15,711"
+1091,Vistara,Hyderabad,New Delhi,08:30,21:55,13:25,"15,711"
+1092,Vistara,Bangalore,New Delhi,08:30,23:00,14:30,"15,711"
+1093,Vistara,Hyderabad,New Delhi,08:30,"00:10
+ ",15:40,"15,711"
+1094,Vistara,Bangalore,New Delhi,08:30,"10:25
+ ",01:55,"15,847"
+1095,Air India,Hyderabad,New Delhi,05:55,"09:15
+ ",03:20,"16,133"
+1096,Vistara,Bangalore,New Delhi,08:30,"08:20
+ ",23:50,"16,165"
+1097,Vistara,Hyderabad,New Delhi,08:30,"10:25
+ ",01:55,"16,165"
+1098,Vistara,Bangalore,New Delhi,12:55,19:45,06:50,"16,236"
+1099,Vistara,Hyderabad,New Delhi,12:55,20:40,07:45,"16,236"
+1100,Vistara,Bangalore,New Delhi,12:55,21:55,09:00,"16,236"
+1101,Vistara,Hyderabad,New Delhi,12:55,23:00,10:05,"16,236"
+1102,Air India,Bangalore,New Delhi,05:55,13:00,07:05,"16,343"
+1103,Air India,Goa,New Delhi,05:55,22:35,16:40,"16,343"
+1104,SpiceJet,Bangalore,New Delhi,06:20,16:25,10:05,"16,478"
+1105,Air India,Goa,New Delhi,05:55,17:55,12:00,"17,236"
+1106,SpiceJet,Bangalore,New Delhi,06:20,17:45,11:25,"17,875"
+1107,Vistara,Goa,New Delhi,11:35,19:50,08:15,"18,128"
+1108,Vistara,Bangalore,New Delhi,08:30,16:55,08:25,"19,598"
+1109,IndiGo,Goa,New Delhi,10:20,15:35,05:15,"19,702"
+1110,Air Asia,Bangalore,New Delhi,14:20,"03:20
+ ",13:00,"20,855"
+1111,Vistara,Goa,New Delhi,07:10,14:05,06:55,"21,696"
+1112,Vistara,Bangalore,New Delhi,08:30,14:05,05:35,"22,853"
+1113,Vistara,Goa,New Delhi,12:55,18:05,05:10,"23,378"
+1114,Vistara,Bangalore,New Delhi,07:30,14:20,06:50,"24,006"
+1115,Vistara,Goa,New Delhi,18:25,23:50,05:25,"24,008"
+1116,Air Asia,Bangalore,New Delhi,14:20,21:10,06:50,"29,571"
+1117,Go First,Goa,Mumbai,06:30,07:55,01:25,"6,366"
+1118,Vistara,Bangalore,Mumbai,07:10,08:40,01:30,"6,366"
+1119,IndiGo,Goa,Mumbai,04:15,05:40,01:25,"6,367"
+1120,IndiGo,Bangalore,Mumbai,06:45,08:15,01:30,"6,367"
+1121,IndiGo,Goa,Mumbai,08:10,09:45,01:35,"6,367"
+1122,IndiGo,Bangalore,Mumbai,09:40,14:25,04:45,"7,102"
+1123,Vistara,Goa,Mumbai,08:30,10:00,01:30,"7,523"
+1124,IndiGo,Bangalore,Mumbai,21:55,23:10,01:15,"7,785"
+1125,IndiGo,Goa,Mumbai,13:15,14:45,01:30,"7,785"
+1126,Vistara,Bangalore,Mumbai,12:55,14:30,01:35,"8,048"
+1127,IndiGo,Goa,Mumbai,10:45,12:10,01:25,"8,100"
+1128,Vistara,Bangalore,Mumbai,21:35,23:00,01:25,"9,098"
+1129,SpiceJet,Goa,Mumbai,19:10,"14:55
+ ",19:45,"9,223"
+1130,SpiceJet,Bangalore,Mumbai,19:10,"18:50
+ ",23:40,"9,223"
+1131,IndiGo,Goa,Mumbai,19:35,20:45,01:10,"9,885"
+1132,IndiGo,Bangalore,Mumbai,17:50,19:15,01:25,"10,095"
+1133,Vistara,Goa,Mumbai,19:05,20:30,01:25,"10,568"
+1134,Air Asia,Bangalore,Mumbai,18:00,23:45,05:45,"10,725"
+1135,Air Asia,Goa,Mumbai,16:35,23:45,07:10,"10,725"
+1136,Air India,Bangalore,Mumbai,06:40,23:35,16:55,"10,978"
+1137,IndiGo,Goa,Mumbai,14:35,18:40,04:05,"10,987"
+1138,Air Asia,Bangalore,Mumbai,14:20,20:40,06:20,"11,041"
+1139,Air India,Goa,Mumbai,06:40,12:35,05:55,"11,188"
+1140,Air India,Bangalore,Mumbai,06:40,18:10,11:30,"11,188"
+1141,Air India,Goa,Mumbai,10:05,23:35,13:30,"11,188"
+1142,Air India,Bangalore,Mumbai,06:40,21:15,14:35,"11,188"
+1143,Air India,Goa,Mumbai,06:40,22:10,15:30,"11,188"
+1144,Air India,Bangalore,Mumbai,06:40,22:10,15:30,"11,188"
+1145,Air India,Goa,Mumbai,10:05,18:10,08:05,"11,398"
+1146,Air India,Bangalore,Mumbai,10:05,21:15,11:10,"11,398"
+1147,Air India,Goa,Mumbai,10:05,22:10,12:05,"11,398"
+1148,Air India,Bangalore,Mumbai,10:05,22:10,12:05,"11,398"
+1149,Air India,Goa,Mumbai,10:05,"09:05
+ ",23:00,"11,398"
+1150,Air India,Bangalore,Mumbai,10:05,"10:10
+ ",00:05,"11,398"
+1151,Air India,Goa,Mumbai,20:40,"12:35
+ ",15:55,"11,610"
+1152,Air India,Bangalore,Mumbai,20:40,"16:15
+ ",19:35,"11,610"
+1153,Air India,Goa,Mumbai,20:40,"09:05
+ ",12:25,"11,820"
+1154,Air India,Bangalore,Mumbai,20:40,"10:10
+ ",13:30,"11,820"
+1155,IndiGo,Goa,Mumbai,10:55,16:55,06:00,"11,827"
+1156,IndiGo,Bangalore,Mumbai,21:40,"01:30
+ ",03:50,"12,037"
+1157,IndiGo,Goa,Mumbai,20:15,"01:30
+ ",05:15,"12,037"
+1158,IndiGo,Bangalore,Mumbai,16:20,"01:30
+ ",09:10,"12,037"
+1159,IndiGo,Goa,Mumbai,21:40,"08:15
+ ",10:35,"12,247"
+1160,Vistara,Bangalore,Mumbai,07:00,12:35,05:35,"12,792"
+1161,Vistara,Goa,Mumbai,07:00,14:00,07:00,"12,792"
+1162,SpiceJet,Bangalore,Chennai,01:05,"00:15
+ ",23:10,"7,311"
+1163,IndiGo,Goa,Chennai,02:05,08:00,05:55,"8,046"
+1164,IndiGo,Bangalore,Chennai,02:25,09:05,06:40,"8,046"
+1165,IndiGo,Goa,Chennai,02:25,10:50,08:25,"8,046"
+1166,IndiGo,Bangalore,Chennai,02:05,07:00,04:55,"9,007"
+1167,IndiGo,Goa,Chennai,02:25,12:10,09:45,"11,354"
+1168,SpiceJet,Bangalore,Chennai,21:55,"07:15
+ ",09:20,"12,730"
+1169,IndiGo,Goa,Chennai,08:15,12:10,03:55,"13,490"
+1170,IndiGo,Bangalore,Chennai,00:10,07:30,07:20,"13,769"
+1171,IndiGo,Goa,Chennai,00:10,08:50,08:40,"13,769"
+1172,Air India,Bangalore,Chennai,06:50,"07:25
+ ",00:35,"13,822"
+1173,IndiGo,Goa,Chennai,02:05,11:25,09:20,"14,346"
+1174,IndiGo,Bangalore,Chennai,19:50,21:20,01:30,"14,451"
+1175,IndiGo,Goa,Chennai,06:45,12:15,05:30,"14,714"
+1176,SpiceJet,Bangalore,Chennai,13:40,"00:15
+ ",10:35,"15,124"
+1177,Vistara,Goa,Chennai,08:25,23:05,14:40,"15,552"
+1178,Vistara,Bangalore,Chennai,08:25,"11:50
+ ",03:25,"15,552"
+1179,IndiGo,Goa,Chennai,23:10,"09:05
+ ",09:55,"16,079"
+1180,Air India,Bangalore,Chennai,23:10,"07:25
+ ",08:15,"16,132"
+1181,SpiceJet,Goa,Chennai,13:30,21:30,08:00,"16,273"
+1182,Vistara,Bangalore,Chennai,08:25,19:50,11:25,"16,290"
+1183,Vistara,Goa,Chennai,08:25,"08:50
+ ",00:25,"16,290"
+1184,Air India,Bangalore,Chennai,23:10,"10:55
+ ",11:45,"16,342"
+1185,Air India,Goa,Chennai,06:50,"08:55
+ ",02:05,"16,379"
+1186,Air India,Bangalore,Chennai,06:50,"08:55
+ ",02:05,"16,379"
+1187,Air India,Goa,Chennai,06:50,"08:55
+ ",02:05,"16,379"
+1188,Air India,Bangalore,Chennai,06:50,"08:55
+ ",02:05,"16,379"
+1189,Air India,Goa,Chennai,06:50,"08:55
+ ",02:05,"16,379"
+1190,Air India,Bangalore,Chennai,06:50,"08:55
+ ",02:05,"16,379"
+1191,Air India,Goa,Chennai,06:50,23:35,16:45,"16,589"
+1192,Air India,Bangalore,Chennai,06:50,23:35,16:45,"16,589"
+1193,Air India,Goa,Chennai,06:50,23:35,16:45,"16,589"
+1194,Air India,Bangalore,Chennai,06:50,23:35,16:45,"16,589"
+1195,IndiGo,Goa,Chennai,14:30,"00:25
+ ",09:55,"17,003"
+1196,IndiGo,Bangalore,Chennai,07:20,11:25,04:05,"17,024"
+1197,IndiGo,Goa,Chennai,22:00,"07:00
+ ",09:00,"17,302"
+1198,IndiGo,Bangalore,Chennai,22:00,"08:00
+ ",10:00,"17,302"
+1199,IndiGo,Goa,Chennai,14:30,22:05,07:35,"17,843"
+1200,Go First,Bangalore,Chennai,18:25,"07:40
+ ",13:15,"17,883"
+1201,IndiGo,Goa,Chennai,13:10,18:45,05:35,"17,969"
+1202,IndiGo,Bangalore,Chennai,16:30,"00:05
+ ",07:35,"17,969"
+1203,IndiGo,Goa,Chennai,13:10,21:35,08:25,"17,969"
+1204,IndiGo,Bangalore,Chennai,16:30,"02:10
+ ",09:40,"17,969"
+1205,Vistara,Goa,Chennai,13:20,23:05,09:45,"18,020"
+1206,Air India,Bangalore,Chennai,15:15,"07:25
+ ",16:10,"18,022"
+1207,Air India,Goa,Chennai,15:15,"10:55
+ ",19:40,"18,232"
+1208,IndiGo,Bangalore,Chennai,07:20,15:10,07:50,"18,284"
+1209,Air India,Goa,Chennai,01:15,08:55,07:40,"18,652"
+1210,Vistara,Bangalore,Chennai,13:20,19:50,06:30,"18,757"
+1211,IndiGo,Goa,Chennai,08:15,15:55,07:40,"19,019"
+1212,IndiGo,Bangalore,Chennai,14:40,18:30,03:50,"20,174"
+1213,IndiGo,Goa,Chennai,14:30,19:15,04:45,"20,993"
+1214,Air India,Bangalore,Chennai,14:15,"08:55
+ ",18:40,"21,067"
+1215,Vistara,Goa,Chennai,21:55,"20:15
+ ",22:20,"21,172"
+1216,Air India,Bangalore,Chennai,14:15,23:35,09:20,"21,277"
+1217,IndiGo,Goa,Chennai,14:40,21:05,06:25,"21,329"
+1218,IndiGo,Bangalore,Chennai,14:30,20:15,05:45,"21,623"
+1219,Vistara,Goa,Chennai,21:55,"16:35
+ ",18:40,"21,697"
+1220,Vistara,Bangalore,Chennai,14:40,"19:50
+ ",05:10,"22,658"
+1221,Vistara,Goa,Chennai,14:40,"19:50
+ ",05:10,"22,658"
+1222,Vistara,Bangalore,Chennai,14:40,"23:05
+ ",08:25,"22,658"
+1223,Vistara,Goa,Chennai,14:40,"23:05
+ ",08:25,"22,658"
+1224,Vistara,Bangalore,Chennai,21:55,"09:50
+ ",11:55,"22,957"
+1225,Vistara,Goa,Chennai,10:20,22:45,12:25,"23,585"
+1226,Vistara,Bangalore,Chennai,14:40,23:05,08:25,"23,690"
+1227,Vistara,Goa,Chennai,14:40,"08:50
+ ",18:10,"23,690"
+1228,Vistara,Bangalore,Chennai,14:40,"11:50
+ ",21:10,"23,690"
+1229,Vistara,Goa,Chennai,14:40,"19:50
+ ",05:10,"23,690"
+1230,Vistara,Bangalore,Chennai,10:20,20:15,09:55,"23,902"
+1231,Vistara,Goa,Chennai,14:40,"08:50
+ ",18:10,"24,425"
+1232,Vistara,Bangalore,Chennai,14:40,"08:50
+ ",18:10,"24,425"
+1233,Vistara,Goa,Chennai,14:40,"11:50
+ ",21:10,"24,425"
+1234,Vistara,Bangalore,Chennai,14:40,"11:50
+ ",21:10,"24,425"
+1235,Vistara,Goa,Chennai,14:40,"19:50
+ ",05:10,"24,425"
+1236,Vistara,Bangalore,Chennai,14:40,"19:50
+ ",05:10,"24,425"
+1237,Vistara,Goa,Chennai,14:40,"23:05
+ ",08:25,"24,425"
+1238,Vistara,Bangalore,Chennai,14:40,"20:15
+ ",05:35,"25,895"
+1239,Vistara,Goa,Chennai,10:20,16:35,06:15,"27,157"
+1240,Vistara,Bangalore,Chennai,14:25,22:45,08:20,"27,260"
+1241,Air India,Goa,Chennai,01:15,19:30,18:15,"29,572"
+1242,Vistara,Bangalore,Chennai,14:25,"09:50
+ ",19:25,"29,782"
+1243,IndiGo,Goa,Bangalore,02:25,03:35,01:10,"6,156"
+1244,IndiGo,Bangalore,Bangalore,23:10,"00:25
+ ",01:15,"8,676"
+1245,SpiceJet,Goa,Bangalore,21:55,23:25,01:30,"8,781"
+1246,IndiGo,Bangalore,Bangalore,21:10,22:20,01:10,"9,936"
+1247,IndiGo,Goa,Bangalore,14:40,15:50,01:10,"12,141"
+1248,Air Asia,Bangalore,Bangalore,15:15,16:25,01:10,"12,141"
+1249,IndiGo,New Delhi,Bangalore,08:15,09:30,01:15,"12,141"
+1250,Go First,Bangalore,Bangalore,13:50,15:05,01:15,"12,141"
+1251,Vistara,New Delhi,Bangalore,14:40,15:55,01:15,"12,142"
+1252,Go First,Bangalore,Bangalore,06:40,17:25,10:45,"12,213"
+1253,Air India,New Delhi,Bangalore,06:50,"07:50
+ ",01:00,"12,352"
+1254,Air India,Bangalore,Bangalore,06:50,11:10,04:20,"12,562"
+1255,Air India,New Delhi,Bangalore,06:50,18:20,11:30,"12,562"
+1256,Air Asia,Bangalore,Bangalore,18:30,23:10,04:40,"12,982"
+1257,Go First,New Delhi,Bangalore,11:55,17:25,05:30,"13,893"
+1258,Go First,Bangalore,Bangalore,11:55,21:55,10:00,"13,893"
+1259,Vistara,New Delhi,Bangalore,08:25,"07:50
+ ",23:25,"14,082"
+1260,Vistara,Bangalore,Bangalore,08:25,20:55,12:30,"14,400"
+1261,Vistara,New Delhi,Bangalore,08:25,23:10,14:45,"14,400"
+1262,Air India,Bangalore,Bangalore,23:10,"07:50
+ ",08:40,"14,662"
+1263,Air India,New Delhi,Bangalore,23:10,"11:10
+ ",12:00,"14,662"
+1264,Air India,Bangalore,Bangalore,23:10,"18:20
+ ",19:10,"14,662"
+1265,Vistara,New Delhi,Bangalore,08:25,19:15,10:50,"14,820"
+1266,Vistara,Bangalore,Bangalore,08:25,17:45,09:20,"15,345"
+1267,Vistara,New Delhi,Bangalore,08:25,18:15,09:50,"15,345"
+1268,Go First,Bangalore,Bangalore,07:15,22:20,15:05,"15,368"
+1269,Go First,New Delhi,Bangalore,13:15,17:25,04:10,"15,783"
+1270,Go First,Bangalore,Bangalore,13:15,21:55,08:40,"15,783"
+1271,Vistara,New Delhi,Bangalore,08:25,"10:45
+ ",02:20,"15,870"
+1272,Vistara,Bangalore,Bangalore,13:20,"07:50
+ ",18:30,"16,550"
+1273,Air India,New Delhi,Bangalore,15:15,"07:50
+ ",16:35,"16,552"
+1274,Air India,Bangalore,Bangalore,15:15,"11:10
+ ",19:55,"16,552"
+1275,Vistara,New Delhi,Bangalore,13:20,20:55,07:35,"16,867"
+1276,Vistara,Bangalore,Bangalore,13:20,23:10,09:50,"16,867"
+1277,Air India,New Delhi,Bangalore,06:50,"00:05
+ ",17:15,"17,224"
+1278,Air India,Bangalore,Bangalore,06:50,"00:05
+ ",17:15,"17,224"
+1279,Vistara,New Delhi,Bangalore,13:20,19:15,05:55,"17,287"
+1280,Vistara,Bangalore,Bangalore,13:20,17:45,04:25,"17,812"
+1281,Vistara,New Delhi,Bangalore,13:20,18:15,04:55,"17,812"
+1282,Vistara,Bangalore,Bangalore,08:25,"08:50
+ ",00:25,"17,970"
+1283,SpiceJet,New Delhi,Bangalore,01:05,16:50,15:45,"18,400"
+1284,Air India,Bangalore,Bangalore,01:15,"00:05
+ ",22:50,"19,387"
+1285,Vistara,New Delhi,Bangalore,21:55,"18:50
+ ",20:55,"20,435"
+1286,Vistara,Bangalore,Bangalore,21:55,"20:25
+ ",22:30,"20,435"
+1287,Vistara,New Delhi,Bangalore,21:55,"22:40
+ ",00:45,"20,435"
+1288,Vistara,Bangalore,Bangalore,21:55,"23:20
+ ",01:25,"20,435"
+1289,Go First,New Delhi,Bangalore,12:00,23:20,11:20,"20,702"
+1290,Air India,Bangalore,Bangalore,01:15,12:30,11:15,"21,067"
+1291,Air India,New Delhi,Bangalore,14:15,"00:05
+ ",09:50,"21,802"
+1292,Air India,Bangalore,Bangalore,14:15,"08:55
+ ",18:40,"21,802"
+1293,Air India,New Delhi,Bangalore,14:15,"20:15
+ ",06:00,"21,802"
+1294,Vistara,Bangalore,Bangalore,21:55,"16:50
+ ",18:55,"22,957"
+1295,Air India,New Delhi,Bangalore,14:15,"16:15
+ ",02:00,"23,272"
+1296,Vistara,Bangalore,Bangalore,21:55,"09:00
+ ",11:05,"24,007"
+1297,Vistara,New Delhi,Bangalore,10:20,23:20,13:00,"25,372"
+1298,Air India,Bangalore,Bangalore,14:15,"12:30
+ ",22:15,"25,477"
+1299,Air India,New Delhi,Bangalore,01:15,16:15,15:00,"25,897"
+1300,Vistara,Bangalore,Bangalore,10:20,22:40,12:20,"27,157"
+1301,Vistara,New Delhi,Bangalore,10:20,"09:00
+ ",22:40,"27,157"
+1302,Vistara,Bangalore,Bangalore,14:25,"18:50
+ ",04:25,"27,260"
+1303,Air India,New Delhi,Bangalore,01:15,08:55,07:40,"27,262"
+1304,Vistara,Bangalore,Bangalore,14:25,23:20,08:55,"29,047"
+1305,Vistara,New Delhi,Bangalore,21:55,"11:50
+ ",13:55,"29,047"
+1306,Go First,Bangalore,Bangalore,17:25,"08:30
+ ",15:05,"29,438"
+1307,Vistara,New Delhi,Bangalore,14:25,22:40,08:15,"30,832"
+1308,Vistara,Bangalore,Bangalore,14:25,"09:00
+ ",18:35,"30,832"
+1309,Vistara,New Delhi,Bangalore,21:55,"10:50
+ ",12:55,"31,357"
+1310,Vistara,Bangalore,Bangalore,10:20,18:50,08:30,"32,197"
+1311,Vistara,New Delhi,Bangalore,10:20,20:25,10:05,"32,197"
+1312,Vistara,Bangalore,Bangalore,10:20,16:50,06:30,"34,507"
+1313,IndiGo,New Delhi,Hyderabad,02:05,03:20,01:15,"6,156"
+1314,IndiGo,Bangalore,Hyderabad,01:40,07:35,05:55,"6,156"
+1315,Alliance Air,New Delhi,Hyderabad,13:15,15:00,01:45,"8,257"
+1316,IndiGo,Bangalore,Hyderabad,07:20,08:35,01:15,"8,781"
+1317,Go First,New Delhi,Hyderabad,06:40,21:00,14:20,"11,059"
+1318,SpiceJet,Bangalore,Hyderabad,08:05,09:40,01:35,"11,405"
+1319,Air India,New Delhi,Hyderabad,06:50,21:40,14:50,"11,407"
+1320,IndiGo,Bangalore,Hyderabad,14:30,15:35,01:05,"11,721"
+1321,IndiGo,New Delhi,Hyderabad,22:00,23:15,01:15,"11,931"
+1322,Air Asia,Bangalore,Hyderabad,18:30,19:45,01:15,"12,141"
+1323,SpiceJet,New Delhi,Hyderabad,21:05,22:40,01:35,"12,141"
+1324,Alliance Air,Bangalore,Hyderabad,17:25,21:15,03:50,"12,142"
+1325,Go First,New Delhi,Hyderabad,11:55,21:00,09:05,"12,739"
+1326,Vistara,Bangalore,Hyderabad,08:25,20:55,12:30,"12,927"
+1327,Vistara,New Delhi,Hyderabad,08:25,"07:50
+ ",23:25,"14,610"
+1328,Go First,Bangalore,Hyderabad,13:15,21:00,07:45,"14,629"
+1329,Vistara,New Delhi,Hyderabad,08:25,12:15,03:50,"15,135"
+1330,Vistara,Bangalore,Hyderabad,08:25,18:25,10:00,"15,135"
+1331,Vistara,New Delhi,Hyderabad,13:20,20:55,07:35,"15,395"
+1332,Air India,Bangalore,Hyderabad,23:10,"21:40
+ ",22:30,"15,450"
+1333,Air India,New Delhi,Hyderabad,15:15,21:40,06:25,"15,607"
+1334,Air India,Bangalore,Hyderabad,06:50,"09:25
+ ",02:35,"16,227"
+1335,Air India,New Delhi,Hyderabad,06:50,"09:25
+ ",02:35,"16,227"
+1336,Air India,Bangalore,Hyderabad,06:50,"09:25
+ ",02:35,"16,227"
+1337,Air India,New Delhi,Hyderabad,06:50,"09:25
+ ",02:35,"16,227"
+1338,Air India,Bangalore,Hyderabad,06:50,"09:25
+ ",02:35,"16,227"
+1339,Air India,Mumbai,Hyderabad,06:50,"09:25
+ ",02:35,"16,227"
+1340,Vistara,Bangalore,Hyderabad,08:25,22:40,14:15,"16,395"
+1341,Vistara,Mumbai,Hyderabad,13:20,"12:15
+ ",22:55,"16,552"
+1342,Vistara,Bangalore,Hyderabad,13:20,"07:50
+ ",18:30,"17,077"
+1343,Vistara,Mumbai,Hyderabad,13:20,18:25,05:05,"17,602"
+1344,Air India,Bangalore,Hyderabad,06:50,23:45,16:55,"17,888"
+1345,Air India,Mumbai,Hyderabad,01:15,09:25,08:10,"18,022"
+1346,Vistara,Bangalore,Hyderabad,14:40,21:10,06:30,"18,337"
+1347,Vistara,Mumbai,Hyderabad,13:20,22:40,09:20,"18,862"
+1348,Vistara,Bangalore,Hyderabad,14:40,"08:55
+ ",18:15,"18,862"
+1349,Go First,Mumbai,Hyderabad,12:00,23:10,11:10,"19,862"
+1350,Vistara,Bangalore,Hyderabad,21:55,"12:40
+ ",14:45,"19,912"
+1351,Vistara,Mumbai,Hyderabad,21:55,"17:00
+ ",19:05,"19,912"
+1352,Vistara,Bangalore,Hyderabad,21:55,"19:50
+ ",21:55,"19,912"
+1353,Vistara,Mumbai,Hyderabad,14:40,"18:25
+ ",03:45,"20,820"
+1354,Vistara,Bangalore,Hyderabad,14:40,"20:55
+ ",06:15,"20,820"
+1355,Vistara,Mumbai,Hyderabad,14:40,"22:40
+ ",08:00,"20,820"
+1356,Air India,Bangalore,Hyderabad,14:15,"09:25
+ ",19:10,"20,962"
+1357,Vistara,Mumbai,Hyderabad,14:40,"18:25
+ ",03:45,"21,264"
+1358,Vistara,Bangalore,Hyderabad,14:40,"20:55
+ ",06:15,"21,264"
+1359,Vistara,Mumbai,Hyderabad,14:40,"22:40
+ ",08:00,"21,264"
+1360,Vistara,Bangalore,Hyderabad,14:40,"18:25
+ ",03:45,"21,779"
+1361,Air India,Mumbai,Hyderabad,15:15,23:45,08:30,"22,088"
+1362,Air India,Bangalore,Hyderabad,14:15,23:45,09:30,"22,380"
+1363,Vistara,Mumbai,Hyderabad,14:40,"12:15
+ ",21:35,"22,514"
+1364,Vistara,Bangalore,Hyderabad,14:40,"12:15
+ ",21:35,"22,514"
+1365,Vistara,Mumbai,Hyderabad,14:40,"12:15
+ ",21:35,"22,514"
+1366,Vistara,Bangalore,Hyderabad,14:40,"18:25
+ ",03:45,"22,514"
+1367,Vistara,Mumbai,Hyderabad,14:40,"18:25
+ ",03:45,"22,514"
+1368,Vistara,Bangalore,Hyderabad,21:55,"09:25
+ ",11:30,"22,642"
+1369,Vistara,Mumbai,Hyderabad,10:20,22:55,12:35,"23,482"
+1370,Vistara,Bangalore,Hyderabad,10:20,19:50,09:30,"24,532"
+1371,Vistara,Mumbai,Hyderabad,10:20,17:00,06:40,"25,057"
+1372,Vistara,Bangalore,Hyderabad,14:40,"07:50
+ ",17:10,"26,842"
+1373,Vistara,Mumbai,Hyderabad,14:25,22:55,08:30,"27,157"
+1374,Vistara,Bangalore,Hyderabad,14:40,"07:50
+ ",17:10,"27,367"
+1375,Vistara,Mumbai,Hyderabad,14:40,"07:50
+ ",17:10,"27,367"
+1376,Vistara,Bangalore,Hyderabad,14:25,"09:25
+ ",19:00,"29,467"
+1377,IndiGo,Mumbai,New Delhi,00:50,03:25,02:35,"9,621"
+1378,SpiceJet,Bangalore,New Delhi,01:05,04:40,03:35,"9,621"
+1379,SpiceJet,Mumbai,New Delhi,01:05,08:50,07:45,"9,621"
+1380,Go First,Bangalore,New Delhi,06:40,19:00,12:20,"9,621"
+1381,SpiceJet,Mumbai,New Delhi,07:50,21:00,13:10,"9,621"
+1382,Air India,Bangalore,New Delhi,01:15,03:55,02:40,"9,622"
+1383,IndiGo,Mumbai,New Delhi,00:55,05:50,04:55,"9,936"
+1384,IndiGo,Bangalore,New Delhi,01:40,06:55,05:15,"9,936"
+1385,IndiGo,Mumbai,New Delhi,19:50,"01:45
+ ",05:55,"9,936"
+1386,IndiGo,Bangalore,New Delhi,00:55,07:30,06:35,"9,936"
+1387,IndiGo,Mumbai,New Delhi,22:00,"00:35
+ ",02:35,"10,724"
+1388,SpiceJet,Bangalore,New Delhi,18:10,21:00,02:50,"10,775"
+1389,Vistara,Mumbai,New Delhi,21:55,"00:40
+ ",02:45,"11,407"
+1390,Go First,Bangalore,New Delhi,12:00,14:40,02:40,"11,805"
+1391,Air India,Mumbai,New Delhi,14:15,16:45,02:30,"12,037"
+1392,IndiGo,Bangalore,New Delhi,17:15,23:20,06:05,"12,057"
+1393,IndiGo,Mumbai,New Delhi,21:10,"03:30
+ ",06:20,"12,057"
+1394,SpiceJet,Bangalore,New Delhi,01:05,19:45,18:40,"12,424"
+1395,IndiGo,Mumbai,New Delhi,02:05,07:15,05:10,"12,587"
+1396,Air Asia,Bangalore,New Delhi,15:15,"01:20
+ ",10:05,"12,772"
+1397,Air Asia,Mumbai,New Delhi,08:20,10:55,02:35,"13,087"
+1398,SpiceJet,Bangalore,New Delhi,15:05,17:45,02:40,"13,295"
+1399,IndiGo,Mumbai,New Delhi,18:30,"00:25
+ ",05:55,"13,648"
+1400,IndiGo,Bangalore,New Delhi,13:00,15:35,02:35,"13,664"
+1401,Air Asia,Mumbai,New Delhi,23:05,"01:50
+ ",02:45,"14,031"
+1402,Air India,Bangalore,New Delhi,06:50,12:20,05:30,"14,032"
+1403,Air India,Mumbai,New Delhi,06:50,15:15,08:25,"14,032"
+1404,Air India,Bangalore,New Delhi,06:50,18:20,11:30,"14,032"
+1405,Air India,Mumbai,New Delhi,06:50,19:10,12:20,"14,032"
+1406,Air India,Bangalore,New Delhi,06:50,20:10,13:20,"14,032"
+1407,Air India,Mumbai,New Delhi,06:50,21:15,14:25,"14,032"
+1408,Air India,Bangalore,New Delhi,06:50,"09:05
+ ",02:15,"14,032"
+1409,Air India,Mumbai,New Delhi,06:50,"10:15
+ ",03:25,"14,032"
+1410,Air India,Bangalore,New Delhi,06:50,"11:10
+ ",04:20,"14,032"
+1411,IndiGo,Mumbai,New Delhi,02:05,09:15,07:10,"14,241"
+1412,Vistara,Bangalore,New Delhi,10:20,12:55,02:35,"14,557"
+1413,IndiGo,Mumbai,New Delhi,15:25,18:00,02:35,"14,609"
+1414,IndiGo,Bangalore,New Delhi,14:05,16:50,02:45,"14,609"
+1415,IndiGo,Mumbai,New Delhi,06:45,12:20,05:35,"14,714"
+1416,IndiGo,Bangalore,New Delhi,06:45,14:10,07:25,"14,714"
+1417,IndiGo,Mumbai,New Delhi,02:25,08:45,06:20,"15,134"
+1418,Go First,Bangalore,New Delhi,11:55,19:00,07:05,"15,363"
+1419,Go First,Mumbai,New Delhi,11:55,20:05,08:10,"15,363"
+1420,Go First,Bangalore,New Delhi,11:55,23:35,11:40,"15,363"
+1421,Go First,Mumbai,New Delhi,11:55,"00:50
+ ",12:55,"15,363"
+1422,Vistara,Bangalore,New Delhi,08:25,12:40,04:15,"15,552"
+1423,Vistara,Mumbai,New Delhi,08:25,14:30,06:05,"15,552"
+1424,Vistara,Bangalore,New Delhi,08:25,19:45,11:20,"15,552"
+1425,Vistara,Mumbai,New Delhi,08:25,20:40,12:15,"15,552"
+1426,Vistara,Bangalore,New Delhi,08:25,21:55,13:30,"15,552"
+1427,Vistara,Mumbai,New Delhi,08:25,23:00,14:35,"15,552"
+1428,Vistara,Bangalore,New Delhi,08:25,"00:10
+ ",15:45,"15,552"
+1429,Vistara,Mumbai,New Delhi,08:25,"00:55
+ ",16:30,"15,552"
+1430,IndiGo,Bangalore,New Delhi,14:45,21:15,06:30,"15,769"
+1431,Air India,Mumbai,New Delhi,23:10,"12:20
+ ",13:10,"16,132"
+1432,Air India,Bangalore,New Delhi,23:10,"15:15
+ ",16:05,"16,132"
+1433,Air India,Mumbai,New Delhi,23:10,"18:20
+ ",19:10,"16,132"
+1434,Air India,Bangalore,New Delhi,23:10,"19:10
+ ",20:00,"16,132"
+1435,Air India,Mumbai,New Delhi,23:10,"20:10
+ ",21:00,"16,132"
+1436,SpiceJet,Bangalore,New Delhi,13:30,22:00,08:30,"16,273"
+1437,SpiceJet,Mumbai,New Delhi,13:30,"03:00
+ ",13:30,"16,273"
+1438,SpiceJet,Bangalore,New Delhi,13:30,"09:35
+ ",20:05,"16,273"
+1439,SpiceJet,Mumbai,New Delhi,13:40,"04:40
+ ",15:00,"16,300"
+1440,SpiceJet,Bangalore,New Delhi,13:40,"08:50
+ ",19:10,"16,300"
+1441,Air India,Mumbai,New Delhi,23:10,"09:05
+ ",09:55,"16,342"
+1442,Air India,Bangalore,New Delhi,23:10,"10:15
+ ",11:05,"16,342"
+1443,Air India,Mumbai,New Delhi,23:10,"11:10
+ ",12:00,"16,342"
+1444,Air Asia,Bangalore,New Delhi,13:45,16:30,02:45,"17,181"
+1445,Go First,Mumbai,New Delhi,13:15,19:00,05:45,"17,253"
+1446,Go First,Bangalore,New Delhi,13:15,20:05,06:50,"17,253"
+1447,Go First,Mumbai,New Delhi,13:15,23:35,10:20,"17,253"
+1448,Go First,Bangalore,New Delhi,13:15,"00:50
+ ",11:35,"17,253"
+1449,IndiGo,Mumbai,New Delhi,07:20,12:10,04:50,"17,339"
+1450,SpiceJet,Bangalore,New Delhi,21:55,"08:35
+ ",10:40,"17,402"
+1451,IndiGo,Mumbai,New Delhi,07:20,13:55,06:35,"17,759"
+1452,Go First,Bangalore,New Delhi,18:25,23:35,05:10,"17,883"
+1453,Go First,Mumbai,New Delhi,18:25,"00:50
+ ",06:25,"17,883"
+1454,IndiGo,Bangalore,New Delhi,16:30,21:40,05:10,"17,969"
+1455,IndiGo,Mumbai,New Delhi,13:10,19:25,06:15,"17,969"
+1456,IndiGo,Bangalore,New Delhi,16:30,22:55,06:25,"17,969"
+1457,IndiGo,Mumbai,New Delhi,13:10,20:45,07:35,"17,969"
+1458,Vistara,Bangalore,New Delhi,13:20,19:45,06:25,"18,020"
+1459,Vistara,Mumbai,New Delhi,13:20,20:40,07:20,"18,020"
+1460,Vistara,Bangalore,New Delhi,13:20,21:55,08:35,"18,020"
+1461,Vistara,Mumbai,New Delhi,13:20,23:00,09:40,"18,020"
+1462,Vistara,Bangalore,New Delhi,13:20,"00:10
+ ",10:50,"18,020"
+1463,Vistara,Mumbai,New Delhi,13:20,"00:55
+ ",11:35,"18,020"
+1464,Vistara,Bangalore,New Delhi,14:25,17:05,02:40,"18,232"
+1465,Air India,Mumbai,New Delhi,15:15,20:10,04:55,"18,232"
+1466,Air India,Bangalore,New Delhi,15:15,21:15,06:00,"18,232"
+1467,Air Asia,Mumbai,New Delhi,17:45,21:45,04:00,"18,547"
+1468,SpiceJet,Bangalore,New Delhi,13:40,"10:25
+ ",20:45,"19,075"
+1469,SpiceJet,Mumbai,New Delhi,13:40,19:45,06:05,"19,186"
+1470,Vistara,Bangalore,New Delhi,08:25,16:55,08:30,"19,440"
+1471,IndiGo,Mumbai,New Delhi,14:30,20:00,05:30,"19,628"
+1472,Air Asia,Bangalore,New Delhi,18:30,"01:10
+ ",06:40,"20,252"
+1473,IndiGo,Mumbai,New Delhi,14:30,22:20,07:50,"20,258"
+1474,SpiceJet,Bangalore,New Delhi,21:05,"08:40
+ ",11:35,"20,446"
+1475,Air Asia,Mumbai,New Delhi,16:35,19:20,02:45,"20,541"
+1476,Go First,Bangalore,New Delhi,17:25,20:10,02:45,"20,541"
+1477,IndiGo,Mumbai,New Delhi,19:15,22:00,02:45,"20,541"
+1478,Air Asia,Bangalore,New Delhi,18:30,"01:20
+ ",06:50,"20,761"
+1479,Air Asia,Mumbai,New Delhi,18:30,"03:20
+ ",08:50,"20,761"
+1480,Air Asia,Bangalore,New Delhi,15:15,"02:05
+ ",10:50,"20,761"
+1481,Go First,Mumbai,New Delhi,13:50,"00:15
+ ",10:25,"21,612"
+1482,Air Asia,Bangalore,New Delhi,15:15,"03:20
+ ",12:05,"22,247"
+1483,Vistara,Mumbai,New Delhi,08:25,14:05,05:40,"22,695"
+1484,Vistara,Bangalore,New Delhi,08:25,18:05,09:40,"22,695"
+1485,Vistara,Mumbai,New Delhi,14:40,23:50,09:10,"24,742"
+1486,Vistara,Bangalore,New Delhi,13:20,18:05,04:45,"25,162"
+1487,Go First,Mumbai,New Delhi,21:55,"09:40
+ ",11:45,"25,399"
+1488,IndiGo,Bangalore,New Delhi,14:40,22:00,07:20,"26,547"
+1489,Vistara,Mumbai,New Delhi,14:40,22:25,07:45,"27,787"
+1490,IndiGo,Bangalore,New Delhi,14:40,20:45,06:05,"29,204"
+1491,IndiGo,Mumbai,New Delhi,08:15,14:40,06:25,"29,204"
+1492,Vistara,Bangalore,New Delhi,14:40,21:30,06:50,"29,782"
+1493,Air Asia,Mumbai,New Delhi,15:15,21:10,05:55,"30,961"
+1494,Vistara,Bangalore,New Delhi,14:40,20:20,05:40,"32,092"
+1495,Air India,Mumbai,New Delhi,06:50,15:40,08:50,"32,512"
+1496,Air India,Bangalore,New Delhi,06:50,19:50,13:00,"32,512"
+1497,IndiGo,Mumbai,Mumbai,00:10,01:30,01:20,"5,631"
+1498,Go First,Bangalore,Mumbai,06:40,08:00,01:20,"5,631"
+1499,Air India,Mumbai,Mumbai,06:50,08:05,01:15,"5,632"
+1500,IndiGo,Bangalore,Mumbai,06:45,08:15,01:30,"5,841"
+1501,Alliance Air,Mumbai,Mumbai,21:25,22:50,01:25,"7,260"
+1502,Go First,Bangalore,Mumbai,11:55,13:10,01:15,"7,311"
+1503,Vistara,Mumbai,Mumbai,08:25,09:45,01:20,"7,365"
+1504,Air India,Bangalore,Mumbai,23:10,"00:35
+ ",01:25,"7,942"
+1505,Go First,Mumbai,Mumbai,13:15,14:40,01:25,"9,201"
+1506,Air Asia,Bangalore,Mumbai,22:30,23:45,01:15,"9,831"
+1507,IndiGo,Mumbai,Mumbai,13:10,14:30,01:20,"9,831"
+1508,SpiceJet,Bangalore,Mumbai,13:30,14:55,01:25,"9,831"
+1509,Air Asia,Mumbai,Mumbai,17:45,19:15,01:30,"9,831"
+1510,IndiGo,Bangalore,Mumbai,16:30,18:05,01:35,"9,831"
+1511,Air India,Mumbai,Mumbai,15:15,16:35,01:20,"9,832"
+1512,Vistara,Bangalore,Mumbai,13:20,14:45,01:25,"9,832"
+1513,Go First,Mumbai,Mumbai,07:15,12:10,04:55,"12,744"
+1514,Go First,Bangalore,Mumbai,07:15,19:40,12:25,"12,744"
+1515,SpiceJet,Mumbai,Mumbai,18:45,"07:50
+ ",13:05,"14,787"
+1516,Air India,Bangalore,Mumbai,01:15,23:35,22:20,"17,812"
+1517,Air India,Mumbai,Mumbai,01:15,09:05,07:50,"18,022"
+1518,Air India,Bangalore,Mumbai,01:15,10:10,08:55,"18,022"
+1519,Air India,Mumbai,Mumbai,01:15,12:35,11:20,"18,022"
+1520,Air India,Bangalore,Mumbai,01:15,21:15,20:00,"18,022"
+1521,Air India,Mumbai,Mumbai,01:15,22:10,20:55,"18,022"
+1522,Air India,Bangalore,Mumbai,01:15,22:10,20:55,"18,022"
+1523,Air India,Mumbai,Mumbai,01:15,18:10,16:55,"18,547"
+1524,Go First,Bangalore,Mumbai,13:50,"00:15
+ ",10:25,"18,756"
+1525,Vistara,Mumbai,Mumbai,14:40,"11:25
+ ",20:45,"18,860"
+1526,Go First,Bangalore,Mumbai,13:50,19:30,05:40,"19,114"
+1527,Vistara,Mumbai,Mumbai,14:40,"12:00
+ ",21:20,"19,177"
+1528,Vistara,Bangalore,Mumbai,21:55,"11:35
+ ",13:40,"19,595"
+1529,Vistara,Mumbai,Mumbai,21:55,"12:35
+ ",14:40,"19,595"
+1530,Vistara,Bangalore,Mumbai,21:55,"14:00
+ ",16:05,"19,595"
+1531,Vistara,Mumbai,Mumbai,21:55,"15:00
+ ",17:05,"19,595"
+1532,Vistara,Bangalore,Mumbai,21:55,"16:30
+ ",18:35,"19,595"
+1533,Vistara,Mumbai,Mumbai,21:55,"17:40
+ ",19:45,"19,595"
+1534,Vistara,Bangalore,Mumbai,21:55,"19:05
+ ",21:10,"19,595"
+1535,Vistara,Mumbai,Mumbai,21:55,"20:05
+ ",22:10,"19,595"
+1536,Vistara,Bangalore,Mumbai,21:55,"21:15
+ ",23:20,"19,595"
+1537,Vistara,Mumbai,Mumbai,21:55,"21:55
+ ",00:00,"19,595"
+1538,Vistara,Bangalore,Mumbai,14:40,20:15,05:35,"19,597"
+1539,Go First,Mumbai,Mumbai,12:00,21:00,09:00,"19,862"
+1540,Go First,Bangalore,Mumbai,12:00,22:00,10:00,"19,862"
+1541,Go First,Mumbai,Mumbai,12:00,23:25,11:25,"19,862"
+1542,Go First,Bangalore,Mumbai,12:00,"01:00
+ ",13:00,"19,862"
+1543,Vistara,Mumbai,Mumbai,14:40,20:40,06:00,"20,122"
+1544,Vistara,Bangalore,Mumbai,14:40,21:50,07:10,"20,122"
+1545,Air India,Mumbai,Mumbai,14:15,23:35,09:20,"20,227"
+1546,Air India,Bangalore,Mumbai,14:15,"12:35
+ ",22:20,"20,227"
+1547,Air India,Mumbai,Mumbai,14:15,21:15,07:00,"20,437"
+1548,Air India,Bangalore,Mumbai,14:15,22:10,07:55,"20,437"
+1549,Air India,Mumbai,Mumbai,14:15,22:10,07:55,"20,437"
+1550,Air India,Bangalore,Mumbai,14:15,"09:05
+ ",18:50,"20,437"
+1551,Air India,Mumbai,Mumbai,14:15,"10:10
+ ",19:55,"20,437"
+1552,Vistara,Bangalore,Mumbai,14:40,"10:15
+ ",19:35,"20,647"
+1553,Vistara,Mumbai,Mumbai,14:40,23:25,08:45,"21,907"
+1554,Air India,Bangalore,Mumbai,01:15,09:20,08:05,"22,117"
+1555,Vistara,Mumbai,Mumbai,21:55,"09:45
+ ",11:50,"22,222"
+1556,Vistara,Bangalore,Mumbai,21:55,"11:10
+ ",13:15,"22,222"
+1557,Vistara,Mumbai,Mumbai,21:55,"07:55
+ ",10:00,"22,642"
+1558,Vistara,Bangalore,Mumbai,10:20,16:30,06:10,"22,745"
+1559,Vistara,Mumbai,Mumbai,10:20,17:40,07:20,"22,745"
+1560,Vistara,Bangalore,Mumbai,10:20,19:05,08:45,"22,745"
+1561,Vistara,Mumbai,Mumbai,10:20,20:05,09:45,"22,745"
+1562,Vistara,Bangalore,Mumbai,10:20,21:15,10:55,"22,745"
+1563,Vistara,Mumbai,Mumbai,10:20,21:55,11:35,"22,745"
+1564,Vistara,Bangalore,Mumbai,14:40,"08:15
+ ",17:35,"22,747"
+1565,Vistara,Mumbai,Mumbai,10:20,23:30,13:10,"23,062"
+1566,Go First,Bangalore,Mumbai,21:55,"10:20
+ ",12:25,"23,905"
+1567,Vistara,Mumbai,Mumbai,10:20,22:50,12:30,"24,007"
+1568,Vistara,Bangalore,Mumbai,14:40,"16:30
+ ",01:50,"25,307"
+1569,Vistara,Mumbai,Mumbai,14:40,"17:40
+ ",03:00,"25,307"
+1570,Vistara,Bangalore,Mumbai,14:40,"19:05
+ ",04:25,"25,307"
+1571,Vistara,Mumbai,Mumbai,14:40,"20:05
+ ",05:25,"25,307"
+1572,Vistara,Bangalore,Mumbai,14:40,"21:15
+ ",06:35,"25,307"
+1573,Vistara,Mumbai,Mumbai,14:40,"21:55
+ ",07:15,"25,307"
+1574,Vistara,Bangalore,Mumbai,14:25,21:15,06:50,"26,420"
+1575,Vistara,Mumbai,Mumbai,14:25,21:55,07:30,"26,420"
+1576,Vistara,Bangalore,Mumbai,14:25,23:30,09:05,"26,737"
+1577,Vistara,Mumbai,Mumbai,14:25,22:50,08:25,"27,682"
+1578,Go First,Bangalore,Mumbai,17:25,"01:00
+ ",07:35,"28,598"
+1579,Go First,Mumbai,Mumbai,17:25,"09:15
+ ",15:50,"28,598"
+1580,Vistara,Bangalore,Mumbai,14:25,"07:55
+ ",17:30,"29,467"
+1581,Air India,Mumbai,Mumbai,14:15,"08:05
+ ",17:50,"29,467"
+1582,Vistara,Bangalore,Chennai,07:00,09:50,02:50,"9,418"
+1583,Vistara,Mumbai,Chennai,19:55,22:45,02:50,"9,418"
+1584,IndiGo,Bangalore,Chennai,07:10,10:00,02:50,"9,419"
+1585,IndiGo,Mumbai,Chennai,08:30,11:20,02:50,"9,419"
+1586,IndiGo,Bangalore,Chennai,17:25,20:15,02:50,"9,419"
+1587,IndiGo,Mumbai,Chennai,20:30,23:20,02:50,"9,419"
+1588,SpiceJet,Bangalore,Chennai,08:45,11:40,02:55,"9,419"
+1589,IndiGo,Mumbai,Chennai,09:50,12:45,02:55,"9,419"
+1590,IndiGo,Bangalore,Chennai,12:55,15:50,02:55,"9,419"
+1591,IndiGo,Mumbai,Chennai,19:10,22:10,03:00,"9,419"
+1592,SpiceJet,Bangalore,Chennai,16:55,22:00,05:05,"9,419"
+1593,SpiceJet,Mumbai,Chennai,17:05,"00:15
+ ",07:10,"9,419"
+1594,Go First,Bangalore,Chennai,22:45,"07:40
+ ",08:55,"9,419"
+1595,Go First,Mumbai,Chennai,20:55,"07:40
+ ",10:45,"9,419"
+1596,Go First,Bangalore,Chennai,19:50,"07:40
+ ",11:50,"9,419"
+1597,Air Asia,Mumbai,Chennai,20:40,"09:20
+ ",12:40,"9,419"
+1598,Go First,Bangalore,Chennai,18:45,"07:40
+ ",12:55,"9,419"
+1599,SpiceJet,Mumbai,Chennai,07:20,21:30,14:10,"9,419"
+1600,Air Asia,Bangalore,Chennai,07:10,22:00,14:50,"9,419"
+1601,SpiceJet,Mumbai,Chennai,09:25,"00:15
+ ",14:50,"9,419"
+1602,SpiceJet,Bangalore,Chennai,06:15,22:00,15:45,"9,419"
+1603,Air Asia,Mumbai,Chennai,05:45,22:00,16:15,"9,419"
+1604,SpiceJet,Bangalore,Chennai,07:00,23:50,16:50,"9,419"
+1605,SpiceJet,Mumbai,Chennai,19:30,"18:20
+ ",22:50,"9,419"
+1606,SpiceJet,Bangalore,Chennai,18:35,"18:20
+ ",23:45,"9,419"
+1607,SpiceJet,Mumbai,Chennai,06:05,"07:15
+ ",01:10,"9,419"
+1608,Air India,Hyderabad,Chennai,05:55,08:55,03:00,"9,420"
+1609,Air India,Chennai,Chennai,20:40,23:35,02:55,"9,630"
+1610,IndiGo,Hyderabad,Chennai,01:50,07:00,05:10,"10,259"
+1611,IndiGo,Chennai,Chennai,03:50,09:05,05:15,"10,259"
+1612,IndiGo,Hyderabad,Chennai,05:05,10:20,05:15,"10,259"
+1613,IndiGo,Chennai,Chennai,01:50,08:00,06:10,"10,259"
+1614,IndiGo,Hyderabad,Chennai,06:00,12:10,06:10,"10,259"
+1615,IndiGo,Chennai,Chennai,18:00,"00:25
+ ",06:25,"10,259"
+1616,IndiGo,Hyderabad,Chennai,02:25,09:05,06:40,"10,259"
+1617,IndiGo,Chennai,Chennai,03:50,10:50,07:00,"10,259"
+1618,IndiGo,Hyderabad,Chennai,03:50,12:10,08:20,"10,259"
+1619,IndiGo,Chennai,Chennai,02:25,10:50,08:25,"10,259"
+1620,IndiGo,Hyderabad,Chennai,15:40,18:35,02:55,"10,277"
+1621,Vistara,Chennai,Chennai,17:25,20:15,02:50,"11,940"
+1622,IndiGo,Hyderabad,Chennai,09:55,15:10,05:15,"11,950"
+1623,IndiGo,Chennai,Chennai,06:40,15:10,08:30,"11,950"
+1624,Air Asia,Hyderabad,Chennai,16:15,"09:20
+ ",17:05,"12,201"
+1625,IndiGo,Chennai,Chennai,07:55,15:10,07:15,"12,795"
+1626,IndiGo,Hyderabad,Chennai,12:45,20:15,07:30,"12,795"
+1627,Vistara,Chennai,Chennai,13:45,16:35,02:50,"12,990"
+1628,SpiceJet,Hyderabad,Chennai,20:00,"07:15
+ ",11:15,"13,067"
+1629,Air Asia,Chennai,Chennai,12:40,22:00,09:20,"13,159"
+1630,IndiGo,Hyderabad,Chennai,07:20,12:25,05:05,"13,462"
+1631,IndiGo,Chennai,Chennai,06:55,12:10,05:15,"13,640"
+1632,SpiceJet,Hyderabad,Chennai,07:00,18:20,11:20,"14,749"
+1633,IndiGo,Chennai,Chennai,19:30,"00:25
+ ",04:55,"15,247"
+1634,IndiGo,Hyderabad,Chennai,15:15,21:20,06:05,"15,331"
+1635,IndiGo,Chennai,Chennai,12:45,19:15,06:30,"15,331"
+1636,Vistara,Hyderabad,Chennai,05:55,23:05,17:10,"15,957"
+1637,IndiGo,Chennai,Bangalore,06:00,08:35,02:35,"9,419"
+1638,Go First,Hyderabad,Bangalore,05:50,08:30,02:40,"9,419"
+1639,IndiGo,Chennai,Bangalore,21:30,"00:15
+ ",02:45,"9,419"
+1640,IndiGo,Hyderabad,Bangalore,02:25,05:15,02:50,"9,419"
+1641,IndiGo,Chennai,Bangalore,03:50,06:40,02:50,"9,419"
+1642,SpiceJet,Hyderabad,Bangalore,06:05,08:55,02:50,"9,419"
+1643,Go First,Chennai,Bangalore,20:30,23:20,02:50,"9,419"
+1644,Air Asia,Hyderabad,Bangalore,21:40,"00:30
+ ",02:50,"9,419"
+1645,IndiGo,Chennai,Bangalore,22:55,"01:45
+ ",02:50,"9,419"
+1646,Go First,Hyderabad,Bangalore,02:40,07:40,05:00,"9,419"
+1647,Go First,Chennai,Bangalore,05:20,11:40,06:20,"9,419"
+1648,Go First,Hyderabad,Bangalore,10:55,17:25,06:30,"9,419"
+1649,Air Asia,Chennai,Bangalore,06:05,13:00,06:55,"9,419"
+1650,Air Asia,Hyderabad,Bangalore,17:05,"00:50
+ ",07:45,"9,419"
+1651,Go First,Chennai,Bangalore,14:00,21:55,07:55,"9,419"
+1652,Air Asia,Hyderabad,Bangalore,14:55,22:55,08:00,"9,419"
+1653,Go First,Chennai,Bangalore,13:35,22:20,08:45,"9,419"
+1654,Go First,Hyderabad,Bangalore,22:45,"07:40
+ ",08:55,"9,419"
+1655,Go First,Chennai,Bangalore,07:00,17:25,10:25,"9,419"
+1656,Go First,Hyderabad,Bangalore,20:55,"07:40
+ ",10:45,"9,419"
+1657,Go First,Chennai,Bangalore,10:55,21:55,11:00,"9,419"
+1658,Go First,Hyderabad,Bangalore,19:50,"07:40
+ ",11:50,"9,419"
+1659,SpiceJet,Chennai,Bangalore,19:30,"08:25
+ ",12:55,"9,419"
+1660,SpiceJet,Hyderabad,Bangalore,18:35,"08:25
+ ",13:50,"9,419"
+1661,SpiceJet,Chennai,Bangalore,20:25,"16:50
+ ",20:25,"9,419"
+1662,SpiceJet,Hyderabad,Bangalore,14:00,"12:20
+ ",22:20,"9,419"
+1663,SpiceJet,Chennai,Bangalore,17:05,"16:50
+ ",23:45,"9,419"
+1664,SpiceJet,Hyderabad,Bangalore,18:55,"19:30
+ ",00:35,"9,419"
+1665,IndiGo,Chennai,Bangalore,20:10,23:00,02:50,"9,682"
+1666,IndiGo,Hyderabad,Bangalore,17:50,22:40,04:50,"9,734"
+1667,IndiGo,Chennai,Bangalore,05:15,10:15,05:00,"9,734"
+1668,IndiGo,Hyderabad,Bangalore,06:50,12:05,05:15,"9,734"
+1669,IndiGo,Chennai,Bangalore,01:50,08:15,06:25,"9,734"
+1670,IndiGo,Hyderabad,Bangalore,11:15,18:00,06:45,"9,734"
+1671,IndiGo,Chennai,Bangalore,23:20,"06:05
+ ",06:45,"9,734"
+1672,IndiGo,Hyderabad,Bangalore,18:00,"01:15
+ ",07:15,"9,734"
+1673,IndiGo,Chennai,Bangalore,01:50,09:30,07:40,"9,734"
+1674,SpiceJet,Hyderabad,Bangalore,20:00,22:30,02:30,"9,943"
+1675,Air Asia,Chennai,Bangalore,21:00,23:50,02:50,"9,945"
+1676,Air India,Hyderabad,Bangalore,21:15,"00:05
+ ",02:50,"10,155"
+1677,IndiGo,Chennai,Bangalore,06:55,09:50,02:55,"10,312"
+1678,Air Asia,Hyderabad,Bangalore,10:05,18:10,08:05,"10,681"
+1679,IndiGo,Chennai,Bangalore,21:05,"02:35
+ ",05:30,"10,784"
+1680,IndiGo,Hyderabad,Bangalore,18:00,23:40,05:40,"10,784"
+1681,IndiGo,Chennai,Bangalore,19:30,"01:15
+ ",05:45,"10,784"
+1682,IndiGo,Hyderabad,Bangalore,10:10,17:20,07:10,"10,784"
+1683,Vistara,Chennai,Bangalore,20:40,23:20,02:40,"11,205"
+1684,Air Asia,Hyderabad,Bangalore,16:15,23:10,06:55,"11,206"
+1685,IndiGo,Chennai,Bangalore,07:20,14:25,07:05,"11,309"
+1686,Air Asia,Hyderabad,Bangalore,08:10,10:40,02:30,"11,571"
+1687,Air Asia,Chennai,Bangalore,18:45,21:40,02:55,"11,571"
+1688,IndiGo,Hyderabad,Bangalore,08:30,14:25,05:55,"11,834"
+1689,Air India,Chennai,Bangalore,09:45,12:30,02:45,"11,835"
+1690,IndiGo,Hyderabad,Bangalore,18:30,21:15,02:45,"12,233"
+1691,IndiGo,Chennai,Bangalore,05:45,12:10,06:25,"12,359"
+1692,Air Asia,Hyderabad,Bangalore,15:30,20:45,05:15,"12,518"
+1693,Air Asia,Chennai,Bangalore,10:40,16:25,05:45,"12,518"
+1694,Air Asia,Hyderabad,Bangalore,20:00,"02:30
+ ",06:30,"12,518"
+1695,Air Asia,Chennai,Bangalore,10:00,17:30,07:30,"12,518"
+1696,Air Asia,Hyderabad,Bangalore,09:35,12:25,02:50,"12,779"
+1697,IndiGo,Chennai,Bangalore,17:55,23:55,06:00,"12,884"
+1698,Vistara,Hyderabad,Bangalore,19:50,22:40,02:50,"12,990"
+1699,IndiGo,Chennai,Bangalore,15:15,20:30,05:15,"13,934"
+1700,IndiGo,Hyderabad,Bangalore,06:40,13:10,06:30,"13,934"
+1701,Air Asia,Chennai,Bangalore,07:25,14:15,06:50,"14,037"
+1702,IndiGo,Hyderabad,Bangalore,11:30,14:15,02:45,"14,333"
+1703,Vistara,Chennai,Bangalore,09:05,11:50,02:45,"14,355"
+1704,IndiGo,Hyderabad,Bangalore,07:55,13:10,05:15,"14,459"
+1705,Vistara,Chennai,Bangalore,20:35,"08:45
+ ",12:10,"14,878"
+1706,IndiGo,Hyderabad,Bangalore,12:45,19:20,06:35,"14,984"
+1707,Go First,Chennai,Bangalore,19:15,"00:20
+ ",05:05,"15,194"
+1708,Go First,Hyderabad,Bangalore,17:05,"00:20
+ ",07:15,"15,194"
+1709,Vistara,Chennai,Bangalore,19:45,"07:50
+ ",12:05,"15,296"
+1710,Vistara,Hyderabad,Bangalore,18:55,"07:50
+ ",12:55,"15,296"
+1711,Vistara,Chennai,Bangalore,17:45,"07:50
+ ",14:05,"15,296"
+1712,Vistara,Hyderabad,Bangalore,05:55,21:50,15:55,"15,296"
+1713,Air India,Chennai,Bangalore,21:15,"07:50
+ ",10:35,"15,300"
+1714,Air India,Hyderabad,Bangalore,21:15,"11:10
+ ",13:55,"15,300"
+1715,Air India,Chennai,Bangalore,21:15,"18:20
+ ",21:05,"15,300"
+1716,IndiGo,Hyderabad,Bangalore,17:25,19:55,02:30,"15,352"
+1717,Vistara,Chennai,Bangalore,17:10,"17:45
+ ",00:35,"15,361"
+1718,Vistara,Hyderabad,Bangalore,17:10,"18:15
+ ",01:05,"15,361"
+1719,Vistara,Chennai,Bangalore,17:10,"19:15
+ ",02:05,"15,361"
+1720,Vistara,Hyderabad,Bangalore,17:10,"23:10
+ ",06:00,"15,361"
+1721,Air India,Chennai,Bangalore,20:00,"07:50
+ ",11:50,"15,510"
+1722,Air India,Hyderabad,Bangalore,19:00,"07:50
+ ",12:50,"15,510"
+1723,Air India,Chennai,Bangalore,17:55,"07:50
+ ",13:55,"15,510"
+1724,Air India,Hyderabad,Bangalore,20:00,"11:10
+ ",15:10,"15,510"
+1725,Air India,Chennai,Bangalore,19:00,"11:10
+ ",16:10,"15,510"
+1726,Air India,Hyderabad,Bangalore,17:55,"11:10
+ ",17:15,"15,510"
+1727,Air India,Chennai,Bangalore,20:00,"18:20
+ ",22:20,"15,510"
+1728,Vistara,Hyderabad,Bangalore,17:10,"18:15
+ ",01:05,"15,611"
+1729,Vistara,Chennai,Bangalore,15:30,20:55,05:25,"15,613"
+1730,Vistara,Hyderabad,Bangalore,14:20,20:55,06:35,"15,613"
+1731,Vistara,Chennai,Bangalore,12:50,20:55,08:05,"15,613"
+1732,Vistara,Hyderabad,Bangalore,11:40,20:55,09:15,"15,613"
+1733,Vistara,Chennai,Bangalore,21:30,"07:50
+ ",10:20,"15,613"
+1734,Vistara,Hyderabad,Bangalore,10:20,20:55,10:35,"15,613"
+1735,Vistara,Chennai,Bangalore,09:30,20:55,11:25,"15,613"
+1736,IndiGo,Hyderabad,Bangalore,15:20,18:15,02:55,"15,719"
+1737,Air India,Chennai,Bangalore,10:00,18:20,08:20,"15,720"
+1738,Air India,Hyderabad,Bangalore,07:00,18:20,11:20,"15,720"
+1739,SpiceJet,Chennai,Bangalore,15:10,23:25,08:15,"15,725"
+1740,SpiceJet,Hyderabad,Bangalore,12:05,23:25,11:20,"15,725"
+1741,SpiceJet,Chennai,Bangalore,08:45,"09:00
+ ",00:15,"15,725"
+1742,Vistara,Hyderabad,Bangalore,17:10,"20:55
+ ",03:45,"15,886"
+1743,Vistara,Chennai,Bangalore,17:35,"08:45
+ ",15:10,"15,928"
+1744,Vistara,Hyderabad,Bangalore,14:20,19:15,04:55,"16,033"
+1745,Vistara,Chennai,Bangalore,12:50,19:15,06:25,"16,033"
+1746,Air India,Hyderabad,Bangalore,14:30,"07:50
+ ",17:20,"16,035"
+1747,IndiGo,Chennai,Bangalore,15:00,21:35,06:35,"16,087"
+1748,IndiGo,Hyderabad,Bangalore,13:00,15:35,02:35,"16,402"
+1749,IndiGo,Chennai,Bangalore,08:20,11:00,02:40,"16,402"
+1750,IndiGo,Hyderabad,Bangalore,11:15,16:30,05:15,"16,454"
+1751,Vistara,Chennai,Bangalore,18:00,21:50,03:50,"16,558"
+1752,Vistara,Hyderabad,Bangalore,12:50,17:45,04:55,"16,558"
+1753,Vistara,Chennai,Bangalore,12:50,18:15,05:25,"16,558"
+1754,Vistara,Hyderabad,Bangalore,11:40,17:45,06:05,"16,558"
+1755,Vistara,Chennai,Bangalore,11:40,18:15,06:35,"16,558"
+1756,IndiGo,Hyderabad,Bangalore,13:25,19:20,05:55,"16,559"
+1757,Go First,Chennai,Bangalore,10:15,21:40,11:25,"16,622"
+1758,Air India,Hyderabad,Bangalore,13:30,16:15,02:45,"16,665"
+1759,IndiGo,Chennai,Bangalore,12:45,17:55,05:10,"17,084"
+1760,Vistara,Hyderabad,Bangalore,18:40,"15:55
+ ",21:15,"17,188"
+1761,SpiceJet,Chennai,Bangalore,12:00,"10:45
+ ",22:45,"17,441"
+1762,SpiceJet,Hyderabad,Bangalore,13:05,"12:55
+ ",23:50,"17,481"
+1763,Air India,Chennai,Bangalore,06:10,08:55,02:45,"18,030"
+1764,Vistara,Hyderabad,Bangalore,16:05,18:50,02:45,"18,030"
+1765,Vistara,Chennai,Bangalore,17:35,20:25,02:50,"18,030"
+1766,IndiGo,Hyderabad,Bangalore,13:25,17:55,04:30,"18,659"
+1767,SpiceJet,Chennai,Bangalore,09:35,19:30,09:55,"19,337"
+1768,IndiGo,Hyderabad,Bangalore,15:00,19:20,04:20,"19,709"
+1769,Vistara,Chennai,Bangalore,07:20,19:30,12:10,"19,920"
+1770,SpiceJet,Hyderabad,Bangalore,06:15,19:25,13:10,"20,023"
+1771,Vistara,Chennai,Bangalore,07:30,20:55,13:25,"20,126"
+1772,Vistara,Hyderabad,Bangalore,06:15,20:55,14:40,"20,126"
+1773,Vistara,Chennai,Bangalore,07:30,23:10,15:40,"20,126"
+1774,Vistara,Hyderabad,Bangalore,07:30,23:10,15:40,"20,126"
+1775,Vistara,Chennai,Bangalore,06:15,23:10,16:55,"20,126"
+1776,Vistara,Hyderabad,Bangalore,06:15,23:10,16:55,"20,126"
+1777,Vistara,Chennai,Bangalore,14:15,16:50,02:35,"20,340"
+1778,Vistara,Hyderabad,Bangalore,08:05,10:50,02:45,"20,340"
+1779,Vistara,Chennai,Bangalore,17:30,"07:50
+ ",14:20,"20,419"
+1780,Vistara,Hyderabad,Bangalore,15:55,"07:50
+ ",15:55,"20,419"
+1781,Vistara,Chennai,Bangalore,07:30,19:15,11:45,"20,714"
+1782,Go First,Hyderabad,Bangalore,08:50,15:05,06:15,"20,864"
+1783,IndiGo,Chennai,Bangalore,13:35,20:40,07:05,"21,232"
+1784,Vistara,Hyderabad,Bangalore,14:45,19:30,04:45,"21,495"
+1785,SpiceJet,Chennai,Bangalore,06:30,12:55,06:25,"22,407"
+1786,SpiceJet,Hyderabad,Bangalore,09:25,16:50,07:25,"23,609"
+1787,Vistara,Chennai,Bangalore,11:45,21:45,10:00,"24,223"
+1788,Vistara,Hyderabad,Bangalore,11:45,"09:30
+ ",21:45,"24,223"
+1789,Vistara,Chennai,Bangalore,07:10,15:55,08:45,"24,540"
+1790,Vistara,Hyderabad,Bangalore,10:25,19:30,09:05,"25,065"
+1791,Vistara,Chennai,Bangalore,11:10,15:55,04:45,"27,585"
+1792,Go First,Hyderabad,Bangalore,10:40,15:05,04:25,"30,957"
+1793,IndiGo,Chennai,Hyderabad,01:50,04:00,02:10,"8,579"
+1794,Go First,Hyderabad,Hyderabad,08:50,11:00,02:10,"8,579"
+1795,IndiGo,Chennai,Hyderabad,09:55,12:05,02:10,"8,579"
+1796,IndiGo,Hyderabad,Hyderabad,19:30,21:40,02:10,"8,579"
+1797,IndiGo,Bangalore,Hyderabad,21:15,23:25,02:10,"8,579"
+1798,Go First,Hyderabad,Hyderabad,20:55,23:10,02:15,"8,579"
+1799,IndiGo,Bangalore,Hyderabad,06:40,09:00,02:20,"8,579"
+1800,IndiGo,Hyderabad,Hyderabad,07:55,10:15,02:20,"8,579"
+1801,SpiceJet,Bangalore,Hyderabad,21:55,"00:15
+ ",02:20,"8,579"
+1802,Go First,Hyderabad,Hyderabad,14:00,21:00,07:00,"8,579"
+1803,Go First,Bangalore,Hyderabad,10:55,21:00,10:05,"8,579"
+1804,Go First,Hyderabad,Hyderabad,07:00,21:00,14:00,"8,579"
+1805,Air India,Bangalore,Hyderabad,07:10,09:25,02:15,"8,790"
+1806,IndiGo,Hyderabad,Hyderabad,05:20,10:35,05:15,"8,894"
+1807,IndiGo,Bangalore,Hyderabad,06:50,12:35,05:45,"8,894"
+1808,IndiGo,Hyderabad,Hyderabad,10:10,18:10,08:00,"8,894"
+1809,IndiGo,Bangalore,Hyderabad,05:20,13:30,08:10,"8,894"
+1810,IndiGo,Hyderabad,Hyderabad,21:05,"06:55
+ ",09:50,"8,894"
+1811,IndiGo,Bangalore,Hyderabad,05:45,15:55,10:10,"8,894"
+1812,IndiGo,Hyderabad,Hyderabad,12:45,14:50,02:05,"9,209"
+1813,IndiGo,Bangalore,Hyderabad,13:25,15:30,02:05,"9,209"
+1814,IndiGo,Hyderabad,Hyderabad,18:00,20:10,02:10,"9,209"
+1815,Vistara,Bangalore,Hyderabad,07:20,09:25,02:05,"9,315"
+1816,Vistara,Hyderabad,Hyderabad,20:35,22:55,02:20,"9,315"
+1817,IndiGo,Bangalore,Hyderabad,15:00,16:55,01:55,"9,734"
+1818,Air Asia,Hyderabad,Hyderabad,20:40,"07:10
+ ",10:30,"9,805"
+1819,Vistara,Bangalore,Hyderabad,17:35,19:50,02:15,"10,365"
+1820,Air India,Hyderabad,Hyderabad,21:30,23:45,02:15,"10,733"
+1821,Vistara,Bangalore,Hyderabad,14:45,17:00,02:15,"10,890"
+1822,Air Asia,Hyderabad,Hyderabad,16:15,20:00,03:45,"11,729"
+1823,IndiGo,Bangalore,Hyderabad,11:15,17:15,06:00,"11,755"
+1824,IndiGo,Hyderabad,Hyderabad,05:30,12:00,06:30,"11,755"
+1825,Vistara,Bangalore,Hyderabad,10:25,12:40,02:15,"12,465"
+1826,Air Asia,Hyderabad,Hyderabad,12:50,19:45,06:55,"12,710"
+1827,Air Asia,Bangalore,Hyderabad,10:40,19:45,09:05,"12,710"
+1828,Vistara,Hyderabad,Hyderabad,05:55,20:55,15:00,"13,332"
+1829,IndiGo,Bangalore,Hyderabad,13:00,19:55,06:55,"13,472"
+1830,Vistara,Hyderabad,Hyderabad,21:20,"18:25
+ ",21:05,"13,649"
+1831,Vistara,Bangalore,Hyderabad,21:20,"20:55
+ ",23:35,"13,649"
+1832,Vistara,Hyderabad,Hyderabad,18:00,"18:25
+ ",00:25,"13,649"
+1833,Vistara,Bangalore,Hyderabad,21:20,"22:40
+ ",01:20,"13,649"
+1834,Vistara,Hyderabad,Hyderabad,18:00,"20:55
+ ",02:55,"13,649"
+1835,Vistara,Bangalore,Hyderabad,18:00,"22:40
+ ",04:40,"13,649"
+1836,Air Asia,Hyderabad,Hyderabad,08:10,15:40,07:30,"14,140"
+1837,Vistara,Bangalore,Hyderabad,15:30,20:55,05:25,"14,141"
+1838,Vistara,Hyderabad,Hyderabad,14:20,20:55,06:35,"14,141"
+1839,Vistara,Bangalore,Hyderabad,12:50,20:55,08:05,"14,141"
+1840,Vistara,Hyderabad,Hyderabad,11:40,20:55,09:15,"14,141"
+1841,Vistara,Bangalore,Hyderabad,10:20,20:55,10:35,"14,141"
+1842,Vistara,Hyderabad,Hyderabad,09:30,20:55,11:25,"14,141"
+1843,Vistara,Bangalore,Hyderabad,08:50,20:55,12:05,"14,141"
+1844,Vistara,Hyderabad,Hyderabad,07:30,20:55,13:25,"14,141"
+1845,SpiceJet,Bangalore,Hyderabad,14:50,21:20,06:30,"14,192"
+1846,IndiGo,Hyderabad,Hyderabad,12:45,22:15,09:30,"14,197"
+1847,IndiGo,Bangalore,Hyderabad,15:15,22:20,07:05,"14,318"
+1848,Vistara,Hyderabad,Hyderabad,17:10,"17:30
+ ",00:20,"14,456"
+1849,Vistara,Bangalore,Hyderabad,05:55,"12:15
+ ",06:20,"14,489"
+1850,Air India,Hyderabad,Hyderabad,10:00,21:40,11:40,"14,565"
+1851,Air India,Bangalore,Hyderabad,08:00,21:40,13:40,"14,565"
+1852,Air India,Hyderabad,Hyderabad,07:00,21:40,14:40,"14,565"
+1853,IndiGo,Bangalore,Hyderabad,15:50,22:15,06:25,"14,617"
+1854,Air India,Hyderabad,Hyderabad,14:30,21:40,07:10,"15,090"
+1855,Air Asia,Bangalore,Hyderabad,13:00,19:45,06:45,"15,298"
+1856,IndiGo,Hyderabad,Hyderabad,11:55,22:20,10:25,"15,578"
+1857,SpiceJet,Bangalore,Hyderabad,15:10,"09:40
+ ",18:30,"15,725"
+1858,SpiceJet,Hyderabad,Hyderabad,12:05,"09:40
+ ",21:35,"15,725"
+1859,Vistara,Bangalore,Hyderabad,19:45,"07:50
+ ",12:05,"15,823"
+1860,Vistara,Hyderabad,Hyderabad,18:55,"07:50
+ ",12:55,"15,823"
+1861,Vistara,Bangalore,Hyderabad,17:45,"07:50
+ ",14:05,"15,823"
+1862,Vistara,Hyderabad,Hyderabad,16:55,"07:50
+ ",14:55,"15,823"
+1863,Vistara,Bangalore,Hyderabad,15:30,"07:50
+ ",16:20,"15,823"
+1864,Vistara,Hyderabad,Hyderabad,14:20,"07:50
+ ",17:30,"15,823"
+1865,Vistara,Bangalore,Hyderabad,12:50,"07:50
+ ",19:00,"15,823"
+1866,Air India,Hyderabad,Hyderabad,21:15,"21:40
+ ",00:25,"16,088"
+1867,Vistara,Bangalore,Hyderabad,21:30,"07:50
+ ",10:20,"16,140"
+1868,Air India,Hyderabad,Hyderabad,20:00,"21:40
+ ",01:40,"16,298"
+1869,Air India,Bangalore,Hyderabad,19:00,"21:40
+ ",02:40,"16,298"
+1870,Air India,Hyderabad,Hyderabad,17:55,"21:40
+ ",03:45,"16,298"
+1871,Vistara,Bangalore,Hyderabad,07:30,12:15,04:45,"16,348"
+1872,Vistara,Hyderabad,Hyderabad,12:50,18:25,05:35,"16,348"
+1873,Vistara,Bangalore,Hyderabad,11:40,18:25,06:45,"16,348"
+1874,Vistara,Hyderabad,Hyderabad,10:20,18:25,08:05,"16,348"
+1875,Vistara,Bangalore,Hyderabad,09:30,18:25,08:55,"16,348"
+1876,Vistara,Hyderabad,Hyderabad,20:40,"21:10
+ ",00:30,"16,768"
+1877,Air India,Bangalore,Hyderabad,06:50,21:15,14:25,"16,980"
+1878,Air India,Hyderabad,Hyderabad,20:15,"21:15
+ ",01:00,"16,980"
+1879,Air India,Bangalore,Hyderabad,08:40,"21:40
+ ",13:00,"17,028"
+1880,Air India,Hyderabad,Hyderabad,16:45,"21:15
+ ",04:30,"17,505"
+1881,Vistara,Bangalore,Hyderabad,17:45,22:40,04:55,"17,608"
+1882,Vistara,Hyderabad,Hyderabad,16:55,22:40,05:45,"17,608"
+1883,Vistara,Bangalore,Hyderabad,15:30,22:40,07:10,"17,608"
+1884,Vistara,Hyderabad,Hyderabad,14:20,22:40,08:20,"17,608"
+1885,Vistara,Bangalore,Hyderabad,20:40,"08:55
+ ",12:15,"17,925"
+1886,Air India,Hyderabad,Hyderabad,12:10,21:15,09:05,"18,083"
+1887,Air Asia,Goa,Hyderabad,09:35,17:30,07:55,"18,476"
+1888,Vistara,Hyderabad,Hyderabad,19:50,"21:10
+ ",01:20,"18,553"
+1889,Vistara,Goa,Hyderabad,07:30,20:55,13:25,"18,873"
+1890,Vistara,Hyderabad,Hyderabad,06:15,20:55,14:40,"18,873"
+1891,Air Asia,Goa,Hyderabad,09:35,15:40,06:05,"18,896"
+1892,SpiceJet,Hyderabad,Hyderabad,15:10,22:40,07:30,"19,085"
+1893,SpiceJet,Goa,Hyderabad,12:05,22:40,10:35,"19,085"
+1894,Vistara,Hyderabad,Hyderabad,19:50,"08:55
+ ",13:05,"19,710"
+1895,Vistara,Goa,Hyderabad,05:55,"07:50
+ ",01:55,"19,916"
+1896,Vistara,Hyderabad,Hyderabad,09:05,21:10,12:05,"20,550"
+1897,Air Asia,Goa,Hyderabad,08:10,17:30,09:20,"20,576"
+1898,Vistara,Hyderabad,Hyderabad,16:05,21:10,05:05,"24,225"
+1899,Vistara,Goa,Hyderabad,17:30,"07:50
+ ",14:20,"25,588"
+1900,Vistara,Hyderabad,Hyderabad,14:15,21:10,06:55,"26,535"
+1901,Air India,Goa,Goa,22:00,"00:40
+ ",02:40,"8,685"
+1902,SpiceJet,Hyderabad,Goa,20:25,"00:25
+ ",04:00,"9,313"
+1903,Vistara,Goa,Goa,18:40,21:20,02:40,"9,418"
+1904,SpiceJet,Hyderabad,Goa,12:05,14:25,02:20,"9,419"
+1905,IndiGo,Goa,Goa,16:20,18:40,02:20,"9,419"
+1906,IndiGo,Hyderabad,Goa,10:00,12:30,02:30,"9,419"
+1907,SpiceJet,Goa,Goa,15:10,17:40,02:30,"9,419"
+1908,IndiGo,Hyderabad,Goa,19:00,21:30,02:30,"9,419"
+1909,IndiGo,Goa,Goa,12:15,14:50,02:35,"9,419"
+1910,Air Asia,Hyderabad,Goa,20:00,22:35,02:35,"9,419"
+1911,IndiGo,Goa,Goa,21:45,"00:20
+ ",02:35,"9,419"
+1912,Go First,Hyderabad,Goa,08:50,11:30,02:40,"9,419"
+1913,Go First,Goa,Goa,10:40,13:20,02:40,"9,419"
+1914,SpiceJet,Hyderabad,Goa,07:20,12:55,05:35,"9,419"
+1915,Go First,Goa,Goa,10:55,16:40,05:45,"9,419"
+1916,Air Asia,Hyderabad,Goa,08:10,14:45,06:35,"9,419"
+1917,Go First,Goa,Goa,10:55,17:55,07:00,"9,419"
+1918,SpiceJet,Hyderabad,Goa,17:05,"00:25
+ ",07:20,"9,419"
+1919,Go First,Goa,Goa,22:45,"06:10
+ ",07:25,"9,419"
+1920,Go First,Hyderabad,Goa,13:35,21:25,07:50,"9,419"
+1921,Go First,Goa,Goa,20:55,"06:10
+ ",09:15,"9,419"
+1922,Go First,Hyderabad,Goa,07:00,16:40,09:40,"9,419"
+1923,SpiceJet,Goa,Goa,07:20,17:05,09:45,"9,419"
+1924,SpiceJet,Hyderabad,Goa,21:55,"07:45
+ ",09:50,"9,419"
+1925,Go First,Goa,Goa,19:50,"06:10
+ ",10:20,"9,419"
+1926,Go First,Hyderabad,Goa,07:00,17:55,10:55,"9,419"
+1927,Go First,Goa,Goa,05:50,16:55,11:05,"9,419"
+1928,Go First,Hyderabad,Goa,18:45,"06:10
+ ",11:25,"9,419"
+1929,Air Asia,Goa,Goa,04:25,17:15,12:50,"9,419"
+1930,Go First,Hyderabad,Goa,02:40,16:40,14:00,"9,419"
+1931,Go First,Goa,Goa,22:45,"12:45
+ ",14:00,"9,419"
+1932,SpiceJet,Hyderabad,Goa,09:25,"00:25
+ ",15:00,"9,419"
+1933,SpiceJet,Goa,Goa,21:40,"12:55
+ ",15:15,"9,419"
+1934,SpiceJet,Hyderabad,Goa,06:05,21:25,15:20,"9,419"
+1935,SpiceJet,Goa,Goa,19:45,"12:55
+ ",17:10,"9,419"
+1936,SpiceJet,Hyderabad,Goa,19:00,"12:55
+ ",17:55,"9,419"
+1937,SpiceJet,Goa,Goa,21:40,"17:05
+ ",19:25,"9,419"
+1938,SpiceJet,Hyderabad,Goa,19:45,"17:05
+ ",21:20,"9,419"
+1939,SpiceJet,Goa,Goa,19:00,"17:05
+ ",22:05,"9,419"
+1940,Air India,Hyderabad,Goa,10:45,13:35,02:50,"9,630"
+1941,IndiGo,Goa,Goa,11:00,13:25,02:25,"9,682"
+1942,IndiGo,Hyderabad,Goa,12:45,17:35,04:50,"9,734"
+1943,IndiGo,Goa,Goa,19:35,"00:25
+ ",04:50,"9,734"
+1944,IndiGo,Hyderabad,Goa,18:00,23:00,05:00,"9,734"
+1945,IndiGo,Goa,Goa,18:10,23:20,05:10,"9,734"
+1946,IndiGo,Hyderabad,Goa,07:20,12:40,05:20,"9,734"
+1947,IndiGo,Goa,Goa,21:05,"02:50
+ ",05:45,"9,734"
+1948,IndiGo,Hyderabad,Goa,11:55,18:10,06:15,"9,734"
+1949,IndiGo,Goa,Goa,17:00,23:20,06:20,"9,734"
+1950,IndiGo,Hyderabad,Goa,08:45,15:15,06:30,"9,734"
+1951,IndiGo,Goa,Goa,23:35,"06:15
+ ",06:40,"9,734"
+1952,IndiGo,Hyderabad,Goa,16:15,23:20,07:05,"9,734"
+1953,IndiGo,Goa,Goa,17:20,"00:25
+ ",07:05,"9,734"
+1954,IndiGo,Hyderabad,Goa,08:00,15:15,07:15,"9,734"
+1955,IndiGo,Goa,Goa,10:45,18:10,07:25,"9,734"
+1956,Vistara,Hyderabad,Mumbai,09:30,11:35,02:05,"8,578"
+1957,Vistara,Goa,Mumbai,12:50,15:00,02:10,"8,578"
+1958,Vistara,Hyderabad,Mumbai,14:20,16:30,02:10,"8,578"
+1959,Vistara,Goa,Mumbai,15:30,17:40,02:10,"8,578"
+1960,Vistara,Hyderabad,Mumbai,16:55,19:05,02:10,"8,578"
+1961,Vistara,Goa,Mumbai,19:45,21:55,02:10,"8,578"
+1962,Vistara,Hyderabad,Mumbai,07:30,09:45,02:15,"8,578"
+1963,Vistara,Goa,Mumbai,10:20,12:35,02:15,"8,578"
+1964,Vistara,Hyderabad,Mumbai,08:50,11:10,02:20,"8,578"
+1965,Vistara,Goa,Mumbai,11:40,14:00,02:20,"8,578"
+1966,Vistara,Hyderabad,Mumbai,17:45,20:05,02:20,"8,578"
+1967,Vistara,Goa,Mumbai,18:55,21:15,02:20,"8,578"
+1968,IndiGo,Hyderabad,Mumbai,11:55,13:55,02:00,"8,579"
+1969,IndiGo,Goa,Mumbai,07:20,09:25,02:05,"8,579"
+1970,IndiGo,Hyderabad,Mumbai,10:45,12:50,02:05,"8,579"
+1971,IndiGo,Goa,Mumbai,17:00,19:05,02:05,"8,579"
+1972,IndiGo,Hyderabad,Mumbai,23:35,"01:40
+ ",02:05,"8,579"
+1973,IndiGo,Goa,Mumbai,02:00,04:10,02:10,"8,579"
+1974,Go First,Hyderabad,Mumbai,02:40,04:50,02:10,"8,579"
+1975,Air Asia,Goa,Mumbai,04:25,06:35,02:10,"8,579"
+1976,Go First,Hyderabad,Mumbai,14:00,16:10,02:10,"8,579"
+1977,IndiGo,Goa,Mumbai,14:10,16:20,02:10,"8,579"
+1978,IndiGo,Hyderabad,Mumbai,15:25,17:35,02:10,"8,579"
+1979,IndiGo,Goa,Mumbai,16:15,18:25,02:10,"8,579"
+1980,SpiceJet,Hyderabad,Mumbai,19:00,21:10,02:10,"8,579"
+1981,IndiGo,Goa,Mumbai,19:45,21:55,02:10,"8,579"
+1982,Go First,Hyderabad,Mumbai,19:50,22:00,02:10,"8,579"
+1983,Go First,Goa,Mumbai,07:00,09:15,02:15,"8,579"
+1984,SpiceJet,Hyderabad,Mumbai,07:20,09:35,02:15,"8,579"
+1985,IndiGo,Goa,Mumbai,08:45,11:00,02:15,"8,579"
+1986,Go First,Hyderabad,Mumbai,10:55,13:10,02:15,"8,579"
+1987,IndiGo,Goa,Mumbai,18:10,20:25,02:15,"8,579"
+1988,Go First,Hyderabad,Mumbai,18:45,21:00,02:15,"8,579"
+1989,SpiceJet,Goa,Mumbai,19:45,22:00,02:15,"8,579"
+1990,SpiceJet,Hyderabad,Mumbai,21:40,23:55,02:15,"8,579"
+1991,Go First,Goa,Mumbai,22:45,"01:00
+ ",02:15,"8,579"
+1992,IndiGo,Hyderabad,Mumbai,08:00,10:20,02:20,"8,579"
+1993,IndiGo,Goa,Mumbai,21:45,"00:10
+ ",02:25,"8,579"
+1994,Go First,Hyderabad,Mumbai,20:55,23:25,02:30,"8,579"
+1995,SpiceJet,Goa,Mumbai,06:15,10:55,04:40,"8,579"
+1996,Go First,Hyderabad,Mumbai,05:20,10:45,05:25,"8,579"
+1997,Go First,Goa,Mumbai,13:35,19:40,06:05,"8,579"
+1998,Go First,Hyderabad,Mumbai,05:55,12:10,06:15,"8,579"
+1999,SpiceJet,Goa,Mumbai,11:30,18:00,06:30,"8,579"
+2000,SpiceJet,Hyderabad,Mumbai,09:25,16:10,06:45,"8,579"
+2001,SpiceJet,Goa,Mumbai,06:25,13:35,07:10,"8,579"
+2002,SpiceJet,Hyderabad,Mumbai,11:30,18:55,07:25,"8,579"
+2003,Go First,Goa,Mumbai,05:00,14:20,09:20,"8,579"
+2004,SpiceJet,Hyderabad,Mumbai,06:25,16:10,09:45,"8,579"
+2005,Air Asia,Goa,Mumbai,08:10,20:40,12:30,"8,579"
+2006,SpiceJet,Hyderabad,Mumbai,20:00,"10:30
+ ",14:30,"8,579"
+2007,SpiceJet,Goa,Mumbai,08:45,23:55,15:10,"8,579"
+2008,SpiceJet,Hyderabad,Mumbai,06:25,21:45,15:20,"8,579"
+2009,SpiceJet,Goa,Mumbai,18:55,"13:40
+ ",18:45,"8,579"
+2010,SpiceJet,Hyderabad,Mumbai,15:10,"14:55
+ ",23:45,"8,579"
+2011,SpiceJet,Goa,Mumbai,09:45,"11:20
+ ",01:35,"8,579"
+2012,Air India,Hyderabad,Mumbai,21:15,23:35,02:20,"8,580"
+2013,IndiGo,Goa,Mumbai,07:20,13:45,06:25,"8,632"
+2014,Vistara,Hyderabad,Mumbai,06:30,23:05,16:35,"8,714"
+2015,Vistara,Goa,Mumbai,06:30,"06:15
+ ",23:45,"8,714"
+2016,Air India,Hyderabad,Mumbai,07:00,09:05,02:05,"8,790"
+2017,Air India,Goa,Mumbai,08:00,10:10,02:10,"8,790"
+2018,Air India,Hyderabad,Mumbai,20:00,22:10,02:10,"8,790"
+2019,Air India,Goa,Mumbai,19:00,21:15,02:15,"8,790"
+2020,Air India,Hyderabad,Mumbai,10:00,12:35,02:35,"8,790"
+2021,Air India,Goa,Mumbai,17:55,22:10,04:15,"8,790"
+2022,IndiGo,Hyderabad,Mumbai,17:50,22:10,04:20,"8,894"
+2023,IndiGo,Goa,Mumbai,17:20,21:45,04:25,"8,894"
+2024,IndiGo,Hyderabad,Mumbai,07:20,12:05,04:45,"8,894"
+2025,IndiGo,New Delhi,Mumbai,19:35,"00:20
+ ",04:45,"8,894"
+2026,IndiGo,Hyderabad,Mumbai,06:30,11:20,04:50,"8,894"
+2027,IndiGo,New Delhi,Mumbai,00:15,05:30,05:15,"8,894"
+2028,IndiGo,Hyderabad,Mumbai,05:20,10:35,05:15,"8,894"
+2029,IndiGo,New Delhi,Mumbai,04:45,11:20,06:35,"8,894"
+2030,IndiGo,Hyderabad,Mumbai,17:20,"00:20
+ ",07:00,"8,894"
+2031,IndiGo,New Delhi,Mumbai,05:45,12:50,07:05,"8,894"
+2032,IndiGo,Hyderabad,Mumbai,10:10,17:25,07:15,"8,894"
+2033,IndiGo,New Delhi,Mumbai,22:15,"05:30
+ ",07:15,"8,894"
+2034,IndiGo,Hyderabad,Mumbai,08:30,15:55,07:25,"8,894"
+2035,IndiGo,New Delhi,Mumbai,00:15,08:00,07:45,"8,894"
+2036,IndiGo,Hyderabad,Mumbai,05:15,13:15,08:00,"8,894"
+2037,IndiGo,New Delhi,Mumbai,13:35,21:45,08:10,"8,894"
+2038,IndiGo,Hyderabad,Mumbai,05:05,13:20,08:15,"8,894"
+2039,IndiGo,New Delhi,Mumbai,07:20,15:55,08:35,"8,894"
+2040,IndiGo,Hyderabad,Mumbai,06:30,15:45,09:15,"8,894"
+2041,IndiGo,New Delhi,Mumbai,22:15,"08:00
+ ",09:45,"8,894"
+2042,IndiGo,Hyderabad,Mumbai,19:35,"05:30
+ ",09:55,"8,894"
+2043,IndiGo,New Delhi,Mumbai,21:05,"07:10
+ ",10:05,"8,894"
+2044,IndiGo,Hyderabad,Mumbai,20:55,"07:25
+ ",10:30,"8,894"
+2045,IndiGo,New Delhi,Mumbai,09:50,20:25,10:35,"8,894"
+2046,Vistara,Hyderabad,Mumbai,21:30,23:30,02:00,"8,895"
+2047,Vistara,New Delhi,Mumbai,21:20,"06:15
+ ",08:55,"9,032"
+2048,Vistara,Hyderabad,Mumbai,21:20,"23:05
+ ",01:45,"9,032"
+2049,Air India,New Delhi,Mumbai,14:30,18:10,03:40,"9,315"
+2050,Vistara,Hyderabad,Mumbai,20:40,22:50,02:10,"9,840"
+2051,Air Asia,New Delhi,Mumbai,12:50,19:15,06:25,"10,338"
+2052,Air Asia,Hyderabad,Mumbai,10:40,19:15,08:35,"10,338"
+2053,Air Asia,New Delhi,Mumbai,12:50,23:45,10:55,"10,338"
+2054,Air Asia,Hyderabad,Mumbai,10:40,23:45,13:05,"10,338"
+2055,Vistara,New Delhi,Mumbai,18:10,23:05,04:55,"10,502"
+2056,Vistara,Hyderabad,Mumbai,18:10,"06:15
+ ",12:05,"10,502"
+2057,IndiGo,New Delhi,Mumbai,13:00,21:50,08:50,"10,600"
+2058,Air Asia,Hyderabad,Mumbai,13:00,14:50,01:50,"10,711"
+2059,Vistara,New Delhi,Mumbai,21:20,"09:40
+ ",12:20,"11,027"
+2060,Vistara,Hyderabad,Mumbai,18:10,"09:40
+ ",15:30,"11,027"
+2061,Air India,New Delhi,Mumbai,08:40,"09:40
+ ",01:00,"11,592"
+2062,Air Asia,Hyderabad,Mumbai,08:10,21:20,13:10,"11,626"
+2063,IndiGo,New Delhi,Mumbai,14:45,"00:05
+ ",09:20,"12,097"
+2064,Air Asia,Hyderabad,Mumbai,07:25,14:05,06:40,"12,466"
+2065,Vistara,New Delhi,Mumbai,05:55,15:50,09:55,"12,671"
+2066,Air India,Hyderabad,Mumbai,05:15,09:20,04:05,"12,885"
+2067,Air India,New Delhi,Mumbai,19:25,"22:05
+ ",02:40,"12,885"
+2068,Vistara,Hyderabad,Mumbai,18:00,"15:50
+ ",21:50,"12,988"
+2069,IndiGo,New Delhi,Mumbai,11:15,16:55,05:40,"12,989"
+2070,IndiGo,Hyderabad,Mumbai,13:35,19:40,06:05,"12,989"
+2071,Vistara,New Delhi,Mumbai,17:10,"11:15
+ ",18:05,"13,616"
+2072,Air India,Hyderabad,Mumbai,22:00,"08:05
+ ",10:05,"13,725"
+2073,Air India,New Delhi,Mumbai,22:00,"00:35
+ ",02:35,"13,725"
+2074,Air India,Hyderabad,Mumbai,22:00,"16:35
+ ",18:35,"13,935"
+2075,IndiGo,New Delhi,Mumbai,18:45,"00:05
+ ",05:20,"14,092"
+2076,Air India,Hyderabad,Mumbai,12:50,19:15,06:25,"14,427"
+2077,SpiceJet,New Delhi,Mumbai,16:55,"10:55
+ ",18:00,"14,663"
+2078,Air India,Hyderabad,Mumbai,10:45,"08:05
+ ",21:20,"14,670"
+2079,Go First,New Delhi,Mumbai,05:20,11:30,06:10,"14,967"
+2080,Go First,Hyderabad,Mumbai,11:50,18:25,06:35,"14,967"
+2081,Go First,New Delhi,Mumbai,09:25,18:25,09:00,"14,967"
+2082,Vistara,Hyderabad,Mumbai,20:35,"20:30
+ ",23:55,"15,195"
+2083,SpiceJet,New Delhi,Mumbai,09:50,16:10,06:20,"15,425"
+2084,Air India,Hyderabad,Mumbai,21:15,"11:35
+ ",14:20,"15,575"
+2085,Vistara,New Delhi,Mumbai,18:40,"14:45
+ ",20:05,"15,823"
+2086,Air Asia,Hyderabad,Mumbai,09:35,20:40,11:05,"15,930"
+2087,Air India,New Delhi,Mumbai,18:40,"17:15
+ ",22:35,"15,930"
+2088,Vistara,Hyderabad,Mumbai,20:35,"14:30
+ ",17:55,"16,035"
+2089,Vistara,New Delhi,Mumbai,20:35,"10:00
+ ",13:25,"16,560"
+2090,Air India,Hyderabad,Mumbai,16:45,"12:05
+ ",19:20,"16,644"
+2091,Air India,New Delhi,Mumbai,21:15,"08:35
+ ",11:20,"16,875"
+2092,Air India,Hyderabad,Mumbai,21:15,"21:05
+ ",23:50,"16,875"
+2093,Air India,New Delhi,Mumbai,10:45,"00:35
+ ",13:50,"16,980"
+2094,Vistara,Hyderabad,Mumbai,20:35,"08:40
+ ",12:05,"17,085"
+2095,Air India,New Delhi,Mumbai,21:15,"10:35
+ ",13:20,"17,085"
+2096,Vistara,Hyderabad,Mumbai,13:40,"11:15
+ ",21:35,"17,188"
+2097,Vistara,New Delhi,Mumbai,13:20,18:20,05:00,"17,295"
+2098,Vistara,Hyderabad,Mumbai,10:20,19:00,08:40,"17,400"
+2099,Vistara,New Delhi,Mumbai,07:20,23:00,15:40,"17,610"
+2100,Go First,Hyderabad,Mumbai,08:50,14:40,05:50,"17,924"
+2101,Vistara,New Delhi,Mumbai,14:05,19:00,04:55,"17,925"
+2102,Vistara,Hyderabad,Mumbai,17:10,22:20,05:10,"18,028"
+2103,Vistara,New Delhi,Mumbai,17:35,"08:40
+ ",15:05,"18,135"
+2104,Vistara,Hyderabad,Mumbai,07:20,14:30,07:10,"18,345"
+2105,Air India,New Delhi,Mumbai,09:45,"08:35
+ ",22:50,"18,555"
+2106,Vistara,Hyderabad,Mumbai,17:35,23:00,05:25,"18,660"
+2107,Air India,New Delhi,Mumbai,09:45,"10:35
+ ",00:50,"18,765"
+2108,Air India,Hyderabad,Mumbai,10:45,16:35,05:50,"18,870"
+2109,Air India,New Delhi,Mumbai,13:45,"12:05
+ ",22:20,"18,901"
+2110,Vistara,Hyderabad,Mumbai,07:20,20:30,13:10,"19,080"
+2111,Vistara,New Delhi,Mumbai,14:45,23:00,08:15,"19,185"
+2112,Air Asia,Hyderabad,Mumbai,05:10,19:15,14:05,"19,840"
+2113,Air India,New Delhi,Mumbai,09:45,21:05,11:20,"20,025"
+2114,Vistara,Hyderabad,Mumbai,14:45,20:30,05:45,"20,655"
+2115,Vistara,New Delhi,Mumbai,10:25,23:00,12:35,"20,760"
+2116,Air Asia,Hyderabad,Mumbai,09:35,21:20,11:45,"21,100"
+2117,Vistara,New Delhi,Mumbai,07:10,14:45,07:35,"21,180"
+2118,Vistara,Hyderabad,Mumbai,13:40,22:20,08:40,"21,600"
+2119,Vistara,New Delhi,Mumbai,10:25,20:30,10:05,"22,230"
+2120,Air India,Hyderabad,Mumbai,13:30,21:05,07:35,"24,855"
+2121,Vistara,New Delhi,Mumbai,09:30,11:35,02:05,"8,578"
+2122,Vistara,Hyderabad,Mumbai,12:50,15:00,02:10,"8,578"
+2123,Vistara,New Delhi,Mumbai,14:20,16:30,02:10,"8,578"
+2124,Vistara,Hyderabad,Mumbai,15:30,17:40,02:10,"8,578"
+2125,Vistara,New Delhi,Mumbai,16:55,19:05,02:10,"8,578"
+2126,Vistara,Hyderabad,Mumbai,19:45,21:55,02:10,"8,578"
+2127,Vistara,New Delhi,Mumbai,07:30,09:45,02:15,"8,578"
+2128,Vistara,Hyderabad,Mumbai,10:20,12:35,02:15,"8,578"
+2129,Vistara,New Delhi,Mumbai,08:50,11:10,02:20,"8,578"
+2130,Vistara,Hyderabad,Mumbai,11:40,14:00,02:20,"8,578"
+2131,Vistara,New Delhi,Mumbai,17:45,20:05,02:20,"8,578"
+2132,Vistara,Hyderabad,Mumbai,18:55,21:15,02:20,"8,578"
+2133,IndiGo,New Delhi,Mumbai,11:55,13:55,02:00,"8,579"
+2134,IndiGo,Hyderabad,Mumbai,07:20,09:25,02:05,"8,579"
+2135,IndiGo,New Delhi,Mumbai,10:45,12:50,02:05,"8,579"
+2136,IndiGo,Hyderabad,Mumbai,17:00,19:05,02:05,"8,579"
+2137,IndiGo,New Delhi,Mumbai,23:35,"01:40
+ ",02:05,"8,579"
+2138,IndiGo,Hyderabad,Mumbai,02:00,04:10,02:10,"8,579"
+2139,Go First,New Delhi,Mumbai,02:40,04:50,02:10,"8,579"
+2140,Air Asia,Hyderabad,Mumbai,04:25,06:35,02:10,"8,579"
+2141,Go First,New Delhi,Mumbai,14:00,16:10,02:10,"8,579"
+2142,IndiGo,Hyderabad,Mumbai,14:10,16:20,02:10,"8,579"
+2143,IndiGo,New Delhi,Mumbai,15:25,17:35,02:10,"8,579"
+2144,IndiGo,Hyderabad,Mumbai,16:15,18:25,02:10,"8,579"
+2145,SpiceJet,New Delhi,Mumbai,19:00,21:10,02:10,"8,579"
+2146,IndiGo,Hyderabad,Mumbai,19:45,21:55,02:10,"8,579"
+2147,Go First,New Delhi,Mumbai,19:50,22:00,02:10,"8,579"
+2148,Go First,Hyderabad,Mumbai,07:00,09:15,02:15,"8,579"
+2149,SpiceJet,New Delhi,Mumbai,07:20,09:35,02:15,"8,579"
+2150,IndiGo,Hyderabad,Mumbai,08:45,11:00,02:15,"8,579"
+2151,Go First,New Delhi,Mumbai,10:55,13:10,02:15,"8,579"
+2152,IndiGo,Hyderabad,Mumbai,18:10,20:25,02:15,"8,579"
+2153,Go First,New Delhi,Mumbai,18:45,21:00,02:15,"8,579"
+2154,SpiceJet,Hyderabad,Mumbai,19:45,22:00,02:15,"8,579"
+2155,SpiceJet,New Delhi,Mumbai,21:40,23:55,02:15,"8,579"
+2156,Go First,Hyderabad,Mumbai,22:45,"01:00
+ ",02:15,"8,579"
+2157,IndiGo,New Delhi,Mumbai,08:00,10:20,02:20,"8,579"
+2158,IndiGo,Hyderabad,Mumbai,21:45,"00:10
+ ",02:25,"8,579"
+2159,Go First,New Delhi,Mumbai,20:55,23:25,02:30,"8,579"
+2160,SpiceJet,Hyderabad,Mumbai,06:15,10:55,04:40,"8,579"
+2161,Go First,New Delhi,Mumbai,05:20,10:45,05:25,"8,579"
+2162,Go First,Hyderabad,Mumbai,13:35,19:40,06:05,"8,579"
+2163,Go First,New Delhi,Mumbai,05:55,12:10,06:15,"8,579"
+2164,SpiceJet,Hyderabad,Mumbai,11:30,18:00,06:30,"8,579"
+2165,SpiceJet,New Delhi,Mumbai,09:25,16:10,06:45,"8,579"
+2166,SpiceJet,Hyderabad,Mumbai,06:25,13:35,07:10,"8,579"
+2167,SpiceJet,New Delhi,Mumbai,11:30,18:55,07:25,"8,579"
+2168,Go First,Hyderabad,Mumbai,05:00,14:20,09:20,"8,579"
+2169,SpiceJet,New Delhi,Mumbai,06:25,16:10,09:45,"8,579"
+2170,Air Asia,Hyderabad,Mumbai,08:10,20:40,12:30,"8,579"
+2171,SpiceJet,New Delhi,Mumbai,20:00,"10:30
+ ",14:30,"8,579"
+2172,SpiceJet,Hyderabad,Mumbai,08:45,23:55,15:10,"8,579"
+2173,SpiceJet,New Delhi,Mumbai,06:25,21:45,15:20,"8,579"
+2174,SpiceJet,Hyderabad,Mumbai,18:55,"13:40
+ ",18:45,"8,579"
+2175,SpiceJet,New Delhi,Mumbai,15:10,"14:55
+ ",23:45,"8,579"
+2176,SpiceJet,Hyderabad,Mumbai,09:45,"11:20
+ ",01:35,"8,579"
+2177,Air India,New Delhi,Mumbai,21:15,23:35,02:20,"8,580"
+2178,IndiGo,Hyderabad,Mumbai,07:20,13:45,06:25,"8,632"
+2179,Vistara,New Delhi,Mumbai,06:30,23:05,16:35,"8,714"
+2180,Vistara,Hyderabad,Mumbai,06:30,"06:15
+ ",23:45,"8,714"
+2181,Air India,New Delhi,Mumbai,07:00,09:05,02:05,"8,790"
+2182,Air India,Hyderabad,Mumbai,08:00,10:10,02:10,"8,790"
+2183,Air India,New Delhi,Mumbai,20:00,22:10,02:10,"8,790"
+2184,Air India,Hyderabad,Mumbai,19:00,21:15,02:15,"8,790"
+2185,Air India,New Delhi,Mumbai,10:00,12:35,02:35,"8,790"
+2186,Air India,Hyderabad,Mumbai,17:55,22:10,04:15,"8,790"
+2187,IndiGo,New Delhi,Mumbai,17:50,22:10,04:20,"8,894"
+2188,IndiGo,Hyderabad,Mumbai,17:20,21:45,04:25,"8,894"
+2189,IndiGo,New Delhi,Mumbai,07:20,12:05,04:45,"8,894"
+2190,IndiGo,Hyderabad,Mumbai,19:35,"00:20
+ ",04:45,"8,894"
+2191,IndiGo,New Delhi,Mumbai,06:30,11:20,04:50,"8,894"
+2192,IndiGo,Hyderabad,Mumbai,00:15,05:30,05:15,"8,894"
+2193,IndiGo,New Delhi,Mumbai,05:20,10:35,05:15,"8,894"
+2194,IndiGo,Hyderabad,Mumbai,04:45,11:20,06:35,"8,894"
+2195,IndiGo,New Delhi,Mumbai,17:20,"00:20
+ ",07:00,"8,894"
+2196,IndiGo,Hyderabad,Mumbai,05:45,12:50,07:05,"8,894"
+2197,IndiGo,New Delhi,Mumbai,10:10,17:25,07:15,"8,894"
+2198,IndiGo,Hyderabad,Mumbai,22:15,"05:30
+ ",07:15,"8,894"
+2199,IndiGo,New Delhi,Mumbai,08:30,15:55,07:25,"8,894"
+2200,IndiGo,Hyderabad,Mumbai,00:15,08:00,07:45,"8,894"
+2201,IndiGo,New Delhi,Mumbai,05:15,13:15,08:00,"8,894"
+2202,IndiGo,Hyderabad,Mumbai,13:35,21:45,08:10,"8,894"
+2203,IndiGo,New Delhi,Mumbai,05:05,13:20,08:15,"8,894"
+2204,IndiGo,Hyderabad,Mumbai,07:20,15:55,08:35,"8,894"
+2205,IndiGo,New Delhi,Mumbai,06:30,15:45,09:15,"8,894"
+2206,IndiGo,Hyderabad,Mumbai,22:15,"08:00
+ ",09:45,"8,894"
+2207,IndiGo,New Delhi,Mumbai,19:35,"05:30
+ ",09:55,"8,894"
+2208,IndiGo,Hyderabad,Mumbai,21:05,"07:10
+ ",10:05,"8,894"
+2209,IndiGo,New Delhi,Mumbai,20:55,"07:25
+ ",10:30,"8,894"
+2210,IndiGo,Hyderabad,Mumbai,09:50,20:25,10:35,"8,894"
+2211,Vistara,New Delhi,Mumbai,21:30,23:30,02:00,"8,895"
+2212,Vistara,Hyderabad,Mumbai,21:20,"06:15
+ ",08:55,"9,032"
+2213,Vistara,New Delhi,Mumbai,21:20,"23:05
+ ",01:45,"9,032"
+2214,Air India,Hyderabad,Mumbai,14:30,18:10,03:40,"9,315"
+2215,Vistara,New Delhi,Mumbai,20:40,22:50,02:10,"9,840"
+2216,Air Asia,Hyderabad,Mumbai,12:50,19:15,06:25,"10,338"
+2217,Air Asia,New Delhi,Mumbai,10:40,19:15,08:35,"10,338"
+2218,Air Asia,Hyderabad,Mumbai,12:50,23:45,10:55,"10,338"
+2219,Air Asia,New Delhi,Mumbai,10:40,23:45,13:05,"10,338"
+2220,Vistara,Hyderabad,Mumbai,18:10,23:05,04:55,"10,502"
+2221,Vistara,New Delhi,Mumbai,18:10,"06:15
+ ",12:05,"10,502"
+2222,IndiGo,Hyderabad,Mumbai,13:00,21:50,08:50,"10,600"
+2223,Air Asia,New Delhi,Mumbai,13:00,14:50,01:50,"10,711"
+2224,Vistara,Hyderabad,Mumbai,21:20,"09:40
+ ",12:20,"11,027"
+2225,Vistara,New Delhi,Mumbai,18:10,"09:40
+ ",15:30,"11,027"
+2226,Air India,Hyderabad,Mumbai,08:40,"09:40
+ ",01:00,"11,592"
+2227,Air Asia,New Delhi,Mumbai,08:10,21:20,13:10,"11,626"
+2228,IndiGo,Hyderabad,Mumbai,14:45,"00:05
+ ",09:20,"12,097"
+2229,Air Asia,New Delhi,Mumbai,07:25,14:05,06:40,"12,466"
+2230,Vistara,Hyderabad,Mumbai,05:55,15:50,09:55,"12,671"
+2231,Air India,New Delhi,Mumbai,05:15,09:20,04:05,"12,885"
+2232,Air India,Hyderabad,Mumbai,19:25,"22:05
+ ",02:40,"12,885"
+2233,Vistara,New Delhi,Mumbai,18:00,"15:50
+ ",21:50,"12,988"
+2234,IndiGo,Hyderabad,Mumbai,11:15,16:55,05:40,"12,989"
+2235,IndiGo,Mumbai,Mumbai,13:35,19:40,06:05,"12,989"
+2236,Vistara,Hyderabad,Mumbai,17:10,"11:15
+ ",18:05,"13,616"
+2237,Air India,Mumbai,Mumbai,22:00,"08:05
+ ",10:05,"13,725"
+2238,Air India,Hyderabad,Mumbai,22:00,"00:35
+ ",02:35,"13,725"
+2239,Air India,Mumbai,Mumbai,22:00,"16:35
+ ",18:35,"13,935"
+2240,IndiGo,Hyderabad,Mumbai,18:45,"00:05
+ ",05:20,"14,092"
+2241,Air India,Mumbai,Mumbai,12:50,19:15,06:25,"14,427"
+2242,SpiceJet,Hyderabad,Mumbai,16:55,"10:55
+ ",18:00,"14,663"
+2243,Air India,Mumbai,Mumbai,10:45,"08:05
+ ",21:20,"14,670"
+2244,Go First,Hyderabad,Mumbai,05:20,11:30,06:10,"14,967"
+2245,Go First,Mumbai,Mumbai,11:50,18:25,06:35,"14,967"
+2246,Go First,Hyderabad,Mumbai,09:25,18:25,09:00,"14,967"
+2247,Vistara,Mumbai,Mumbai,20:35,"20:30
+ ",23:55,"15,195"
+2248,SpiceJet,Hyderabad,Mumbai,09:50,16:10,06:20,"15,425"
+2249,Air India,Mumbai,Mumbai,21:15,"11:35
+ ",14:20,"15,575"
+2250,Vistara,Hyderabad,Mumbai,18:40,"14:45
+ ",20:05,"15,823"
+2251,Air Asia,Mumbai,Mumbai,09:35,20:40,11:05,"15,930"
+2252,Air India,Hyderabad,Mumbai,18:40,"17:15
+ ",22:35,"15,930"
+2253,Vistara,Mumbai,Mumbai,20:35,"14:30
+ ",17:55,"16,035"
+2254,Vistara,Hyderabad,Mumbai,20:35,"10:00
+ ",13:25,"16,560"
+2255,Air India,Mumbai,Mumbai,16:45,"12:05
+ ",19:20,"16,644"
+2256,Air India,Hyderabad,Mumbai,21:15,"08:35
+ ",11:20,"16,875"
+2257,Air India,Mumbai,Mumbai,21:15,"21:05
+ ",23:50,"16,875"
+2258,Air India,Hyderabad,Mumbai,10:45,"00:35
+ ",13:50,"16,980"
+2259,Vistara,Mumbai,Mumbai,20:35,"08:40
+ ",12:05,"17,085"
+2260,Air India,Hyderabad,Mumbai,21:15,"10:35
+ ",13:20,"17,085"
+2261,Vistara,Mumbai,Mumbai,13:40,"11:15
+ ",21:35,"17,188"
+2262,Vistara,Hyderabad,Mumbai,13:20,18:20,05:00,"17,295"
+2263,Vistara,Mumbai,Mumbai,10:20,19:00,08:40,"17,400"
+2264,Vistara,Hyderabad,Mumbai,07:20,23:00,15:40,"17,610"
+2265,Go First,Mumbai,Mumbai,08:50,14:40,05:50,"17,924"
+2266,Vistara,Hyderabad,Mumbai,14:05,19:00,04:55,"17,925"
+2267,Vistara,Mumbai,Mumbai,17:10,22:20,05:10,"18,028"
+2268,Vistara,Hyderabad,Mumbai,17:35,"08:40
+ ",15:05,"18,135"
+2269,Vistara,Mumbai,Mumbai,07:20,14:30,07:10,"18,345"
+2270,Air India,Hyderabad,Mumbai,09:45,"08:35
+ ",22:50,"18,555"
+2271,Vistara,Mumbai,Mumbai,17:35,23:00,05:25,"18,660"
+2272,Air India,Hyderabad,Mumbai,09:45,"10:35
+ ",00:50,"18,765"
+2273,Air India,Mumbai,Mumbai,10:45,16:35,05:50,"18,870"
+2274,Air India,Hyderabad,Mumbai,13:45,"12:05
+ ",22:20,"18,901"
+2275,Vistara,Mumbai,Mumbai,07:20,20:30,13:10,"19,080"
+2276,Vistara,Hyderabad,Mumbai,14:45,23:00,08:15,"19,185"
+2277,Air Asia,Mumbai,Mumbai,05:10,19:15,14:05,"19,840"
+2278,Air India,Hyderabad,Mumbai,09:45,21:05,11:20,"20,025"
+2279,Vistara,Mumbai,Mumbai,14:45,20:30,05:45,"20,655"
+2280,Vistara,Hyderabad,Mumbai,10:25,23:00,12:35,"20,760"
+2281,Air Asia,Mumbai,Mumbai,09:35,21:20,11:45,"21,100"
+2282,Vistara,Hyderabad,Mumbai,07:10,14:45,07:35,"21,180"
+2283,Vistara,Mumbai,Mumbai,13:40,22:20,08:40,"21,600"
+2284,Vistara,Hyderabad,Mumbai,10:25,20:30,10:05,"22,230"
+2285,Air India,Mumbai,Mumbai,13:30,21:05,07:35,"24,855"
+2286,Air India,Hyderabad,Mumbai,06:10,21:05,14:55,"26,220"
+2287,Vistara,Mumbai,Bangalore,07:00,08:50,01:50,"7,096"
+2288,IndiGo,Hyderabad,Bangalore,22:40,"00:10
+ ",01:30,"7,098"
+2289,IndiGo,Mumbai,Bangalore,06:05,07:40,01:35,"7,098"
+2290,Go First,Hyderabad,Bangalore,06:00,07:40,01:40,"7,098"
+2291,Air India,Mumbai,Bangalore,06:10,07:50,01:40,"7,098"
+2292,IndiGo,Hyderabad,Bangalore,19:05,20:45,01:40,"7,098"
+2293,IndiGo,Mumbai,Bangalore,00:10,01:55,01:45,"7,098"
+2294,IndiGo,Hyderabad,Bangalore,07:35,09:20,01:45,"7,098"
+2295,Go First,Mumbai,Bangalore,15:40,17:25,01:45,"7,098"
+2296,Go First,Hyderabad,Bangalore,20:10,21:55,01:45,"7,098"
+2297,Air Asia,Mumbai,Bangalore,21:20,23:10,01:50,"7,099"
+2298,Air Asia,Hyderabad,Bangalore,22:00,23:50,01:50,"7,099"
+2299,IndiGo,Mumbai,Bangalore,09:55,11:35,01:40,"7,203"
+2300,IndiGo,Hyderabad,Bangalore,20:30,22:10,01:40,"7,203"
+2301,IndiGo,Mumbai,Bangalore,08:30,10:15,01:45,"7,203"
+2302,Air India,Hyderabad,Bangalore,09:30,11:10,01:40,"7,308"
+2303,Air India,Mumbai,Bangalore,16:40,18:20,01:40,"7,308"
+2304,Vistara,Hyderabad,Bangalore,21:30,23:10,01:40,"7,413"
+2305,Vistara,Mumbai,Bangalore,19:10,20:55,01:45,"7,413"
+2306,Vistara,Hyderabad,Bangalore,09:05,10:45,01:40,"7,833"
+2307,IndiGo,Mumbai,Bangalore,17:10,18:50,01:40,"7,833"
+2308,Vistara,Hyderabad,Bangalore,17:30,19:15,01:45,"7,833"
+2309,IndiGo,Mumbai,Bangalore,19:55,23:40,03:45,"7,833"
+2310,IndiGo,Hyderabad,Bangalore,08:50,13:00,04:10,"7,833"
+2311,IndiGo,Mumbai,Bangalore,12:30,16:50,04:20,"7,833"
+2312,IndiGo,Hyderabad,Bangalore,09:00,14:00,05:00,"7,833"
+2313,IndiGo,Mumbai,Bangalore,18:45,23:45,05:00,"7,833"
+2314,IndiGo,Hyderabad,Bangalore,06:50,12:10,05:20,"7,833"
+2315,IndiGo,Mumbai,Bangalore,19:55,"01:15
+ ",05:20,"7,833"
+2316,IndiGo,Hyderabad,Bangalore,08:50,14:35,05:45,"7,833"
+2317,IndiGo,Mumbai,Bangalore,16:45,22:35,05:50,"7,833"
+2318,IndiGo,Hyderabad,Bangalore,05:35,12:10,06:35,"7,833"
+2319,IndiGo,Mumbai,Bangalore,06:50,14:00,07:10,"7,833"
+2320,IndiGo,Hyderabad,Bangalore,18:05,"01:15
+ ",07:10,"7,833"
+2321,IndiGo,Mumbai,Bangalore,16:55,"00:25
+ ",07:30,"7,833"
+2322,IndiGo,Hyderabad,Bangalore,11:50,13:20,01:30,"8,043"
+2323,IndiGo,Mumbai,Bangalore,18:05,23:40,05:35,"8,153"
+2324,Vistara,Goa,Bangalore,16:00,17:45,01:45,"8,358"
+2325,Vistara,Chennai,Bangalore,16:30,18:15,01:45,"8,358"
+2326,IndiGo,Goa,Bangalore,16:55,22:20,05:25,"9,114"
+2327,IndiGo,Chennai,Bangalore,17:30,23:40,06:10,"9,434"
+2328,IndiGo,Goa,Bangalore,14:40,16:15,01:35,"9,513"
+2329,IndiGo,Chennai,Bangalore,15:30,22:35,07:05,"10,075"
+2330,IndiGo,Goa,Bangalore,22:20,"03:35
+ ",05:15,"10,395"
+2331,IndiGo,Chennai,Bangalore,10:15,17:15,07:00,"10,715"
+2332,Air India,Goa,Bangalore,19:00,"00:05
+ ",05:05,"11,125"
+2333,IndiGo,Chennai,Bangalore,06:05,10:35,04:30,"11,456"
+2334,Vistara,Goa,Bangalore,19:20,"08:45
+ ",13:25,"11,504"
+2335,Vistara,Chennai,Bangalore,19:20,"19:30
+ ",00:10,"11,504"
+2336,Vistara,Goa,Bangalore,06:20,"08:45
+ ",02:25,"11,504"
+2337,Air India,Chennai,Bangalore,18:00,"00:05
+ ",06:05,"11,970"
+2338,Air India,Goa,Bangalore,16:00,"00:05
+ ",08:05,"11,970"
+2339,Air India,Chennai,Bangalore,15:25,"00:05
+ ",08:40,"11,970"
+2340,Air India,Goa,Bangalore,13:00,"00:05
+ ",11:05,"11,970"
+2341,Air India,Chennai,Bangalore,19:00,"08:55
+ ",13:55,"11,970"
+2342,Air India,Goa,Bangalore,10:00,"00:05
+ ",14:05,"11,970"
+2343,Air India,Chennai,Bangalore,18:00,"08:55
+ ",14:55,"11,970"
+2344,Air India,Goa,Bangalore,08:00,"00:05
+ ",16:05,"11,970"
+2345,Air India,Chennai,Bangalore,07:20,"00:05
+ ",16:45,"11,970"
+2346,Air India,Goa,Bangalore,16:00,"08:55
+ ",16:55,"11,970"
+2347,Air India,Chennai,Bangalore,07:00,"00:05
+ ",17:05,"11,970"
+2348,Air India,Goa,Bangalore,15:25,"08:55
+ ",17:30,"11,970"
+2349,Air India,Chennai,Bangalore,13:00,"08:55
+ ",19:55,"11,970"
+2350,Air India,Goa,Bangalore,10:00,"08:55
+ ",22:55,"11,970"
+2351,IndiGo,Chennai,Bangalore,17:30,21:35,04:05,"11,996"
+2352,IndiGo,Goa,Bangalore,11:25,15:50,04:25,"11,996"
+2353,IndiGo,Chennai,Bangalore,16:05,21:35,05:30,"12,086"
+2354,Vistara,Goa,Bangalore,11:55,21:45,09:50,"12,134"
+2355,Vistara,Chennai,Bangalore,11:55,"09:30
+ ",21:35,"12,134"
+2356,IndiGo,Goa,Bangalore,04:55,09:30,04:35,"12,317"
+2357,Vistara,Chennai,Bangalore,22:45,"18:50
+ ",20:05,"12,511"
+2358,Vistara,Goa,Bangalore,21:55,"18:50
+ ",20:55,"12,511"
+2359,Vistara,Chennai,Bangalore,22:45,"20:25
+ ",21:40,"12,511"
+2360,Vistara,Goa,Bangalore,20:55,"18:50
+ ",21:55,"12,511"
+2361,SpiceJet,Chennai,Bangalore,15:35,23:25,07:50,"12,943"
+2362,SpiceJet,Goa,Bangalore,11:15,23:25,12:10,"12,943"
+2363,Air Asia,Chennai,Bangalore,20:40,"02:30
+ ",05:50,"13,102"
+2364,Air Asia,Goa,Bangalore,15:40,"02:30
+ ",10:50,"13,102"
+2365,IndiGo,Chennai,Bangalore,06:05,13:10,07:05,"13,277"
+2366,Vistara,Goa,Bangalore,17:00,"08:45
+ ",15:45,"13,711"
+2367,Vistara,Chennai,Bangalore,10:45,"08:45
+ ",22:00,"13,711"
+2368,Vistara,Goa,Bangalore,17:00,"19:30
+ ",02:30,"13,711"
+2369,Go First,Chennai,Bangalore,12:00,22:20,10:20,"14,001"
+2370,Vistara,Goa,Bangalore,12:45,21:50,09:05,"14,129"
+2371,IndiGo,Chennai,Bangalore,15:30,19:55,04:25,"14,553"
+2372,Air Asia,Goa,Bangalore,15:40,21:40,06:00,"14,737"
+2373,Vistara,Chennai,Bangalore,21:20,"08:45
+ ",11:25,"14,971"
+2374,Vistara,Goa,Bangalore,21:20,"19:30
+ ",22:10,"14,971"
+2375,SpiceJet,Chennai,Bangalore,19:35,"09:00
+ ",13:25,"15,043"
+2376,IndiGo,Goa,Bangalore,11:10,17:55,06:45,"15,708"
+2377,SpiceJet,Chennai,Bangalore,16:55,"19:25
+ ",02:30,"15,756"
+2378,IndiGo,Goa,Bangalore,09:00,13:10,04:10,"15,971"
+2379,IndiGo,Chennai,Bangalore,07:15,13:10,05:55,"15,971"
+2380,Vistara,Goa,Bangalore,06:20,19:30,13:10,"16,546"
+2381,Vistara,Chennai,Bangalore,22:35,"18:50
+ ",20:15,"17,045"
+2382,Vistara,Goa,Bangalore,22:35,"18:50
+ ",20:15,"17,045"
+2383,Vistara,Chennai,Bangalore,22:35,"20:25
+ ",21:50,"17,045"
+2384,Vistara,Goa,Bangalore,22:35,"20:25
+ ",21:50,"17,045"
+2385,Vistara,Chennai,Bangalore,22:35,"22:40
+ ",00:05,"17,045"
+2386,Vistara,Goa,Bangalore,22:35,"22:40
+ ",00:05,"17,045"
+2387,Vistara,Chennai,Bangalore,22:35,"23:20
+ ",00:45,"17,045"
+2388,Vistara,Goa,Bangalore,22:35,"23:20
+ ",00:45,"17,045"
+2389,Vistara,Chennai,Bangalore,20:00,"18:50
+ ",22:50,"17,362"
+2390,Vistara,Goa,Bangalore,20:00,"18:50
+ ",22:50,"17,362"
+2391,Vistara,Chennai,Bangalore,20:00,"20:25
+ ",00:25,"17,362"
+2392,Vistara,Goa,Bangalore,20:00,"20:25
+ ",00:25,"17,362"
+2393,Vistara,Chennai,Bangalore,20:00,"22:40
+ ",02:40,"17,362"
+2394,Go First,Goa,Bangalore,11:30,15:05,03:35,"17,389"
+2395,Go First,Chennai,Bangalore,05:00,15:05,10:05,"17,389"
+2396,Go First,Goa,Bangalore,16:45,23:20,06:35,"17,467"
+2397,Go First,Chennai,Bangalore,00:10,08:30,08:20,"17,467"
+2398,Go First,Goa,Bangalore,12:50,22:25,09:35,"17,467"
+2399,Go First,Chennai,Bangalore,22:30,"08:30
+ ",10:00,"17,467"
+2400,Go First,Goa,Bangalore,21:20,"08:30
+ ",11:10,"17,467"
+2401,Go First,Chennai,Bangalore,18:00,"08:30
+ ",14:30,"17,467"
+2402,Go First,Goa,Bangalore,08:40,23:20,14:40,"17,467"
+2403,Vistara,Chennai,Bangalore,06:30,15:55,09:25,"17,491"
+2404,Go First,Goa,Bangalore,10:00,15:05,05:05,"17,688"
+2405,Air India,Chennai,Bangalore,05:45,"00:05
+ ",18:20,"17,712"
+2406,Air India,Goa,Bangalore,05:45,"08:55
+ ",03:10,"17,712"
+2407,Air India,Chennai,Bangalore,05:45,"16:15
+ ",10:30,"18,557"
+2408,Vistara,Goa,Bangalore,11:25,15:55,04:30,"18,648"
+2409,Vistara,Chennai,Bangalore,10:45,19:30,08:45,"18,753"
+2410,Go First,Goa,Bangalore,10:55,17:40,06:45,"18,821"
+2411,Vistara,Chennai,Bangalore,17:35,23:20,05:45,"19,381"
+2412,IndiGo,Goa,Bangalore,17:25,22:15,04:50,"20,906"
+2413,Air India,Chennai,Bangalore,05:45,"12:30
+ ",06:45,"21,938"
+2414,Air India,Goa,Bangalore,10:00,16:15,06:15,"25,053"
+2415,Vistara,Chennai,Bangalore,14:40,22:40,08:00,"25,053"
+2416,Vistara,Goa,Bangalore,12:25,18:50,06:25,"26,206"
+2417,Vistara,Chennai,Bangalore,12:25,20:25,08:00,"26,206"
+2418,Vistara,Goa,Bangalore,10:25,18:50,08:25,"26,206"
+2419,Vistara,Chennai,Bangalore,15:45,23:20,07:35,"26,523"
+2420,Vistara,Goa,Bangalore,15:45,22:40,06:55,"28,308"
+2421,Vistara,Chennai,Bangalore,10:25,16:50,06:25,"28,516"
+2422,Vistara,Goa,Bangalore,08:45,16:50,08:05,"28,516"
+2423,Vistara,Chennai,Bangalore,11:55,18:50,06:55,"33,348"
+2424,Vistara,Goa,Bangalore,11:55,20:25,08:30,"33,348"
+2425,Vistara,Chennai,Hyderabad,06:20,07:50,01:30,"5,941"
+2426,Vistara,Goa,Hyderabad,19:20,20:55,01:35,"5,941"
+2427,Go First,Chennai,Hyderabad,19:25,21:00,01:35,"5,942"
+2428,IndiGo,Goa,Hyderabad,17:30,18:50,01:20,"5,943"
+2429,IndiGo,Chennai,Hyderabad,06:05,07:30,01:25,"5,943"
+2430,IndiGo,Goa,Hyderabad,09:00,10:25,01:25,"5,943"
+2431,IndiGo,Chennai,Hyderabad,16:05,17:30,01:25,"5,943"
+2432,IndiGo,Goa,Hyderabad,18:05,19:30,01:25,"5,943"
+2433,IndiGo,Chennai,Hyderabad,19:55,21:20,01:25,"5,943"
+2434,IndiGo,Goa,Hyderabad,07:15,08:45,01:30,"5,943"
+2435,Air India,Chennai,Hyderabad,20:10,21:40,01:30,"6,153"
+2436,IndiGo,Goa,Hyderabad,11:10,12:40,01:30,"6,206"
+2437,Air Asia,Chennai,Hyderabad,22:00,"08:45
+ ",10:45,"8,047"
+2438,Air Asia,Goa,Hyderabad,21:20,"08:45
+ ",11:25,"8,047"
+2439,Vistara,Chennai,Hyderabad,17:00,18:25,01:25,"8,148"
+2440,Vistara,Goa,Hyderabad,10:45,12:15,01:30,"8,148"
+2441,Vistara,Chennai,Hyderabad,21:20,22:40,01:20,"9,408"
+2442,IndiGo,Goa,Hyderabad,16:55,"03:20
+ ",10:25,"9,566"
+2443,IndiGo,Chennai,Hyderabad,09:40,17:15,07:35,"10,091"
+2444,IndiGo,Goa,Hyderabad,22:20,"03:20
+ ",05:00,"10,616"
+2445,Air India,Chennai,Hyderabad,19:00,"09:25
+ ",14:25,"10,973"
+2446,Air India,Goa,Hyderabad,18:00,"09:25
+ ",15:25,"10,973"
+2447,Air India,Chennai,Hyderabad,16:00,"09:25
+ ",17:25,"10,973"
+2448,Air India,Goa,Hyderabad,15:25,"09:25
+ ",18:00,"10,973"
+2449,Air India,Chennai,Hyderabad,13:00,"09:25
+ ",20:25,"10,973"
+2450,Air India,Goa,Hyderabad,10:00,"09:25
+ ",23:25,"10,973"
+2451,Air India,Chennai,Hyderabad,08:00,"09:25
+ ",01:25,"10,973"
+2452,Air India,Goa,Hyderabad,07:20,"09:25
+ ",02:05,"10,973"
+2453,Air India,Chennai,Hyderabad,07:00,"09:25
+ ",02:25,"10,973"
+2454,IndiGo,Goa,Hyderabad,16:55,23:15,06:20,"11,666"
+2455,IndiGo,Chennai,Hyderabad,14:00,23:15,09:15,"11,666"
+2456,Air India,Goa,Hyderabad,19:00,"11:50
+ ",16:50,"12,030"
+2457,Air India,Chennai,Hyderabad,18:00,"11:50
+ ",17:50,"12,030"
+2458,Air India,Goa,Hyderabad,16:00,"11:50
+ ",19:50,"12,030"
+2459,Vistara,Chennai,Hyderabad,22:45,"12:40
+ ",13:55,"12,367"
+2460,Vistara,Goa,Hyderabad,21:55,"12:40
+ ",14:45,"12,367"
+2461,Vistara,Chennai,Hyderabad,20:55,"12:40
+ ",15:45,"12,367"
+2462,Vistara,Goa,Hyderabad,19:45,"12:40
+ ",16:55,"12,367"
+2463,Vistara,Chennai,Hyderabad,18:30,"12:40
+ ",18:10,"12,367"
+2464,Vistara,Goa,Hyderabad,22:45,"17:00
+ ",18:15,"12,367"
+2465,Vistara,Chennai,Hyderabad,17:35,"12:40
+ ",19:05,"12,367"
+2466,Vistara,Goa,Hyderabad,21:55,"17:00
+ ",19:05,"12,367"
+2467,Vistara,Chennai,Hyderabad,20:55,"17:00
+ ",20:05,"12,367"
+2468,Vistara,Goa,Hyderabad,22:45,"19:50
+ ",21:05,"12,367"
+2469,Air Asia,Chennai,Hyderabad,15:40,19:45,04:05,"12,559"
+2470,Alliance Air,Goa,Goa,19:30,20:55,01:25,"5,103"
+2471,Air India,Chennai,Goa,05:05,06:20,01:15,"5,418"
+2472,Air India,Goa,Goa,21:00,22:20,01:20,"5,628"
+2473,Vistara,Chennai,Goa,06:30,07:50,01:20,"5,941"
+2474,Go First,Goa,Goa,05:00,06:10,01:10,"5,942"
+2475,Go First,Chennai,Goa,11:30,12:45,01:15,"5,942"
+2476,Go First,Goa,Goa,15:20,16:40,01:20,"5,942"
+2477,Go First,Chennai,Goa,16:30,17:55,01:25,"5,942"
+2478,SpiceJet,Goa,Goa,15:35,17:05,01:30,"5,942"
+2479,SpiceJet,Chennai,Goa,11:15,12:55,01:40,"5,942"
+2480,IndiGo,Goa,Goa,22:20,23:20,01:00,"5,943"
+2481,IndiGo,Chennai,Goa,11:25,12:40,01:15,"5,943"
+2482,IndiGo,Goa,Goa,14:00,15:15,01:15,"5,943"
+2483,IndiGo,Chennai,Goa,16:55,18:10,01:15,"5,943"
+2484,IndiGo,Goa,Goa,04:55,06:15,01:20,"5,943"
+2485,Air Asia,Chennai,Goa,20:40,22:00,01:20,"5,944"
+2486,Air Asia,Goa,Goa,15:40,17:15,01:35,"5,944"
+2487,Air India,Bangalore,Goa,13:25,14:35,01:10,"6,153"
+2488,Go First,Goa,Goa,10:00,11:25,01:25,"6,241"
+2489,Vistara,Bangalore,Goa,11:25,12:45,01:20,"7,098"
+2490,SpiceJet,Goa,Goa,20:35,"12:50
+ ",16:15,"11,335"
+2491,Go First,Bangalore,Goa,12:00,21:25,09:25,"12,531"
+2492,Go First,Goa,Goa,06:00,16:55,10:55,"12,559"
+2493,Vistara,Bangalore,Goa,07:00,14:05,07:05,"13,291"
+2494,Vistara,Goa,Goa,21:30,"14:05
+ ",16:35,"13,608"
+2495,Vistara,Bangalore,Goa,19:10,"14:05
+ ",18:55,"13,608"
+2496,Vistara,Goa,Goa,11:55,"14:05
+ ",02:10,"13,952"
+2497,Vistara,Bangalore,Goa,11:55,"14:05
+ ",02:10,"13,952"
+2498,Vistara,Goa,Goa,09:05,14:05,05:00,"14,028"
+2499,Vistara,Bangalore,Goa,17:30,"14:05
+ ",20:35,"14,028"
+2500,Vistara,Goa,Goa,16:30,"14:05
+ ",21:35,"14,553"
+2501,Vistara,Bangalore,Goa,16:00,"14:05
+ ",22:05,"14,553"
+2502,Vistara,Goa,Goa,19:20,"14:05
+ ",18:45,"14,696"
+2503,Vistara,Bangalore,Goa,06:20,"14:05
+ ",07:45,"14,696"
+2504,Vistara,Goa,Goa,17:00,"14:05
+ ",21:05,"16,903"
+2505,Vistara,Bangalore,Goa,10:45,"14:05
+ ",03:20,"16,903"
+2506,Vistara,Goa,Goa,22:35,"21:20
+ ",22:45,"17,045"
+2507,Vistara,Bangalore,Goa,22:35,"21:20
+ ",22:45,"17,045"
+2508,Air India,Goa,Goa,19:00,"00:40
+ ",05:40,"17,073"
+2509,Air India,Bangalore,Goa,18:00,"00:40
+ ",06:40,"17,073"
+2510,Air India,Goa,Goa,16:00,"00:40
+ ",08:40,"17,073"
+2511,Air India,Bangalore,Goa,15:25,"00:40
+ ",09:15,"17,073"
+2512,Air India,Goa,Goa,13:00,"00:40
+ ",11:40,"17,073"
+2513,Air India,Bangalore,Goa,10:00,"00:40
+ ",14:40,"17,073"
+2514,Air India,Goa,Goa,08:00,"00:40
+ ",16:40,"17,073"
+2515,Air India,Bangalore,Goa,07:20,"00:40
+ ",17:20,"17,073"
+2516,Air India,Goa,Goa,07:00,"00:40
+ ",17:40,"17,073"
+2517,Go First,Bangalore,Goa,05:55,13:20,07:25,"17,467"
+2518,Go First,Goa,Goa,00:10,11:30,11:20,"17,467"
+2519,Go First,Bangalore,Goa,00:10,13:20,13:10,"17,467"
+2520,Go First,Goa,Goa,22:30,"13:20
+ ",14:50,"17,467"
+2521,Go First,Bangalore,Goa,21:20,"13:20
+ ",16:00,"17,467"
+2522,Vistara,Goa,Goa,06:35,21:20,14:45,"17,489"
+2523,Vistara,Bangalore,Goa,22:35,"13:50
+ ",15:15,"17,489"
+2524,Vistara,Goa,Goa,22:35,"13:50
+ ",15:15,"17,489"
+2525,Vistara,Bangalore,Goa,06:35,"13:50
+ ",07:15,"17,489"
+2526,Vistara,Goa,Goa,22:45,"21:20
+ ",22:35,"17,594"
+2527,Vistara,Bangalore,Goa,20:55,"21:20
+ ",00:25,"17,594"
+2528,Vistara,Goa,Goa,19:45,"21:20
+ ",01:35,"17,594"
+2529,Vistara,Bangalore,Goa,18:30,"21:20
+ ",02:50,"17,594"
+2530,Vistara,Goa,Goa,17:35,"21:20
+ ",03:45,"17,594"
+2531,Vistara,Bangalore,Goa,20:00,"13:50
+ ",17:50,"17,806"
+2532,Vistara,Goa,Goa,20:00,"13:50
+ ",17:50,"17,806"
+2533,Air India,Bangalore,Goa,07:20,"13:35
+ ",06:15,"17,808"
+2534,Vistara,Goa,Goa,12:25,21:20,08:55,"17,911"
+2535,Vistara,Bangalore,Goa,10:25,21:20,10:55,"17,911"
+2536,Vistara,Goa,Goa,08:45,21:20,12:35,"17,911"
+2537,Vistara,Bangalore,Goa,07:30,21:20,13:50,"17,911"
+2538,Vistara,Goa,Goa,06:30,21:20,14:50,"17,911"
+2539,Vistara,Bangalore,Goa,22:45,"13:50
+ ",15:05,"17,911"
+2540,Vistara,Goa,Goa,21:55,"13:50
+ ",15:55,"17,911"
+2541,Vistara,Bangalore,Goa,20:55,"13:50
+ ",16:55,"17,911"
+2542,Vistara,Goa,Goa,19:45,"13:50
+ ",18:05,"17,911"
+2543,Vistara,Bangalore,Goa,18:30,"13:50
+ ",19:20,"17,911"
+2544,Vistara,Goa,Goa,17:35,"13:50
+ ",20:15,"17,911"
+2545,Air India,Bangalore,Goa,07:00,13:35,06:35,"18,018"
+2546,Vistara,Goa,Goa,21:20,"14:05
+ ",16:45,"18,163"
+2547,Vistara,Bangalore,Goa,19:20,"13:50
+ ",18:30,"18,518"
+2548,Air India,Goa,Goa,05:45,"00:40
+ ",18:55,"20,190"
+2549,Vistara,Bangalore,Goa,14:40,21:20,06:40,"21,798"
+2550,Vistara,Goa,Goa,07:30,13:50,06:20,"24,211"
+2551,Vistara,Bangalore,Goa,06:30,13:50,07:20,"24,211"
+2552,Air India,Goa,Goa,05:55,"13:35
+ ",07:40,"24,593"
+2553,Vistara,Bangalore,Goa,11:55,21:20,09:25,"25,053"
+2554,Vistara,Goa,Goa,15:45,"13:50
+ ",22:05,"25,053"
+2555,Vistara,Bangalore,New Delhi,06:30,08:35,02:05,"8,566"
+2556,Vistara,Goa,New Delhi,12:25,14:30,02:05,"8,566"
+2557,Vistara,Bangalore,New Delhi,20:55,23:00,02:05,"8,566"
+2558,Vistara,Goa,New Delhi,07:30,09:40,02:10,"8,566"
+2559,Vistara,Bangalore,New Delhi,17:35,19:45,02:10,"8,566"
+2560,Vistara,Goa,New Delhi,18:30,20:40,02:10,"8,566"
+2561,Vistara,Bangalore,New Delhi,19:45,21:55,02:10,"8,566"
+2562,Vistara,Goa,New Delhi,22:45,"00:55
+ ",02:10,"8,566"
+2563,Vistara,Bangalore,New Delhi,08:45,11:00,02:15,"8,566"
+2564,Vistara,Goa,New Delhi,10:25,12:40,02:15,"8,566"
+2565,Vistara,Bangalore,New Delhi,21:55,"00:10
+ ",02:15,"8,566"
+2566,Air Asia,Goa,New Delhi,20:40,"01:50
+ ",05:10,"8,567"
+2567,Air Asia,Bangalore,New Delhi,07:50,14:20,06:30,"8,567"
+2568,Air Asia,Goa,New Delhi,15:25,"01:00
+ ",09:35,"8,567"
+2569,Air Asia,Bangalore,New Delhi,15:40,"01:50
+ ",10:10,"8,567"
+2570,IndiGo,Goa,New Delhi,02:40,04:35,01:55,"8,568"
+2571,Go First,Bangalore,New Delhi,05:55,08:00,02:05,"8,568"
+2572,IndiGo,Goa,New Delhi,07:00,09:05,02:05,"8,568"
+2573,IndiGo,Bangalore,New Delhi,12:05,14:10,02:05,"8,568"
+2574,Go First,Goa,New Delhi,18:00,20:05,02:05,"8,568"
+2575,Go First,Bangalore,New Delhi,00:10,02:20,02:10,"8,568"
+2576,IndiGo,Goa,New Delhi,06:05,08:15,02:10,"8,568"
+2577,IndiGo,Bangalore,New Delhi,08:30,10:40,02:10,"8,568"
+2578,Go First,Goa,New Delhi,08:40,10:50,02:10,"8,568"
+2579,IndiGo,Bangalore,New Delhi,10:10,12:20,02:10,"8,568"
+2580,IndiGo,Goa,New Delhi,18:35,20:45,02:10,"8,568"
+2581,IndiGo,Bangalore,New Delhi,19:30,21:40,02:10,"8,568"
+2582,IndiGo,Goa,New Delhi,23:30,"01:40
+ ",02:10,"8,568"
+2583,SpiceJet,Bangalore,New Delhi,07:20,09:35,02:15,"8,568"
+2584,IndiGo,Goa,New Delhi,07:45,10:00,02:15,"8,568"
+2585,IndiGo,Bangalore,New Delhi,15:55,18:10,02:15,"8,568"
+2586,Go First,Goa,New Delhi,16:45,19:00,02:15,"8,568"
+2587,IndiGo,Bangalore,New Delhi,17:10,19:25,02:15,"8,568"
+2588,Go First,Goa,New Delhi,21:20,23:35,02:15,"8,568"
+2589,SpiceJet,Bangalore,New Delhi,16:00,18:20,02:20,"8,568"
+2590,IndiGo,Goa,New Delhi,20:35,22:55,02:20,"8,568"
+2591,Go First,Bangalore,New Delhi,22:30,"00:50
+ ",02:20,"8,568"
+2592,SpiceJet,Goa,New Delhi,19:35,22:00,02:25,"8,568"
+2593,Go First,Bangalore,New Delhi,10:50,16:20,05:30,"8,568"
+2594,SpiceJet,Goa,New Delhi,05:50,13:10,07:20,"8,568"
+2595,Go First,Bangalore,New Delhi,04:30,13:10,08:40,"8,568"
+2596,Go First,Goa,New Delhi,10:50,20:15,09:25,"8,568"
+2597,SpiceJet,Bangalore,New Delhi,19:35,"08:55
+ ",13:20,"8,568"
+2598,SpiceJet,Goa,New Delhi,16:55,"10:15
+ ",17:20,"8,568"
+2599,SpiceJet,Bangalore,New Delhi,16:45,"13:10
+ ",20:25,"8,568"
+2600,Vistara,Goa,New Delhi,22:35,"08:20
+ ",09:45,"8,702"
+2601,Vistara,Bangalore,New Delhi,22:35,"10:25
+ ",11:50,"8,702"
+2602,Vistara,Goa,New Delhi,06:35,22:10,15:35,"8,702"
+2603,Vistara,Bangalore,New Delhi,22:35,"22:10
+ ",23:35,"8,702"
+2604,Vistara,Goa,New Delhi,06:35,"08:20
+ ",01:45,"8,702"
+2605,Air India,Bangalore,New Delhi,07:00,09:05,02:05,"8,778"
+2606,Air India,Goa,New Delhi,18:00,20:10,02:10,"8,778"
+2607,Air India,Bangalore,New Delhi,08:00,10:15,02:15,"8,778"
+2608,Air India,Goa,New Delhi,13:00,15:15,02:15,"8,778"
+2609,Air India,Bangalore,New Delhi,19:00,21:15,02:15,"8,778"
+2610,Air India,Goa,New Delhi,10:00,12:20,02:20,"8,778"
+2611,Air India,Bangalore,New Delhi,16:00,18:20,02:20,"8,778"
+2612,Air India,Goa,New Delhi,15:25,19:10,03:45,"8,778"
+2613,Air India,Bangalore,New Delhi,07:20,11:10,03:50,"8,778"
+2614,IndiGo,Goa,New Delhi,16:55,20:55,04:00,"8,883"
+2615,IndiGo,Bangalore,New Delhi,18:55,23:15,04:20,"8,883"
+2616,IndiGo,Goa,New Delhi,17:20,21:55,04:35,"8,883"
+2617,IndiGo,Bangalore,New Delhi,17:45,22:40,04:55,"8,883"
+2618,IndiGo,Goa,New Delhi,00:35,05:50,05:15,"8,883"
+2619,IndiGo,Bangalore,New Delhi,09:40,15:10,05:30,"8,883"
+2620,IndiGo,Goa,New Delhi,17:20,23:25,06:05,"8,883"
+2621,IndiGo,Bangalore,New Delhi,15:00,21:15,06:15,"8,883"
+2622,IndiGo,Goa,New Delhi,16:55,23:15,06:20,"8,883"
+2623,IndiGo,Bangalore,New Delhi,07:15,13:45,06:30,"8,883"
+2624,IndiGo,Goa,New Delhi,18:15,"01:00
+ ",06:45,"8,883"
+2625,IndiGo,Bangalore,New Delhi,00:35,07:30,06:55,"8,883"
+2626,IndiGo,Goa,New Delhi,12:40,19:40,07:00,"8,883"
+2627,IndiGo,Hyderabad,New Delhi,08:00,15:20,07:20,"8,883"
+2628,IndiGo,Goa,New Delhi,09:40,17:05,07:25,"8,883"
+2629,IndiGo,Hyderabad,New Delhi,12:40,20:55,08:15,"8,883"
+2630,IndiGo,Goa,New Delhi,21:30,"05:50
+ ",08:20,"8,883"
+2631,IndiGo,Hyderabad,New Delhi,22:55,"07:40
+ ",08:45,"8,883"
+2632,IndiGo,Goa,New Delhi,00:35,09:25,08:50,"8,883"
+2633,IndiGo,Hyderabad,New Delhi,15:00,"00:05
+ ",09:05,"8,883"
+2634,IndiGo,Goa,New Delhi,07:50,17:15,09:25,"8,883"
+2635,IndiGo,Hyderabad,New Delhi,12:30,21:55,09:25,"8,883"
+2636,IndiGo,Goa,New Delhi,21:30,"07:30
+ ",10:00,"8,883"
+2637,IndiGo,Hyderabad,New Delhi,12:40,23:15,10:35,"8,883"
+2638,IndiGo,Goa,New Delhi,06:25,17:15,10:50,"8,883"
+2639,IndiGo,Hyderabad,New Delhi,18:55,"05:50
+ ",10:55,"8,883"
+2640,Vistara,Goa,New Delhi,06:35,10:25,03:50,"9,020"
+2641,Vistara,Hyderabad,New Delhi,20:00,"08:20
+ ",12:20,"9,020"
+2642,Vistara,Goa,New Delhi,20:00,"10:25
+ ",14:25,"9,020"
+2643,Vistara,Hyderabad,New Delhi,20:00,"22:10
+ ",02:10,"9,020"
+2644,Air Asia,Goa,New Delhi,19:45,21:45,02:00,"9,124"
+2645,Air Asia,Hyderabad,New Delhi,07:20,09:30,02:10,"9,124"
+2646,IndiGo,Goa,New Delhi,14:35,16:35,02:00,"9,408"
+2647,Air Asia,Hyderabad,New Delhi,07:50,19:55,12:05,"10,248"
+2648,IndiGo,Goa,New Delhi,12:40,17:15,04:35,"10,589"
+2649,Air Asia,Hyderabad,New Delhi,21:20,"03:20
+ ",06:00,"11,161"
+2650,Air India,Goa,New Delhi,05:45,15:55,10:10,"11,895"
+2651,IndiGo,Hyderabad,New Delhi,09:25,18:05,08:40,"12,401"
+2652,Vistara,Goa,New Delhi,14:40,16:55,02:15,"12,453"
+2653,SpiceJet,Hyderabad,New Delhi,15:15,"10:25
+ ",19:10,"12,717"
+2654,Vistara,Goa,New Delhi,12:45,21:35,08:50,"13,396"
+2655,Vistara,Hyderabad,New Delhi,12:45,"09:35
+ ",20:50,"13,396"
+2656,SpiceJet,Goa,New Delhi,15:35,21:00,05:25,"14,045"
+2657,SpiceJet,Hyderabad,New Delhi,11:15,21:00,09:45,"14,045"
+2658,Vistara,Goa,New Delhi,19:20,"19:55
+ ",00:35,"14,129"
+2659,Vistara,Hyderabad,New Delhi,19:20,"22:45
+ ",03:25,"14,129"
+2660,Air India,Goa,New Delhi,16:35,"17:20
+ ",00:45,"14,205"
+2661,Air India,Hyderabad,New Delhi,20:10,"08:55
+ ",12:45,"14,343"
+2662,Air India,Goa,New Delhi,20:10,"12:20
+ ",16:10,"14,343"
+2663,Vistara,Hyderabad,New Delhi,19:20,"09:00
+ ",13:40,"14,446"
+2664,Vistara,Goa,New Delhi,19:20,"15:35
+ ",20:15,"14,446"
+2665,Vistara,Hyderabad,New Delhi,06:20,"09:00
+ ",02:40,"14,446"
+2666,Vistara,Goa,New Delhi,12:10,16:20,04:10,"14,728"
+2667,Air India,Hyderabad,New Delhi,09:50,"09:25
+ ",23:35,"14,828"
+2668,Vistara,Goa,New Delhi,06:20,12:30,06:10,"14,866"
+2669,Vistara,Hyderabad,New Delhi,19:20,"12:30
+ ",17:10,"14,866"
+2670,SpiceJet,Goa,New Delhi,14:25,23:30,09:05,"15,095"
+2671,Air India,Hyderabad,New Delhi,05:05,"03:55
+ ",22:50,"15,183"
+2672,Air India,Goa,New Delhi,21:00,"03:55
+ ",06:55,"15,393"
+2673,Air India,Hyderabad,New Delhi,21:00,"16:45
+ ",19:45,"15,393"
+2674,Vistara,Goa,New Delhi,17:00,"19:50
+ ",02:50,"15,548"
+2675,Air India,Hyderabad,New Delhi,05:55,"00:15
+ ",18:20,"15,563"
+2676,Vistara,Goa,New Delhi,11:55,14:05,02:10,"15,708"
+2677,Vistara,Hyderabad,New Delhi,15:45,18:05,02:20,"15,708"
+2678,Vistara,Goa,New Delhi,17:00,"16:30
+ ",23:30,"15,866"
+2679,Vistara,Hyderabad,New Delhi,06:20,15:35,09:15,"15,916"
+2680,Vistara,Goa,New Delhi,06:20,22:45,16:25,"15,916"
+2681,Air India,Hyderabad,New Delhi,13:25,"03:55
+ ",14:30,"15,918"
+2682,Air India,Goa,New Delhi,13:25,"16:45
+ ",03:20,"15,918"
+2683,Vistara,Hyderabad,New Delhi,05:30,19:50,14:20,"16,443"
+2684,Go First,Goa,New Delhi,15:40,"00:15
+ ",08:35,"16,569"
+2685,Air India,Hyderabad,New Delhi,06:00,20:55,14:55,"16,579"
+2686,Vistara,Goa,New Delhi,17:00,"09:00
+ ",16:00,"16,653"
+2687,SpiceJet,Hyderabad,New Delhi,07:05,13:20,06:15,"16,672"
+2688,SpiceJet,Goa,New Delhi,07:05,13:35,06:30,"16,672"
+2689,Vistara,Hyderabad,New Delhi,06:30,"00:40
+ ",18:10,"16,756"
+2690,Air India,Goa,New Delhi,05:05,16:45,11:40,"16,863"
+2691,SpiceJet,Hyderabad,New Delhi,06:35,18:25,11:50,"16,940"
+2692,Air India,Goa,New Delhi,12:05,23:40,11:35,"16,968"
+2693,Go First,Hyderabad,New Delhi,05:00,14:40,09:40,"17,053"
+2694,Vistara,Goa,New Delhi,06:20,19:55,13:35,"17,176"
+2695,SpiceJet,Hyderabad,New Delhi,12:10,18:25,06:15,"17,192"
+2696,Vistara,Goa,New Delhi,19:10,"22:25
+ ",03:15,"17,386"
+2697,SpiceJet,Hyderabad,New Delhi,11:15,17:45,06:30,"17,457"
+2698,Air India,Goa,New Delhi,21:05,"09:15
+ ",12:10,"17,598"
+2699,Air India,Hyderabad,New Delhi,21:05,"13:00
+ ",15:55,"17,598"
